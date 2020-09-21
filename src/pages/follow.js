@@ -28,7 +28,7 @@ const FollowPage = props => {
               <header>
                 <Headline title="Follow" theme={theme} />
               </header>
-              <p>Hear about new posts by either RSS or Email.</p>
+              <p>Hear about new posts by RSS.</p>
 
               <a href="../rss.xml" target="_blank">
                 <section className="subContainer">
@@ -37,12 +37,12 @@ const FollowPage = props => {
                 </section>
               </a>
 
-              <a href={emailSubLink} target="_blank">
+              {/* <a href={emailSubLink} target="_blank">
                 <section className="subContainer">
                   <span className="subIcon"><FaPaperPlane/></span>
                   <span className="subText">Email</span>
                 </section>
-              </a>
+              </a> */}
 
               <style jsx>{`
                 p {
