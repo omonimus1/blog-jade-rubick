@@ -1,4 +1,5 @@
 # Redirect alternative domains to primary domain
+http://www.rubick.com/blog/agilereleasemanagement http://www.rubick.com/managing-features-and-releases-without-a-developer-in-the-room/ 301!
 # https://blog.baobab.fi/* https://www.attejuvonen.fi/:splat 301!
 # https://attejuvonen.fi/* https://www.attejuvonen.fi/:splat 301!
 # https://blog-of-baobab.netlify.com/* https://www.attejuvonen.fi/:splat 301!
