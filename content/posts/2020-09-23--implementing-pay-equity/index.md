@@ -51,7 +51,7 @@ Q3: Define a promotion process and evaluate people periodically.
 2. Just make sure you promote people into the next band each time. 
 3. One complication you may find is that some people are paid so well with the old screwed up system that they wouldn’t get a salary bump at all. I’ve usually resolved that by giving them a much smaller salary bump, but still giving them something. Generally, there is enough of a mess in your salary tables that your goal should be to make it equitable as quickly as you can, over time, and for all new people. 
 
-I’ve run into a few obstacles and issues implementing pay equity:  \
+I’ve run into a few obstacles and issues implementing pay equity:  
 
 
 **Pay equity ties your hands for negotiation during hiring**. Candidates don’t expect a system like this. They will try to negotiate salary. The way to work around that is to be really upfront with people about the hiring process and how pay works at your company. At Gremlin we’ve put it in our candidate packet, so people know about it during the hiring process (this can also be a chance to explain what’s great about your company, and the philosophy behind these choices). People are often relieved or impressed when they find that they don’t have to worry about being paid fairly. 
