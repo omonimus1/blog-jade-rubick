@@ -60,9 +60,10 @@ If poorly implemented, this can be a nightmare. For example:
 # TODO: release this code in the Summer release
 if { 0 } {
     do::something
+}
 ```
 
-`}`is a particularly bad example of embedding the logic in the program.
+is a particularly bad example of embedding the logic in the program.
 
 
 However, if managed with discipline, this method can work well. For example, the logic for releases can be all managed in one location, and release checks can look like this:
