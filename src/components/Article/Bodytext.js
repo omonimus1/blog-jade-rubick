@@ -62,11 +62,11 @@ const Bodytext = props => {
             list-style: circle;
             margin: 0 0 1.5em;
             padding: 0 0 0 1.5em;
+            list-style-type: square;
           }
           :global(li) {
-            margin: 0.7em 0;
+            margin: 0.7em 2em;
             font-size: ${theme.font.size.s};
-            list-style-type: square;
           }
           :global(a) {
             font-weight: ${theme.font.weight.bold};
