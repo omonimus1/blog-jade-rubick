@@ -70,5 +70,6 @@ A better approach is to use your rejected offers as a signal. If you start seein
 
 **Your organizational politics matter**. You’ll need to work closely with People Operations / HR to implement these practices. You may find they’re enthusiastic supporters of it, or they may be reluctant. Ideally this is done throughout the company, but if you don’t have strong enough support to do so, don’t let that stop you.
 
+If you have experience implementing pay equity, please [reach out to me](/contact), as I'm interested in networking with other individuals who have experience with it. I'm also available to [help organizations that want to make these changes](/about), as an advisor.
 
 _Image credit: [Workandpix](https://pixabay.com/users/wokandapix-614097/)_
