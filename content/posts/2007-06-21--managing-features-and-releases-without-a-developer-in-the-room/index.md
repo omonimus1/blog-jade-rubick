@@ -5,8 +5,6 @@ cover: photo-1456518563096-0ff5ee08204e.jpg
 author: Jade Rubick
 ---
 
-# Managing Features and Releases without a Developer in the Room
-
 **Introduction**
 
 One of the primary advantages of web applications over conventional applications is that the process of rolling out functionality to the user is simplified. The software is transparent to  the user -- they do not have to run an installer or update their software. Once the server is updated, then the change is reflected immediately. Web applications allow a developer to quickly apply important bug fixes, and given them the ability to change things at any point, instead of with a monolithic release.
