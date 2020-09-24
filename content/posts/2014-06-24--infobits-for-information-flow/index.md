@@ -78,3 +78,6 @@ My experience was that there were three surprises:
 * Surprise #1: I started receiving thank you notes. Lots of little email responses like this: “I like these write-ups. This is a good model to use. I definitely appreciate these!”
 * Surprise #2: Suddenly everyone seemed to think I and my team were doing better work than we had been doing previously.
 * Surprise #3: Infobits also help build important business relationships. People really appreciate it when you are helping them to do their job better.
+
+
+Thanks to @Lariar on Twitter for archiving this content so I could repost it. This was originally hosted on [Kate Matsudaira's](https://www.linkedin.com/in/katemats/) popforms. Also thank you to [Bjorn Freeman-Benson](https://www.linkedin.com/in/bjornfreemanbenson/), who taught me many of the techniques in this blog post.
