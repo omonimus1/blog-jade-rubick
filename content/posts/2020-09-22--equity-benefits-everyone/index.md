@@ -1,6 +1,6 @@
 ---
 title: Equity benefits everyone
-tags: ["diversity, equity, and inclusion", "company culture"]
+tags: ["diversity-equity-and-inclusion", "company-culture"]
 cover: equity.jpg
 author: Jade Rubick
 ---
