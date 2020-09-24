@@ -17,7 +17,7 @@ I’m assuming that you are the head of engineering, or someone in engineering w
 
 Here’s my list of what I’ve seen that works for improving DE&I:
 
-1. Implementing pay equity
+1. [Implementing pay equity](/implementing-pay-equity)
 2. Implementing bias checks in your promotion process
 3. Provide a rationale for not promoting
 4. One OKR per quarter
