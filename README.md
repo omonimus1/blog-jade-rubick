@@ -1,6 +1,6 @@
 # Blog
 
-Have a peek »»» [https://www.attejuvonen.fi](https://www.attejuvonen.fi)
+My blog is located at [https://www.rubick.com](https://www.rubick.com). 
 
 ## Features
 
