@@ -4,7 +4,7 @@ import theme from "../theme/theme.yaml";
 import Article from "../components/Article";
 import Headline from "../components/Article/Headline";
 import Seo from "../components/Seo";
-import { FaTag , FaRss , FaPaperPlane } from "react-icons/fa";
+import { FaTag , FaRss , FaPaperPlane, FaTwitter } from "react-icons/fa";
 import config from "../../content/meta/config";
 
 const FollowPage = props => {
@@ -28,12 +28,18 @@ const FollowPage = props => {
               <header>
                 <Headline title="Follow" theme={theme} />
               </header>
-              <p>Hear about new posts by RSS.</p>
-
+              <p>Hear about new posts by RSS or Twitter.</p>
               <a href="../rss.xml" target="_blank">
                 <section className="subContainer">
                     <span className="subIcon"><FaRss/></span>
                     <span className="subText">RSS</span>
+                </section>
+              </a>
+
+              <a href="https://twitter.com/JadeRubick" target="_blank">
+                <section className="subContainer">
+                    <span className="subIcon"><FaTwitter/></span>
+                    <span className="subText">Twitter</span>
                 </section>
               </a>
 
