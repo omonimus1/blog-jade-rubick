@@ -26,5 +26,4 @@ Here’s my list of what I’ve seen that works for improving DE&I:
 I’ll be writing posts on each of these in turn. 
 
 
-
 _Image credit: [Mike Lawrence](https://www.flickr.com/photos/157270154@N05/38470246986/in/photolist-21Bu59s-5JXmXU-4yteqL-M64hnU-aTwT5p-qWVeJB-4ENFAf-2c42pT-89arbM-2gvDE1D-X6faQ9-2iJy6EC-KjHNZ2-9ypUSk-9uWhEu-GFxx12-8Zyfi9-9iax5p-2gKmdqa-abkiF-n5upB-2hgrHfK-2gHrAMC-3hJEN-6vBa7e-f74aNT-7x7sgx-8NEDtn-2cNHhqF-2f4Wa2r-2hgufW7-2g9g2F6-48Uq82-5FKUZg-bnFPLK-5mSD7V-7LzzgB-QEWVU-K6cjEh-25RrorP-aUmjR-6vrQh6-cekdhG-77E1md-jPNYy-jPNXH-2jAPwFz-cpYwHb-2gHqQir-cAr9cm)_
