@@ -5,6 +5,8 @@ cover: equity-2.jpg
 author: Jade Rubick
 ---
 
+<re-img src="equity-2.jpg"></re-img>
+
 A friend of mine became the first woman VP of Engineering in a mid-sized startup. She was hiring a Director of Engineering in her organization. When she asked HR for guidance on what to pay him, she was horrified to learn that the standard rate for a Director 1 (3 levels below her) was above what she was getting paid as a VP of Engineering.
 
 Imagine how she felt about the company after that. Almost every woman or person of color I’ve talked with has shared similar stories. 

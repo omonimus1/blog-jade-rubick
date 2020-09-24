@@ -5,6 +5,8 @@ cover: equity.jpg
 author: Jade Rubick
 ---
 
+<re-img src="equity.jpg"></re-img>
+
 I once heard a story about a washing machine company that decided to make a washing machine for elderly people. They thought long and hard about all the things an elderly person would want in a washing machine: big dials that were easy to turn, easy to read controls and indicators that you could read in a dim room even if your sight wasn’t that great. So they shipped this thing into the market, and to their surprise, it was incredibly successful across all sorts of demographics. Why? It turns out everyone wants those things: easy to read dials, great controls. Designing for the elderly benefited everyone.
 
 Similarly, **under-represented minorities (URMs) are the best leading indicator of the quality of your company’s culture**. They are the canary in the coal mine -- able to give you insight into what sucks about your company. If you make things better for URMs, you almost always also make it better for _everyone_, because you’re making a work environment where everyone can thrive. 
