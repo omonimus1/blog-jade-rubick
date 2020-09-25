@@ -47,6 +47,6 @@ What are the things you need as the organization grows?
 
 You can think of growing an engineering organization as almost a mathemtical exercise, where you see growth in complexity in what you build and who you hire, and you reduce complexity with all the activities you take to streamline things. 
 
-A warning: one way of reading the Innovator's Dilemna is that complexity almost always wins. So you have to build your organizations very, very carefully.
+A warning: one way of reading the Innovator's Dilemna is that the company with the most complexity almost always loses. So you have to build your organizations very, very carefully.
 
 _Photo by <a href="https://freeimages.com/photographer/gnmills-58346">Gavin Mills</a> from <a href="https://freeimages.com/">FreeImages</a>_
