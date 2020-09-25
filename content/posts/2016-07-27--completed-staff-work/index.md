@@ -22,7 +22,7 @@ New Relic had a couple of engineers located in a coworking space in a city in Eu
 
 I composed an email to my manager that read something like this:
 
-_We’ve located a larger location. Their current office is cramped and has no window. The new office has a window, and enough room to fit 3 or 4 desks. The team looked at it and said it was perfect for their needs.  _
+_We’ve located a larger location. Their current office is cramped and has no window. The new office has a window, and enough room to fit 3 or 4 desks. The team looked at it and said it was perfect for their needs._
 
 _If you approve, reply to this email with approval for the additional monthly expenditure of $X a month._
 
@@ -37,7 +37,7 @@ My work was not complete, because my manager still had questions:
 * Will we need more room to grow in this office? What are our future plans there?
 * How does this space compare to other coworking spaces we’re using? How much space do they have now, and what would help them to do their best work?
 
-What typically happens with _<span style="text-decoration:underline;">Incomplete</span>_ Staff Work is the _Great Going Back and Forth_: Lots of questions flying around, lots of time spent figuring things out. If there are multiple levels of approval, Incomplete Staff Work can be incredibly tiresome.
+What typically happens with _Incomplete_ Staff Work is the _Great Going Back and Forth_: Lots of questions flying around, lots of time spent figuring things out. If there are multiple levels of approval, Incomplete Staff Work can be incredibly tiresome.
 
 A couple of takeaways:
 
@@ -49,6 +49,20 @@ A couple of takeaways:
 Completed Staff Work is when you present your plan to a decision-maker, and they can just give it a thumbs up to approve it. If they say, “sounds great, do it!” then it’s Completed Staff Work.
 
 One way of thinking about Completed Staff Work is this: Are you providing your best recommendation? Is it something you would stake your professional reputation on? If it isn’t, then it’s not Completed Staff Work.
+
+So to take the earlier example, a better example of completed staff work would read something like this:
+
+_I've looked into the alternate location for the London engineering team, and recommend that we go with a larger location the head or real estate located. Here's some context for the the recommendation._
+
+_If you approve, reply to this email with approval for the additional monthly expenditure of $X a month. And let me know if you have concerns or questions._
+
+_The current London engineering location is half the square footage per person that our real estate person recommends. It doesn't meet our standards for coworking facilities, and is the least square footage per person of all of our facilities around the world. He recommends we either go with the new coworking facility, which is cost-effective for that area and size, or have them move into the London office with the rest of the sales team. I explored having the engineering team be part of the London office, but it's over an hour away from their homes. I've discussed it with them and we agreed to do a two week trial -- that trial just ended and they felt it was untenable to commute that distance._
+
+_The new location I'm recommending is a little larger than our current plans for the team. We're not planning to add more people to the London engineering team over the next year. But this does preserve some optionality in case we change our mind, and other places in the area were more expensive for less square footage. The team members are critical to the success of our XYZ product, and as you know the team has been vocally unhappy with the current location. I believe this is directly tied to their  productivity and retention._
+
+_The expenditure is still well within normal range for other coworking facilities, so I recommend we use it and move the team as soon as possible._
+
+See how different that is? I've thought of all the things my manager may care about. I really own the problem, and have thought about it from a company-wide perspective. No back and forth is necessary.
 
 ## Completed Staff Work flattens hierarchy
 
