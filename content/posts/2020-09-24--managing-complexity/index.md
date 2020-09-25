@@ -17,7 +17,7 @@ The purpose of this is to get a virtuous cycle going, so that your work gets eas
 
 The challenge with growing startups is that this process is at odds with the exploding complexity of the software and organization you're building. The increasing complexity conspires to gunk up the wheels and slow you down. 
 
-What are the problems of comlexity?
+What are the problems of complexity?
 * More and more decision-makers. More effort to even understand how decisions are made.
 * A larger and more complex codebase to navigate
 * More teams to understand what they do
