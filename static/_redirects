@@ -1,3 +1,4 @@
 # Redirect alternative domains to primary domain
 https://rubick.com/* https://www.rubick.com/:splat 301!
 /agilereleasemanagement /managing-features-and-releases-without-a-developer-in-the-room/ 301!
+/blog / 301!
