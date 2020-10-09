@@ -29,7 +29,7 @@ I'm not sure how well it would work in an international context, where tacos may
 
 <re-img src="fellow-logo.png"></re-img>
 
-[Fellow](fellow.app) is a wonderful tool for more effective meetings. It's like linking in a Google Doc for every meeting, but has all the right chrome around it to make a nice workflow for meeting planning and notetaking. It integrates nicely with Google Calendar, inserting the agenda into the calendar invite. And everyone gets clear action items and notes, all taken collaboratively. It's very nicely done, and a tool I wish was at more companies -- I highly recommend it. 
+[Fellow](https://fellow.app) is a wonderful tool for more effective meetings. It's like linking in a Google Doc for every meeting, but has all the right chrome around it to make a nice workflow for meeting planning and notetaking. It integrates nicely with Google Calendar, inserting the agenda into the calendar invite. And everyone gets clear action items and notes, all taken collaboratively. It's very nicely done, and a tool I wish was at more companies -- I highly recommend it. 
 
 One thing I like about Fellow is that it helps me plan out my week more effectively. I'm able to spend a chunk of time planning multiple meetings without much switch in context. I love it.
 
