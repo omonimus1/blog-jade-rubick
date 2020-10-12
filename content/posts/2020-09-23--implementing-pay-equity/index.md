@@ -37,7 +37,7 @@ Q2: Create standard salaries for each level.
 2. I like having about $10K bumps in salary for every level. This leads to more frequent promotions, which makes the promotions less high-stakes. I’ve seen some evidence from an analysis at a previous company that suggest that high-stakes promotions go more poorly for URMs. Having more frequent promotions can help eliminate that. I’ve also heard so many horror stories from big tech companies that have large jumps between levels that smaller jumps have become something I recommend. 
 3. Review the salary bands until you’re comfortable using them to hire people. 
 4. Decide if you’re going to do geo-adjustment or not, or have differences between different types of engineering roles. I generally think it’s best to minimize these type of adjustments, but there are reasonable arguments to be made on both sides. (This is probably a good topic for a future blog post)
-5. Now do a compensation check, and see if you notice any egregious disparities in people’s salaries. Correct anything you notice, always only by moving people up, not moving people down.
+5. Now do a compensation check, and see if you notice any egregious disparities in people’s salaries. Correct anything you notice, always only by moving people up, not moving people down. Although I have heard of cases where people agreed to a salary reduction, the way I've always done it is to freeze someone at the rate they are at until they get their next promotion. An alternate way to do it is to have a much lower cost of living adjustment rate until they hit the standard pay scale. So for example, they may only get a 2% raise until they are at band. In general, you want to adjust this quickly, not over years, so the simplest way to do it is to freeze raises until they're promoted, or to do a cost of living adjustment that gets everyone below band to the mid-point.
 6. For all future promotions, make the promotion be to the next salary level.
 7. If you’re at a startup, you’ll probably want to think about equity as well. 
     1. This gets complicated really fast, but I recommend working with your finance person and HR person on this. Typically, the earlier you join the company, the more equity you get. So what I’ve done is go through and keep track of what stage of funding each employee came in at. 
@@ -46,8 +46,6 @@ Q2: Create standard salaries for each level.
 
 
 Q3: Define a promotion process and evaluate people periodically.
-
-
 
 1. I’m not going to go into details of how that should work.
 2. Just make sure you promote people into the next band each time. 
