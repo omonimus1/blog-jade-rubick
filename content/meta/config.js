@@ -11,7 +11,7 @@ module.exports = {
   authorName: "Jade Rubick",
   authorTwitterAccount: "@jaderubick",
   authorGithub: "https://github.com/jadeforrest",
-  authorStackoverflow: "https://stackexchttps://stackexchange.com/users/35586/",
+  authorStackoverflow: "https://stackexchange.com/users/35586/",
   authorLinkedin: "https://www.linkedin.com/in/jaderubick/",
 
   /* header text */
