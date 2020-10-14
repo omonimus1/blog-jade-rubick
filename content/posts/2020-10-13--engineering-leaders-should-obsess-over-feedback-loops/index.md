@@ -34,7 +34,7 @@ So, we need to focus on things that speed our feedback loops:
 
 We can do this in our individual actions, as individual contributors and managers. And most importantly for engineering, we must do this in our projects, because it enriches the value of engineering organizations immensely to deliver things in faster, smaller loops.
 
-One of the most common issues I see in engineering organizations is focusing on shipping big projects, where you learn the result of the project at the end. You often miss the mark. Instead, break things into pieces, and focus on validation and learning as often as you can during the course of the project. The results will be far superior.
+One of the most common issues I see in engineering organizations is focusing on shipping big projects, where you learn the result of the project at the end. You often miss the mark. I think focusing on projects as the unit of delivery is fundamentally flawed. Instead, break things into pieces, and focus on validation and learning as often as you can during the course of the project. The results will be far superior.
 
 Part of the reason this is so valuable is that velocity is a vector: it combines movement with a direction. Incremental delivery helps ensure your direction fits your customer needs, so even if it were less efficient to be incremental, the results are almost always better.
 
