@@ -21,7 +21,7 @@ Here's how to do it.
 3. Set up the spreadsheet to show percent of promotions that are URMs, versus non URMs. Add graphs if you want to be fancy!
 4. You can do all sorts of interesting things with this: promotions by level, promotions by tenure at the company, promotions by URM status.
 5. Invite your managers to a promotion review meeting, where the managers in your organization come together and review all the promotion decisions. I usually devote about 3-5 minutes per promotion pitch. 
-6. Invite HR or an outside observer. Ask them to be on the lookout for bias. (This is just an extra practice that helps). 
+6. Invite HR and an observer from outside your organization. Ask them to be on the lookout for bias. (This is just an extra practice that helps). 
 7. During your promotion review meetings, update the spreadsheet in real-time.
 8. Review it during the meeting, and definitely before finalizing the promotions. Ask the review team: what patterns are we seeing in the promotions we’re making? Is there any evidence of bias? What changes might we consider to reduce bias? Have an open discussion about it.
 
