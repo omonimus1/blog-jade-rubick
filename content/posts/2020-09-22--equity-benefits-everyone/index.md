@@ -20,7 +20,7 @@ Here’s my list of what I’ve seen that works for improving DE&I:
 1. [Implementing pay equity](/implementing-pay-equity)
 2. [Implementing bias checks in your promotion process](/implementing-promotion-bias-checks)
 3. Provide a rationale for not promoting
-4. One OKR per quarter
+4. [Use OKRs to drive equity](/use-okrs-to-drive-equity)
 5. Bundled hiring
 
 I’ll be writing posts on each of these in turn. 
