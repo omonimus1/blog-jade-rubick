@@ -13,7 +13,7 @@ _This is part two of a two-part blog post on how software teams can effectively 
 
 Over the years, I’ve copied and developed a set of practices that I’ve started calling “demo-driven development”. I believe it incentivizes the right things to both improve your planning, and take into account the chaos and change in product development. 
 
-Demo-driven development is a practice where you use weekly demos, a standard week-by-week project plan, and value-based user stories to plan the team’s work. You use these to drive meetings that encourage more active tweaking and improvement of the project. 
+Demo-driven development is a practice where you use regular demos, a standard week-by-week project plan, and value-based user stories to plan the team’s work. You use these to drive meetings that encourage more active tweaking and improvement of the project. 
 
 This approach works because you’re thinking backwards from the needs of customers, and focusing the team on the problems to be solved each week. People have an innate need to feel progress, and to connect their work to the value they’re delivering. They love to solve problems instead of checking off tasks. This approach is more aligned with how human beings find satisfaction.
 
@@ -24,32 +24,29 @@ So how do you go about implementing demo-driven development? And what is involve
 
 ### Start with demos
 
-The first thing to do, if you haven’t done it already, is to introduce weekly demos. 
+The first thing to do, if you haven’t done it already, is to introduce weekly or biweekly demos (I'll use weekly during this post, but you can substitute biweekly if that makes more sense for you). You can structure them many different ways, but to start with:
 
-There are a lot of ways to structure these demos, but here is a good place to start:
-
-*   Ask each team to demo their work once a week. Rotate the person doing the demo, and have them demo the work for the team. This helps ensure that everyone gets recognized for the team’s work, and gives engineers practice with the valuable skill of showing their work. 
-*   Synchronous or asynchronous demos. A few years ago, Bjorn Freeman-Benson shared how he had started asking teams to do asynchronous demos at a remote-by-default company. He asked each team to do a two-minute video and post it in a Slack channel. I’ve done this at a couple of places now, and I’ve found it to be an effective way to demo in a remote environment. Slack threads lead to natural points of feedback and cheering on accomplishments. And Slack emoji reactions lead to fun engagement.
+* Have each team demo their work every week. 
+* Rotate the person doing the demo, and have them demo the work for the team. This helps ensure that everyone gets recognized for the team’s work, and gives engineers practice with the valuable skill of showing their work. 
+* The demos can be done in a meeting, or asynchronously recorded and posted in a room in Slack. If you do it asynchronously, copy what I learned from Bjorn Freeman-Benson: ask each team to do a two-minute video. Suggest to people that they ask questions in Slack threads, and use Slack react emoji to cheer on accomplishments. 
 
 Be prepared to tweak the format until it feels good for the people involved. 
 
-
 ### What are we going to demo this Friday?
 
-The next step, once you have demos in place, is to kick off each week with a goal. The engineering manager and product manager should meet before the weekly kick-off meeting, and have a clear idea of what the goal for the next week or two is.
+The next step, once you have demos in place, is to kick off each week with a goal. The engineering manager and product manager should meet before the sprint kick-off meeting, and have a clear idea of what the goal for the next week or two is.
 
 The product manager gives some context on where we’re going over the next couple of weeks, and reminds the team of what the value and tradeoffs are in the upcoming work.
 
-Then the engineering manager says, “**what should we demo on Friday?**”
+Then the engineering manager says, “**what should we demo on Friday?**”.
 
-The EM and PM should have prepared any bugs or usability issues that need to be addressed that week. They might briefly show the top couple of items they think might be worth considering for the week. But the main focus for the team is to talk through the demo plans.
+The EM and PM should have prepared any bugs or usability issues that need to be addressed that week. They should have a clear idea of what they would like to accomplish during the period. So they briefly show the top couple of items they think might be worth considering for the week. But the main focus for the team is to talk through the demo plans -- what is realistic, and what the demo should look like. 
 
-This is an immensely clarifying question. It forces the team to think through the week, and the goal they’re working towards, and think of the concrete outcome they are moving towards. Instead of a bunch of tasks, you’re working towards something, and something meaningful and valuable. 
+This is an immensely clarifying question. It forces the team to think through the week, the goal they’re working towards, and the concrete outcome they are moving towards. Instead of a bunch of tasks, they’re working towards something, and something meaningful and valuable. 
 
 It’s important for this not to be a commitment, but a reasonable guess. Asking for certainty in a complex environment is asking for hedging, and can backfire. Product development is  uncertain, and it has to be safe for teams to miss their goals, as long as they do the work to understand why they missed them. Otherwise, they estimate overly conservatively and act defensive, instead of learning to be more effective. 
 
 The team spends the rest of the time in the weekly kickoff meeting talking about how they’ll get this goal accomplished, and break down the high level demo goal into the technical work that needs to happen that week. They talk through how they’ll coordinate their work together, and any decisions or problems they might need to address. Collaboration!
-
 
 ### Move the team to using user stories
 
@@ -73,7 +70,6 @@ In a Gantt-aholic kickoff meeting, usually the focus is on the tasks and the poi
 
 Instead, focus the meeting on the goal you want to accomplish, and use your tooling to record things at the level of impact to your customers: user stories. 
 
-
 ### Create project plans
 
 After you have user stories in place, the next step is to improve your planning. The way I like to do this is to have a week by week schedule which is just a list of a couple of things you think you would demo that week. You should also list risks or interesting things that might happen that week, like someone being out of the office, or someone needing to help onboard the new person on the team. 
@@ -96,7 +92,6 @@ The theme for both project plans and technical plans should be: “use the peopl
 
 There is an interplay between these plans. The technical plan surfaces technical tradeoffs and choices. The project plan sequences the work and breaks it down into increments.
 
-
 ### Project execution meetings
 
 The project plans can then feed into project execution meetings. The aim of these meetings is for project managers (usually the engineering managers) to help each other problem-solve their projects together, and critique each other’s project plans. And to talk through how execution is going on projects and what can be improved in the organization to make projects work better.
@@ -108,7 +103,6 @@ It’s important for these meetings to be safe places to talk through problems, 
 Similarly, you can use technical leadership meetings to offer a similar type of critique for technical plans. Your technical leaders can come together and share anything interesting about the technical tradeoffs they’re making. 
 
 These meetings can be extraordinarily impactful. One of the most common causes of project failure is projects that take too many ambitious bets at the same time. And many of the challenges of engineering organizations result from technical decisions made in previous years. Having a group that can set technical standards will prevent painful migration projects from blossoming. And creating a culture of discussing the long-term implications of choices can avoid lots of pain in future years. 
-
 
 ### Conclusion
 
