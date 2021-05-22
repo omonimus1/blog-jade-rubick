@@ -22,11 +22,13 @@ One way out of this conundrum is to align the needs of your employees with the n
 
 ### Holiday Focus Days
 
-Many companies have adopted “unlimited time off” as a way to give their employees flexibility with their vacation schedules (and to [incur financial benefits](https://www.brex.com/blog/unlimited-pto/)). By forbidding collaboration and meetings during these times, you make it easier to actually take off the days they care about. 
+With Holiday Focus Days, you have a set of days each year that are specially laid aside, not as time off, but as Holiday Focus Days.
 
-For people that work during those days, they aren’t able to be in meetings, so they can use the time for focused work. That’s beneficial to the company because it not only offers some time for deep work, but it also provides a contrast to the daily way of operating, helping team members notice differences in the way they work and driving innovation in your work practices.
+Many companies have adopted “unlimited time off” as a way to give their employees flexibility with their vacation schedules (and to [incur financial benefits](https://www.brex.com/blog/unlimited-pto/)). By forbidding collaboration and meetings during Holiday Focus Days, you make it easier to actually take off the days they care about. 
 
-For people that want to take those days, this gives them an easy way to do so. It makes it less of a burden for people from backgrounds that might want to take these holidays to do so (always be on the lookout for situations that increase the burden for the non-”dominant” culture at work). I can’t emphasize enough how meaningful this can be for people from other backgrounds -- their entire work experience has been workplaces ignoring their needs. When you make it easy for them to take their important holidays, that is very significant!
+For people that work during Focus Days, they aren’t able to be in meetings, so they can use the time for focused work. That’s beneficial to the company because it not only offers some time for deep work, but it also provides a contrast to the daily way of operating, helping team members notice differences in the way they work and driving innovation in your work practices.
+
+For people that want to take a Focus Day off, this gives them an easy way to do so. It makes it less of a burden for people from backgrounds that might want to take these holidays to do so (always be on the lookout for situations that increase the burden for the non-”dominant” culture at work). I can’t emphasize enough how meaningful this can be for people from other backgrounds -- their entire work experience has been workplaces ignoring their needs. When you make it easy for them to take their important holidays, that is very significant!
 
 
 ### How to implement Holiday Focus Days
