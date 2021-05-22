@@ -31,7 +31,7 @@ For people that want to take those days, this gives them an easy way to do so. I
 
 ### How to implement Holiday Focus Days
 
-Here’s how to implement this: \
+Here’s how to implement this:
 
 *   Decide what the parameters of the Holiday Focus Days are. You can make them pure focus days, where people are encouraged to focus on deep work and minimize collaboration between each other except by asynchronous means. Or you can just make it a typical “no-meeting day”.
 *   Make a list of holidays you’d like to take off. You can be pretty liberal about it, since the days you’re adding are likely to be beneficial to the company. So make it a good list, and make sure there are at least a couple of days per month.
