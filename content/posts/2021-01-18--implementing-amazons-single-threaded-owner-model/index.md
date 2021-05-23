@@ -1,5 +1,5 @@
 ---
-title: Implementing Amazons single threaded owner model a retrospective
+title: Implementing Amazon's single threaded owner model a retrospective
 tags: ["org-design", "delivery"]
 cover: thread.jpg
 author: Jade Rubick
