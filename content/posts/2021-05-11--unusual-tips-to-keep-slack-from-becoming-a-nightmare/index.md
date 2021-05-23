@@ -79,7 +79,7 @@ The **pattern to apply here is a rotating position** to field these questions. N
 
 The person in this role is doing interrupt driven work, so that should be their main focus. They can do any other interrupt driven or small work as well, and try to help keep their team focused. At New Relic, we called this role the Support Hero, and they were also the person that was on call for that team. 
 
-A **second pattern is to strongly discourage @here and @channel usage**. If it were possible, I’d recommend disabling @here and @channel from Slack, and turning off the notification sounds for everyone. I don’t believe that’s possible, so instead you can use emoji reactions and cultural reinforcement to make using these more rare. Make it part of your onboarding!
+A **second pattern is to discourage or disable @here and @channel usage**. Turn off @here and @channel and @everyone usage in large rooms ([here's how](https://slack.com/help/articles/115004855143-Manage-who-can-notify-a-channel-or-workspace)). If you don't have the ability to do this yourself, you can introduce use emoji reactions and cultural reinforcement to make using these more rare. Make it part of your onboarding!
 
 
 ### Rule: the more people in a room, the more structured the room should be
@@ -104,5 +104,7 @@ A couple of patterns that fall out of this:
 
 Let me know if you find these tips useful!
 
+
+Thanks to [Chris McCraw](https://www.linkedin.com/in/chrismccraw/) for pointing out you can disable @here and @everyone usage. 
 
 _Image by <a href="https://pixabay.com/users/kellepics-4893063/">Stefan Keller</a> from <a href="https://pixabay.com/">Pixabay</a>_
