@@ -44,9 +44,15 @@ Here’s how to implement this:
 *   Also be sure to communicate that you’re doing this to make it easy to take those days off. This helps people from the backgrounds that would want to take those days know that it’s being done to honor their backgrounds. 
 *   You can also use the occasion to help educate people on the various holidays as they come up. Posting a link to an article a few weeks ahead of time is another way to honor the diversity of your team, and help people understand the significance of days like Juneteenth or Trans visibility day.
 
+### Some additional considerations
+
+*   You might not have control over the whole company, but you can also implement this within your team or organization. 
+*   One thing to be sensitive to is that this can create tiers of cultural support if you're not careful. Being on the list of approved holidays becomes a sign of whether the company is supportive of a group or not. The most ideal situation I can imagine is doing this within a larger strategy of moving a company to being fully asynchronous. Then, the bar for adding new holidays would be very low. Otherwise, you might want to just be really clear on what your approach is for adding new holidays. If you have one employee, is that enough? Define these things ahead of time, and communicate them so people know what the criteria are.
 
 ### Let me know your experiences
 
 This hasn’t been very widely adopted, so if you adopt it at your company, you’re going to be doing something new and innovative. Share your experiences with me on [Twitter (on this thread)](https://twitter.com/JadeRubick/status/1396878203654864901) or [LinkedIn (on this thread)](https://www.linkedin.com/posts/jaderubick_jade-rubick-use-holiday-focus-days-to-increase-activity-6802644096562421760-Sr-3) so we can learn from each other about what works and what doesn’t. And if you have critique or feedback, would love to hear it.
+
+_Thank you to [Bailey Douglass](https://www.linkedin.com/in/baileydouglass/) for her warning about the dangers of creating tiers of cultural support. And thank you to [Jim Lindley](https://www.linkedin.com/in/jim-lindley-b354312/) for pointing out this can be done locally, not just at a company level._
 
 _Image by <a href="https://pixabay.com/users/michelleraponi-165491/">Michelle Raponi</a> from <a href="https://pixabay.com/">Pixabay</a>_
