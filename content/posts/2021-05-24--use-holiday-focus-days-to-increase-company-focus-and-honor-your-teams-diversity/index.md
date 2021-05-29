@@ -16,7 +16,7 @@ One of the challenges of dealing with a diverse workplace is that all of your em
 
 Part of the problem with accommodating all of these diverse needs is it’s expensive to add new holidays. CEOs and executives are beholden to the needs of the business, so they may hesitate to offer additional holidays.
 
-One way out of this conundrum is to align the needs of your employees with the needs of the business. At one of the companies I worked at a few years ago, we came up with a nice solution to holidays that more companies should adopt:
+One way out of this conundrum is to align the needs of your employees with the needs of the business. When I was at Gremlin, we came up with a nice solution to holidays that more companies should adopt:
 
 **Make an annual list of “holiday focus days” to make it easy for people to take time off during their important holidays**. 
 
