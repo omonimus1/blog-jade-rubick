@@ -1,11 +1,11 @@
 ---
 title: Everyone lies to leaders
 tags: ["company-culture", "communication", "recognition", "leadership"]
-cover: lies.jpg
+cover: lies.png
 author: Jade Rubick
 ---
 
-<re-img src="lies.jpg"></re-img>
+<re-img src="lies.png"></re-img>
 
 ## The day I became brilliant
 
@@ -122,7 +122,7 @@ I view this as a two way street:
 
 Doing this requires genuine vulnerability. People can see through insincerity, so you have to be willing to show your humanity, and approach them as one human being to another. I can’t claim to be the best at this, but what I do is show curiosity about their work experience. For example, I ask junior employees to tell me how well they’re being supported, and what it’s like to work with their coworkers. I’ll ask new employees to share what their initial weeks have been like, so we can improve it for other employees. I’ll also ask them what they see as surprising about the company, both good and bad. Anything they wish had been better? All of these things are useful information that will make you a better leader. But you’re also building relationships that will help you support your organization and the people in it more effectively. 
 
-The most common way to do this is with Skip Level 1-1s. Nowadays, I like to use [Donut](tools-to-make-your-organization-better/) to set up a “skip level 1-1” room in Slack, and that automates setting up the invites and making sure it works for both people’s calendars. 
+The most common way to do this is with Skip Level 1-1s. Nowadays, I like to use [Donut](/tools-to-make-your-organization-better/) to set up a “skip level 1-1” room in Slack, and that automates setting up the invites and making sure it works for both people’s calendars. 
 
 As an Interim VP of Engineering, I once decided to skip building relationships within the company I was working at. I didn’t have a lot of time to invest in building relationships when I was going to be a temporary leader. I found to my chagrin that this ended up causing a lot of problems -- a manager quit and mentioned me not building a relationship with them, and I discovered that some of my thinking wasn’t as well developed as it should have been. After correcting for that, I was amazed how much more effective we were as a leadership team. I had wasted a few months, and contributed to a manager leaving the company. It was a hard lesson.
 
