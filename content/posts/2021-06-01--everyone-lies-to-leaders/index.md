@@ -159,7 +159,7 @@ Since your plans may be based on poor information, and the people on the ground 
 
 ## Let me know your feedback
 
-So those are some of the things I’ve observed and patterns I’ve seen to help leaders serve their organizations. I’d love to hear your thoughts on this topic. You can reply to this thread on Twitter (link to follow), or this post on LinkedIn (link to follow). What’s your biggest critique or response to this post? :) 
+So those are some of the things I’ve observed and patterns I’ve seen to help leaders serve their organizations. I’d love to hear your thoughts on this topic. You can reply to [this thread on Twitter](https://twitter.com/JadeRubick/status/1399806521047863298), or [this post on LinkedIn](https://www.linkedin.com/posts/jaderubick_jade-rubick-everyone-lies-to-leaders-activity-6805572339548467201-h39F). What’s your biggest critique or response to this post? :) 
 
 
 _Thank you to [Marco Rogers](https://www.linkedin.com/in/marcorogers/) for teaching me about the pattern of leaders not making space for deep analysis._
