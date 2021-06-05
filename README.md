@@ -13,14 +13,14 @@ My blog is located at [https://www.rubick.com](https://www.rubick.com).
 - Posts organized by **tags**.
 - **Teasers** of posts are generated to front page with **infinite scroll** which gracefully degrades into **pagination**.
 - Allow readers to be notified of updates with **RSS feed** and email newsletter.
-- Contact Form.
+- Contact Form. (removed)
 
 ## Feel free to fork
 
 [![License: MIT](badge-mit.svg)](https://opensource.org/licenses/MIT)
 [![License: CC BY 4.0](badge-cc.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-You are free to use this repo to create your own blog (code is MIT licensed). You may also use the written content in this blog however you like, provided that you [give appropriate credit](https://creativecommons.org/licenses/by/4.0) (CC BY 4.0).
+You are free to use this repo to create your own blog (code is MIT licensed) and I'm not the original author of it. However the content in this particular repo is mine -- contact me if you wish to use it.
 
 #### How to create your own blog with this repo
 
@@ -46,7 +46,7 @@ You are free to use this repo to create your own blog (code is MIT licensed). Yo
     - When you create posts, a folder with a name like `2020-03-05--my-book-review` will be published, whereas a name like `my-book-review` will be considered a draft and will not be published. There are ways to accidentally publish drafts. If you are worried about that, the easiest way to avoid it is to deploy your site from GitHub via Netlify and _never commit draft posts to the repo_.
     - You have to manually crop images to 2.222 aspect ratio.
 
-## Attribution
+## Attribution (from original author)
 
 Hi, I'm Baobab. I didn't do everything by myself; I leveraged the work of many awesome creators.
 
