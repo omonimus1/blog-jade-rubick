@@ -1,6 +1,7 @@
 import React from "react";
 import PropTypes from "prop-types";
 import Helmet from "react-helmet";
+import { useStaticQuery, graphql } from "gatsby";
 import config from "../../../content/meta/config";
 
 const Seo = props => {
@@ -13,8 +14,10 @@ const Seo = props => {
 
   const title = config.shortSiteTitle + " - " + (postTitle || pageTitle)
   const description = postDescription ? postDescription : config.siteDescription;
-  const image = postCover ? postCover : config.siteImage;
-  const url = config.siteUrl + config.pathPrefix + postSlug;
+  const imagePath = postCover ? postCover.childImageSharp.resize.src : config.siteImage;
+  const url = config.siteUrl + (config.pathPrefix ? config.pathPrefix : "") + (postSlug ? postSlug : "");
+  const domain = useStaticQuery(plausibleDomainQuery).site.siteMetadata.plausibleDomain
+  const imagePathWithDomain = "https://" + domain + "/" + imagePath.replace(/^\//, "")
 
   return (
     <Helmet
@@ -30,14 +33,26 @@ const Seo = props => {
       <meta property="og:url" content={url} />
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
-      <meta property="og:image" content={image} />
+      <meta property="og:image" content={imagePathWithDomain} />
       <meta property="og:type" content="website" />
+      {/* Plausible Analytics */}
+      {process.browser && <script async defer data-domain={domain} src="https://plausible.io/js/plausible.js"/>}
     </Helmet>
-  );
+  )
 };
 
 Seo.propTypes = {
   data: PropTypes.object
 };
+
+const plausibleDomainQuery = graphql`
+  query plausibleDomainQuery {
+    site {
+      siteMetadata {
+        plausibleDomain
+      }
+    }
+  }
+`
 
 export default Seo;

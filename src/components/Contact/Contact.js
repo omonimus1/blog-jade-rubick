@@ -16,7 +16,6 @@ class Contact extends React.Component {
       And on LinkedIn: <a href="https://www.linkedin.com/in/jaderubick/" target="_blank"><FaLinkedin/></a>
               <re-icons></re-icons>
       </p>
-
     )
   }
 };

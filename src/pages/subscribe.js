@@ -7,7 +7,7 @@ import Seo from "../components/Seo";
 import { FaTag , FaRss , FaPaperPlane, FaTwitter } from "react-icons/fa";
 import config from "../../content/meta/config";
 
-const FollowPage = props => {
+const SubscribePage = props => {
 
   return (
     <StaticQuery
@@ -26,7 +26,7 @@ const FollowPage = props => {
           <React.Fragment>
             <Article theme={theme}>
               <header>
-                <Headline title="Follow" theme={theme} />
+                <Headline title="Subscribe" theme={theme} />
               </header>
               <p>Hear about new posts by RSS or Twitter.</p>
               <a href="../rss.xml" target="_blank">
@@ -90,7 +90,7 @@ const FollowPage = props => {
                 }
               `}</style>
             </Article>
-            <Seo pageTitle="Follow"/>
+            <Seo pageTitle="Subscribe"/>
           </React.Fragment>
         )}
       }
@@ -98,4 +98,4 @@ const FollowPage = props => {
   )
 };
 
-export default FollowPage;
+export default SubscribePage;
