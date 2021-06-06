@@ -28,7 +28,7 @@ const SubscribePage = props => {
               <header>
                 <Headline title="Subscribe" theme={theme} />
               </header>
-              <p>Hear about new posts by RSS or Twitter.</p>
+              <p>Hear about new posts by RSS, Twitter, or get it in your inbox.</p>
               <a href="../rss.xml" target="_blank">
                 <section className="subContainer">
                     <span className="subIcon"><FaRss/></span>
@@ -43,12 +43,12 @@ const SubscribePage = props => {
                 </section>
               </a>
 
-              {/* <a href={emailSubLink} target="_blank">
+              <a href="mailto:rubick-blog+subscribe@googlegroups.com" target="_blank">
                 <section className="subContainer">
                   <span className="subIcon"><FaPaperPlane/></span>
                   <span className="subText">Email</span>
                 </section>
-              </a> */}
+              </a>
 
               <style jsx>{`
                 p {
