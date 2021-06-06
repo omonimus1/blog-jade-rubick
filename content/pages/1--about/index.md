@@ -11,40 +11,20 @@ Most startups run into challenges as they scale up their engineering teams. The 
 
 Very smart people run into these problems, because the solutions  are the opposite of what you would expect. I've been through these scaling bottlenecks [many times before](https://www.linkedin.com/in/jaderubick/), and know the methods I can adapt to your unique circumstances to quickly improve your engineering organization. 
 
-I help companies in two ways: by acting as an Interim VP of Engineering, or as an expert advisor. 
+I help companies primarily as an expert advisor (and occasionally as an Interim VP of Engineering). Typically this means I meet weekly or biweekly with a few leaders in your organization, and guide them through the problems the organization is facing. 
 
-### Interim VP of Engineering
+### Company profile
 
-If you're starting to see issues with the organization of your engineering team, that's often the best time to bring in someone with the expertise to build an engineering organization. If engineering is a topic of concern in board meetings, or it's something the CEO is having to think about daily, then it's a sign you need to build an organization that can scale. 
-
-We'll agree on areas to improve, and I'll produce results in those areas, while running the organization. After I have achieved our agreed upon results, I hire my replacement.
-
-The advantage of doing this over just spending the time to hire the right VP of Engineering is time, and expertise. Hiring a good VP of Engineering can take 3-6 months. In that time, I can quickly address your most pressing engineering issues, giving you months of precious time to build your company and product. This can also give you the time to find the best candidate for the position. Hiring me will free you up to focus on other parts of the business. I also have considerable expertise in this stage of growth, so I can address issues more quickly than most leaders you'll find.
-
-Changes I make include:
-* the way the team is structured
-* the way projects are managed
-* how various roles work together
-* coaching of team members
-* adapting the responsibilities for key team members
-* and letting go of people who aren’t able to scale with the company’s success.
-
-Engagements last from a couple of months to six months or more, depending on the nature of your challenges. 
-
-If you're already conducting a search for a VP of Engineering, an additional advantage to having me in place is that I can work closely with your hiring team to make sure your candidates get the best possible experience, improving your chance of hiring the best candidates. 
-
-For Interim VP of Engineering engagements, I typically work with companies that meet this profile:
+I typically work with companies that meet this profile:
 
 * Technology startups (I work across industries, but focus on tech startups)
-* 10-100 engineers.
+* 5-75 engineers.
 * Founders have not scaled up an engineering organization before.
 * Have product market fit and have paying customers.
 * Leadership team is interested in my help and willing to make changes.
 * Are growing rapidly.
 
-### Expert advisor
-
-I'm also available to help as an expert advisor. Typically this means I meet a couple of times a month with a few leaders in your organization, and guide them through the problems the organization is facing. Here are areas I can help:
+### Areas I can help
 
 **Leadership advisor**. If you have an existing engineering leader who is effective but inexperienced in scaling an engineering organization, I can act as an expert advisor. I help them address the many challenges of scaling an organization that are anti-intuitive (the solutions evade smart people because they often are the opposite of what you would expect them to be). 
 
