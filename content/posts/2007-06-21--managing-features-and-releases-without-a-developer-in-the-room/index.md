@@ -3,6 +3,7 @@ title: Managing features and releases without a developer in the room
 tags: ["feature-flags", "velocity", "old"]
 cover: photo-1456518563096-0ff5ee08204e.jpg
 author: Jade Rubick
+discussionId: "managing-features-and-releases-without-a-developer-in-the-room"
 ---
 
 **Introduction**

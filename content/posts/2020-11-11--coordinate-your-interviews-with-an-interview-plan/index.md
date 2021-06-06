@@ -3,6 +3,7 @@ title: Coordinate your interviews with an interview plan
 tags: ["interviewing", "hiring"]
 cover: job-interview.jpg
 author: Jade Rubick
+discussionId: "coordinate-your-interviews-interview-plan"
 ---
 
 <re-img src="job-interview.jpg"></re-img>

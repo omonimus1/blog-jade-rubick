@@ -3,6 +3,7 @@ title: Tools to make your organization better
 tags: ["communication", "company-culture", "remote-work", "recognition", "meetings","onboarding"]
 cover: hammer.jpg
 author: Jade Rubick
+discussionId: "tools-to-make-your-org-better"
 ---
 
 <re-img src="hammer.jpg"></re-img>

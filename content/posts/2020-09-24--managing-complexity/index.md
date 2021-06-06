@@ -3,6 +3,7 @@ title: The fundamental challenge in building engineering organizations is comple
 tags: ["delivery", "company-culture", "complexity", "agile", "scaling"]
 cover: complexity.jpg
 author: Jade Rubick
+discussionId: "managing-complexity"
 ---
 
 <re-img src="complexity.jpg"></re-img>

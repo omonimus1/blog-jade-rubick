@@ -3,6 +3,7 @@ title: Demo-driven development
 tags: ["project-management", "delivery"]
 cover: fast.jpg
 author: Jade Rubick
+discussionId: "demo-driven-development"
 ---
 
 <re-img src="fast.jpg"></re-img>

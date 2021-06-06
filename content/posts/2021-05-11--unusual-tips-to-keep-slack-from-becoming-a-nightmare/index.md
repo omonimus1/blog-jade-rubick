@@ -3,6 +3,7 @@ title: Unusual tips to keep Slack from becoming a nightmare
 tags: ["communication", "remote-work", "scaling"]
 cover: nightmare.jpg
 author: Jade Rubick
+discussionId: "unusual-tips-slack"
 ---
 
 Many people offer advice for getting the best out of Slack: use threads, post things in public channels, and use a naming convention for your channels. This post contains some  controversial or unusual recommendations about managing Slack or other chat platforms. 

@@ -7,6 +7,8 @@ import Meta from "./Meta";
 import Author from "./Author";
 import NextPrev from "./NextPrev";
 
+import TalkyardCommentsIframe from '@debiki/gatsby-plugin-talkyard';
+
 const Post = props => {
   const {
     post,
@@ -14,7 +16,7 @@ const Post = props => {
       html,
       htmlAst,
       fields: { prefix, slug },
-      frontmatter: { title, author, tags },
+      frontmatter: { title, author, tags, discussionId },
       parent: { modifiedTime }
     },
     authornote,
@@ -30,6 +32,9 @@ const Post = props => {
         <Meta prefix={prefix} lastEdit={modifiedTime} author={author} tags={tags} theme={theme} />
       </header>
       <Bodytext content={post} theme={theme} />
+
+      <TalkyardCommentsIframe discussionId={post.frontmatter.discussionId} />
+
       <footer>
          <Author note={authornote} theme={theme} />
          <NextPrev next={nextPost} prev={prevPost} theme={theme} />

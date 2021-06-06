@@ -24,6 +24,12 @@ module.exports = {
       },
     },
     {
+      resolve: '@debiki/gatsby-plugin-talkyard',
+      options: {
+        talkyardServerUrl: 'https://comments-for-www-rubick-com.talkyard.net'
+      }
+    },
+    {
       resolve: `gatsby-plugin-layout`,
       options: {
         component: require.resolve(`./src/layouts/`)

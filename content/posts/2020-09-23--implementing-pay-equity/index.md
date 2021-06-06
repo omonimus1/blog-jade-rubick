@@ -3,6 +3,7 @@ title: Implementing pay equity
 tags: ["diversity-equity-and-inclusion", "company-culture", "pay-equity"]
 cover: equity-2.jpg
 author: Jade Rubick
+discussionId: "implementing-pay-equity"
 ---
 
 <re-img src="equity-2.jpg"></re-img>

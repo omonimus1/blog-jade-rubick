@@ -3,6 +3,7 @@ title: The three most common anti-patterns for managing projects
 tags: ["project-management", "delivery"]
 cover: slow.jpg
 author: Jade Rubick
+discussionId: "three-anti-patterns-project-management"
 ---
 
 <re-img src="slow.jpg"></re-img>

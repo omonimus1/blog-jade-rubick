@@ -3,6 +3,7 @@ title: Engineering leaders should obsess over feedback loops
 tags: ["delivery", "velocity"]
 cover: f86-sabre.jpg
 author: Jade Rubick
+discussionId: "obsess-feedback-loops"
 ---
 
 <re-img src="f86-sabre.jpg"></re-img>

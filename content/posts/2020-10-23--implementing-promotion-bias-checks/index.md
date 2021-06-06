@@ -3,6 +3,7 @@ title: Implementing promotion bias checks
 tags: ["diversity-equity-and-inclusion", "company-culture", "promotions"]
 cover: promotion.jpg
 author: Jade Rubick
+discussionId: "implementing-promotion-bias-checks"
 ---
 
 <re-img src="promotion.jpg"></re-img>

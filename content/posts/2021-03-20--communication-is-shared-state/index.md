@@ -3,6 +3,7 @@ title: Communication is shared state
 tags: ["communication", "remote-work"]
 cover: serialization.jpg
 author: Jade Rubick
+discussionId: "communication-is-shared-state"
 ---
 
 Operating under a shared reality is a competitive advantage, but most teams share state poorly.

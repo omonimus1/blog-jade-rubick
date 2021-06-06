@@ -5,6 +5,7 @@
   "description": "Feature-rich blog with streamlined design.",
   "license": "MIT",
   "dependencies": {
+    "@debiki/gatsby-plugin-talkyard": "^0.5.8",
     "fontfaceobserver": "^2.0.13",
     "gatsby": "^2.32.13",
     "gatsby-image": "^2.2.18",

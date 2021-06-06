@@ -3,6 +3,7 @@ title: How to be an information flow superhero
 tags: ["information-flow", "communication"]
 cover: communication.jpg
 author: Jade Rubick
+discussionId: "how-to-be-an-information-flow-superhero"
 ---
 
 <re-img src="communication.jpg"></re-img>

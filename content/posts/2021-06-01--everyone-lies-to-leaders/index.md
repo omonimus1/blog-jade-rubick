@@ -3,6 +3,7 @@ title: Everyone lies to leaders
 tags: ["company-culture", "communication", "recognition", "leadership"]
 cover: lies.png
 author: Jade Rubick
+discussionId: "everyone-lies-to-leaders"
 ---
 
 <re-img src="lies.png"></re-img>

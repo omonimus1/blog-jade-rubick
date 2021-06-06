@@ -34,6 +34,7 @@ const PostTemplate = props => {
       </ThemeContext.Consumer>
 
       <Seo data={post} />
+
     </React.Fragment>
   );
 };
@@ -67,6 +68,7 @@ export const postQuery = graphql`
             }
           }
         }
+        discussionId
       }
       parent {
         ...on File {

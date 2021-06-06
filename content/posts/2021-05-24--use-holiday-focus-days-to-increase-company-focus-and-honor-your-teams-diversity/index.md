@@ -3,6 +3,7 @@ title: Use holiday focus days to increase company focus and honor your team's di
 tags: ["remote-work", "meetings", "meetings", "diversity-equity-and-inclusion", "company-culture"]
 cover: holiday.jpg
 author: Jade Rubick
+discussionId: "holiday-focus-days"
 ---
 
 <re-img src="holiday.jpg"></re-img>

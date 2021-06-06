@@ -3,6 +3,7 @@ title: Use OKRs to drive equity
 tags: ["diversity-equity-and-inclusion", "company-culture", "goal-setting"]
 cover: abstract.jpg
 author: Jade Rubick
+discussionId: "use-okrs-to-drive-equity"
 ---
 
 <re-img src="abstract.jpg"></re-img>

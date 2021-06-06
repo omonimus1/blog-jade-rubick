@@ -3,6 +3,7 @@ title: Increase your impact with upstream thinking
 tags: ["company-culture", "prioritization"]
 cover: upstream.jpg
 author: Jade Rubick
+discussionId: "upstream-thinking"
 ---
 
 <re-img src="upstream.jpg"></re-img>

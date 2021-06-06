@@ -3,6 +3,7 @@ title: Implementing Amazon's single threaded owner model a retrospective
 tags: ["org-design", "delivery"]
 cover: thread.jpg
 author: Jade Rubick
+discussionId: "implementing-single-threaded-ownership"
 ---
 
 <re-img src="thread.jpg"></re-img>
