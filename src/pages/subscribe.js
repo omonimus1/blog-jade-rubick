@@ -4,7 +4,7 @@ import theme from "../theme/theme.yaml";
 import Article from "../components/Article";
 import Headline from "../components/Article/Headline";
 import Seo from "../components/Seo";
-import { FaTag , FaRss , FaPaperPlane, FaTwitter } from "react-icons/fa";
+import { FaTag , FaRss , FaPaperPlane, FaTwitter, FaLinkedin } from "react-icons/fa";
 import config from "../../content/meta/config";
 
 const SubscribePage = props => {
@@ -47,6 +47,13 @@ const SubscribePage = props => {
                 <section className="subContainer">
                   <span className="subIcon"><FaPaperPlane/></span>
                   <span className="subText">Email</span>
+                </section>
+              </a>
+
+              <a href="https://www.linkedin.com/in/jaderubick/" target="_blank">
+                <section className="subContainer">
+                    <span className="subIcon"><FaLinkedin/></span>
+                    <span className="subText">LinkedIn</span>
                 </section>
               </a>
 
