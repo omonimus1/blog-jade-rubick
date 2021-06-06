@@ -68,6 +68,6 @@ I'm also available to help as an expert advisor. Typically this means I meet a c
 
 ## This blog
 
-This blog's code is based on work by Atte Juvonen and others. The code is on [GitHub](https://www.github.com/jadeforrest/blog/). Feel free to submit corrections or use the code to create your own blog (but do not host my content elsewhere).
+This blog's code is open sourced on [GitHub](https://www.github.com/jadeforrest/blog/) thanks to [Atte Juvonen](https://github.com/baobabKoodaa/blog) and others before him. Feel free to submit corrections or use the code to create your own blog (but do not host my content elsewhere).
 
 <re-icons></re-icons>
