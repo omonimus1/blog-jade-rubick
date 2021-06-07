@@ -33,6 +33,8 @@ The first thing to do, if you haven’t done it already, is to introduce weekly 
 
 Be prepared to tweak the format until it feels good for the people involved. 
 
+One thing to be careful of is that the demos are inclusive of all the work required to build functional software. Prepare the team to demo all the parts of their work: the APIs, the infrastructure, the reliability work, and the testing. If you're in an environment where there is less trust, or the leadership doesn't understand how software should be built, you may need to use the demos to educate and give context on the team's work. It's also important for you to cheerlead the work that isn't customer facing. 
+
 ### What are we going to demo this Friday?
 
 The next step, once you have demos in place, is to kick off each week with a goal. The engineering manager and product manager should meet before the sprint kick-off meeting, and have a clear idea of what the goal for the next week or two is.
@@ -113,6 +115,6 @@ By gradually introducing the set of practices behind demo-driven development, yo
 
 ### Thank you
 
-Many experienced engineering leaders give helpful feedback on drafts of this post. Thank you to [Seth Falcon](https://www.linkedin.com/in/sethfalcon/), [Bjorn Freeman-Benson](https://www.linkedin.com/in/bjornfreemanbenson/) and [Kenichi Nakamura](https://www.linkedin.com/in/kenichi/) for numerous structural and content suggestions that made this post stronger and more focused. And thank you to [Brent Miller](https://www.linkedin.com/in/foliosus/), [Davy Stevenson](https://www.linkedin.com/in/davystevenson/), and [Darin Swanson](https://www.linkedin.com/in/darinswanson/) for their improvements! 
+Many experienced engineering leaders give helpful feedback on drafts of this post. Thank you to [Seth Falcon](https://www.linkedin.com/in/sethfalcon/), [Bjorn Freeman-Benson](https://www.linkedin.com/in/bjornfreemanbenson/) and [Kenichi Nakamura](https://www.linkedin.com/in/kenichi/) for numerous structural and content suggestions that made this post stronger and more focused. And thank you to [Brent Miller](https://www.linkedin.com/in/foliosus/), [Davy Stevenson](https://www.linkedin.com/in/davystevenson/), and [Darin Swanson](https://www.linkedin.com/in/darinswanson/) for their improvements! Thank you to [davidkunz](https://news.ycombinator.com/user?id=davidkunz) for [pointing out potential failure modes](https://news.ycombinator.com/item?id=27417551). 
 
 _Image by <a href="https://pixabay.com/users/sasint-3639875/">Sasin Tipchai</a> from <a href="https://pixabay.com/">Pixabay</a>_
