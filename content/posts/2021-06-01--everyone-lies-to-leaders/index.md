@@ -79,9 +79,9 @@ Over the years, I’ve seen a couple of things that seem to help counter some of
 
 Leaders often expect the people around them to “push back” against their ideas if there are problems with the idea. But they don’t make explicit space for people to do so, so it doesn’t happen.
 
-The easiest way to make space for other people’s thinking is to be very explicit in looking for it. Instead of saying, “I think this is what we should do. Anyone think different?” say it like this: “I think this is what we should do, but let’s make sure it’s the best approach. What are the best arguments against doing it this way.” With this move, you’re inviting everyone to critique the idea together. Instead of them feeling like they’re critiquing YOUR idea, they’re invited to provide tradeoffs. You’ll be surprised what you hear when you make space for it.
+The easiest way to make space for other people’s thinking is to be very explicit in looking for it. Instead of saying, “I think this is what we should do. Anyone think different?” say it like this: “It is starting to look like this is what we should do, but I'm not sure it's really the best course. What are the best arguments against doing it this way.” With this move, you’re inviting everyone to critique the idea together. Instead of them feeling like they’re critiquing YOUR idea, they’re invited to provide tradeoffs. You’ll be surprised what you hear when you make space for it.
 
-There are a lot of variants of this, but the basic idea is to explicitly ask people to tell you why something might be a bad idea. Use the people around you to critique your thinking. 
+There are a lot of variants of this. You might ask, "what problems do you forsee with this approach we might need to watch out for?", for example. But the basic idea is to explicitly ask people to tell you why something might be a bad idea. Use the people around you to critique your thinking. 
 
 Some leaders might be insecure with this approach, because they feel like it’s opening themselves up to look “weaker”. I’ve found the contrary is true: if you’re able to show that you are bigger than your ideas, you earn a lot of trust and your team will see you as a stronger leader.
 
