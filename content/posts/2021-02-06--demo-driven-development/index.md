@@ -59,17 +59,17 @@ These user stories represent things you might demo on a particular week. Their s
 
 User stories should be understandable by a technical observer not on the project, and for sure by the Product Manager. For example, “reduce confusion by making chart colors consistent with labels”. If you have a particular approach in mind, you can say so, but the goal needs to be defined. For example, “Reduce confusion in charts by making chart colors consistent based on saved selection”.  
 
-Teams tend to like to create todo items that correspond to _technical_ work. Jim Shore taught me to have two levels of breakdown: the user stories represent something a product manager or technical person outside the team can reason about. Then under that user story, you create tasks that represent the technical work you need to do to accomplish that user story. 
+Teams tend to like to create todo items that correspond to _technical_ work. [Jim Shore](https://www.jamesshore.com) taught me to have two levels of breakdown: the user stories represent something a product manager or technical person outside the team can reason about. Then under that user story, you create tasks that represent the technical work you need to do to accomplish that user story. 
 
 The task breakdown doesn’t need to happen until the week you get to it. That can be the activity in the kickoff meeting after you talk about what to demo. 
 
 Ideally, the kickoff meeting then becomes the engineering manager saying: this is our next user story. What do we think we can demo this week? And the team decides if that’s a lot or a little, and if they have more bandwidth, you say, well, we have this next story, do we think we can demo progress towards that getting done? And the team agrees on what they can demo, and then the rest of the meeting is the logistics and coordination around delivering that, including creating the task breakdown and figuring out who will do what.
 
-Contrast the way this weekly kickoff feels to “weak agile”, introduced in part one of this post. In those meetings, the engineering manager might pull up a list of 20 or 30 tickets, and go over the many things that are still in flight. They’ll have a bunch of things typically that are moving between weeks. They team spends the meeting talking about these tasks rather than the goal they’re trying to accomplish. The tasks don’t feel meaningful, they just feel like a list of things to do.
+Contrast the way this weekly kickoff feels to “[weak agile](/three-anti-patterns-for-project-management)”, introduced in part one of this post. In those meetings, the engineering manager might pull up a list of 20 or 30 tickets, and go over the many things that are still in flight. They’ll have a bunch of things typically that are moving between weeks. They team spends the meeting talking about these tasks rather than the goal they’re trying to accomplish. The tasks don’t feel meaningful, they just feel like a list of things to do.
 
-In a million-meeting agile format, they’ll spend all their time talking about these tasks, and making sure everyone understands them, and who will do what. Instead of talking about the goal and how to work together to achieve that goal, the team focuses on the reviewing tasks in the ticketing system. 
+In a [million-meeting agile](/three-anti-patterns-for-project-management) format, they’ll spend all their time talking about these tasks, and making sure everyone understands them, and who will do what. Instead of talking about the goal and how to work together to achieve that goal, the team focuses on the reviewing tasks in the ticketing system. 
 
-In a Gantt-aholic kickoff meeting, usually the focus is on the tasks and the points associated with everything. How many points did we accomplish, what are the estimates for the upcoming items, and how are we tracking. The focus is more on the timeline than the objective. 
+In a [Gantt-aholic](/three-anti-patterns-for-project-management) kickoff meeting, usually the focus is on the tasks and the points associated with everything. How many points did we accomplish, what are the estimates for the upcoming items, and how are we tracking. The focus is more on the timeline than the objective. 
 
 Instead, focus the meeting on the goal you want to accomplish, and use your tooling to record things at the level of impact to your customers: user stories. 
 
@@ -85,7 +85,7 @@ Even though it’s okay to demo progress on incomplete work, teams should endeav
 
 ### Create technical plans
 
-You should be creating a technical plan as well. 
+You should be creating a technical plan. 
 
 The technical lead (or sometimes even better, other engineers on the team, with the technical lead editing and improving) writes down anything interesting about the technical work for this stage of the project (if your projects are months long, do it for milestones in the project). They should call out any technical bets they’re making, or anything new that will require future migration work. And highlight tradeoffs they’re making. If technical shortcuts are being made, they should be exposed and justified. 
 
@@ -103,7 +103,7 @@ It’s important for these meetings to be safe places to talk through problems, 
 
 ### Technical leadership meetings
 
-Similarly, you can use technical leadership meetings to offer a similar type of critique for technical plans. Your technical leaders can come together and share anything interesting about the technical tradeoffs they’re making. 
+You can use technical leadership meetings to offer a similar type of critique for technical plans. Your technical leaders can come together and share anything interesting about the technical tradeoffs they’re making. 
 
 These meetings can be extraordinarily impactful. One of the most common causes of project failure is projects that take too many ambitious bets at the same time. And many of the challenges of engineering organizations result from technical decisions made in previous years. Having a group that can set technical standards will prevent painful migration projects from blossoming. And creating a culture of discussing the long-term implications of choices can avoid lots of pain in future years. 
 
