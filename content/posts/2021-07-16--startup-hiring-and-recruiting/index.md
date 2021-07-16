@@ -175,4 +175,4 @@ The more you view your hiring process as a continually improving thing, the more
 
 Did I miss anything? Please share your favorite ideas with me, I’d love to hear them! 
 
-_Image by <a href="https://pixabay.com/users/katielwhite91-5572368/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4009327">Katie White</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4009327">Pixabay</a>_
+Image by <a href="https://pixabay.com/users/katielwhite91-5572368/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4009327">Katie White</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4009327">Pixabay</a>
