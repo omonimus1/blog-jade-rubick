@@ -12,6 +12,16 @@ This is a part of a [series of articles on hiring and recruiting](/startup-hirin
 
 Focusing on short turnarounds is probably the highest impact area for improving your hiring pipeline. 
 
+### Why hiring faster is important
+
+Candidates have time windows for every company they're working with. They have a certain amount of time within which they will take to interview, and a certain amount of time they have to make a decision. 
+
+When your company has a long time window, that means you increase the chance that candidates have to choose other companies before you're ready to make a decision. 
+
+To illustrate this, imagine you were able to instantly decide on a candidate, without any evaluation. You produce an offer, and they have maybe a week to decide on that offer. Unless the candidate can get competing offers within a week, they have the chance to make a decision with your company first. They may ask for more time, or whatever, but this make it more possible for them to choose you.
+
+Conversely, if you hire at the pace Google does (which is to say, very slowly -- they can take 6 months to hire someone), then most candidates will have to make a decision with another company before they can choose to work with you. Even if they're very motivated to work at your company, you're putting up a lot of friction for them to do so. 
+
 ### Give your hiring team an SLA
 
 My biggest piece of advice is to give yourself an internal SLA on all candidate touchpoints of 24 hours. This will give you 2-10 times better results with hiring, even if you do nothing else! Try to get back to candidates in hours, it can have a big impact.
