@@ -15,7 +15,7 @@ This is a part of a [series of articles on hiring and recruiting](/startup-hirin
 Why should someone work at your company? Every company answers this question differently. Here are some valid strategies for hiring: 
 
 * We’ll pay the median rate in your area, but we’re investing heavily in making this the place for you to do your best work -- the best work culture. (early days New Relic)
-* We’re working in a “sexy” technical area, which attracts a lot of talented people, so you can work with a great team and solve interesting problems. Plus we’re making a great people-focused work environment. (Gremlin during my tenure there, also early days New Relic).
+* We’re working in a compelling technical area, which attracts a lot of talented people, so you can work with a great team and solve interesting problems. Plus we’re making a great people-focused work environment. (Gremlin during my tenure there, also early days New Relic).
 * We’re making Disneyland for engineers, lots of perks and top pay, in a university like environment (early Google strategy).
 * We’ll pay really well for you to work your ass off, and in return you get a chance to work at a scale you won’t otherwise (Amazon today).
 * We won’t pay you the most, but you’ll get to spend time each week working on open source software (a local software consultancy my friend ran for a while). 
