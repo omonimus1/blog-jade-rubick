@@ -1,5 +1,5 @@
 ---
-title: Secret tips for effective startup hiring and recruiting
+title: Tips for effective startup hiring and recruiting
 tags: ["hiring", "recruiting", "diversity-equity-and-inclusion", "scaling", "pay-equity"]
 cover: hiring.png
 author: Jade Rubick
@@ -8,15 +8,17 @@ discussionId: "startup-hiring-and-recruiting"
 
 <re-img src="hiring.png"></re-img>
 
-## Secret tips for effective startup hiring and recruiting
+## Tips for effective startup hiring and recruiting
 
-We are fortunate enough to be in a field where our skills are very much in demand. However, when we’re hiring, it makes our job much more challenging, because everyone is competing for scarce talent. This blog post is crammed with (almost) everything I’ve learned from a lot of very smart people about hiring. If you do even a few of the things in this post, it can dramatically improve your hiring outcomes, and help you stand out. 
+I'm going to share some practices that I don't see used very often. These practices help ensure you'll find great candidates, offer a superior candidate experience, and be competitive against other companies that are looking. 
 
+I haven't seen many of these topics listed anywhere else. To be comprehensive, I'm listing a lot of topics, with breakouts for anything you want to go deep on. 
+
+If you do even a few of the things in this post, it should dramatically improve your hiring outcomes, and help you stand out. 
 
 ### Why listen to me?
 
 I’ve interviewed hundreds of people over the years, and at times it was basically my full time job. As a consultant, I’ve also seen how a lot of organizations approach hiring, so I’ve seen both some depth, and some industry breadth in how people approach hiring and recruiting. And I’m very good at copying from the people around me!
-
 
 ### Identify or create a hiring strategy
 
