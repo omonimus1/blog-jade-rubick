@@ -64,20 +64,13 @@ One tip: pair people up in the interviews. People learn from seeing others inter
 
 ### Be faster than anyone else
 
-Focusing on short turnarounds is probably the highest impact area for improving your hiring pipeline. You can realize 2-10 times better results with a simple rule: turn around all touchpoints with candidates in less than 24 hours (ideally within a couple of hours). 
+One of the biggest improvements you can make in your hiring process is the speed at which you hire. This is so important I've made this its own blog post. Three things you can do are: 
 
-The reason this is effective is that most companies take 2-4 weeks to hire someone. If you can get someone through the whole hiring process in a week, you’ve just made your hiring pipeline AT LEAST 2-4 times more effective. You’re competing with fewer companies for the same person. This isn’t even accounting for the fact that the candidate experience is so much better. 
+1. Implement an internal SLA for communication
+2. Present offers the day of the last interview, and 
+3. Use a rolling approach (with some caveats) to hiring.
 
-One way to speed things up is to monitor how the “onsite” interview goes, by talking with the interviewers right after the interview, or having them enter it into the applicant tracking system right afterwards (tip: have a meeting scheduled for them to reserve this time, right after their interview). If you see enough positive signs, prepare an offer to present them at the end of the day.  
-
-You can use two different models for your interviews:  
-
-* **Batch**. You interview a bunch of candidates, compare them to each other, and have a decision after you’ve interviewed a whole bunch of them. 
-* **Rolling**. You interview until you find the right person. Whenever you find the right person for the role, you stop. 
-
-The problem with Batch is that it is very slow, so you’ll lose a lot of candidates due to them waiting for you. The problem with Rolling is that at the beginning you haven’t calibrated your candidates (if you’re familiar with [explore and exploit algorithms](https://www.rubick.com/exploration-and-exploitation-in-technical-standards/), there is actually math that can be used to determine how long to wait before making a decision, but that’s probably not necessary). And it can be hard to hire someone when you know there are other promising candidates that will be interviewed next week. 
-
-I recommend using a Rolling approach, but calibrating for a while until you have a good sense of how good each candidate is. You can also Batch up candidates if you’re not getting enough diversity in your hiring pipeline (research shows [if you have one woman in your candidate pool, there is 0% chance she’ll be hired](https://hbr.org/2016/04/if-theres-only-one-woman-in-your-candidate-pool-theres-statistically-no-chance-shell-be-hired), and I imagine that’s true of other underrepresented groups). If you’re doing this within a Rolling process, one way to do it is to not make a decision until you’ve interviewed people from at least two underrepresented groups. To balance this against the need to hire quickly, you can also give yourself a time limit, after which you can resign yourself to the fact that you’re not doing a good job of attracting diverse candidates. This is how I try to balance my interest in hiring quickly, with my interest in hiring fairly and from a diverse pool of candidates.
+I go into a lot more detail in this post: [How to speed up hiring](/how-to-speed-up-hiring).
 
 ### Use a candidate packet
 
