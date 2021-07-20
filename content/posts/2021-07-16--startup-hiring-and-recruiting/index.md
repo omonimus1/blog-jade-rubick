@@ -125,9 +125,13 @@ If you use recruiters, invest some time in making sure they understand what you�
 
 Review syncs at their worst can be everyone just summarizing the feedback they already put in the application tracking system. [Shaun Yelle](https://www.linkedin.com/in/shaunyelle/) taught me an interview format that I now consider to be the best approach. 
 
-Instead of a meeting where people summarize their feedback, you as hiring manager go through all the written feedback ahead of time. Make a list of observations that contradict each other. Did some people have feedback that doesn’t match up? Did people bring up concerns that didn’t get responded to? Make a list of these things and then go through them. Ask people to talk through these things and dig a little deeper.
+Instead of a meeting where people summarize their feedback, you as hiring manager go through all the written feedback ahead of time. Make a list of observations that seem to be common between people. And then, more importantly, make a list of observations that contradict each other. Did some people have feedback that doesn’t match up? Did people bring up concerns that didn’t get responded to? 
 
-What I’ve found is that a lot of observations and assumptions break down when people have these type of discussions. An observation like, “they’re not very good at receiving feedback”, will become way more nuanced when you have a discussion about how you asked the question and what they said, when a different person had the opposite feedback. This also leads to better introspection of the interview process, so you can improve the design of the interview panels. 
+During the meeting, quickly summarize the feedback on the candidate, and then move to the important part: go through the points people had disagreement about, and dig deeper on them, in a safe and curious way. For example: "Lisa, I noticed you were concerned about how the candidate communicated about their employer. But Josh said glowing things about how they talked about their team. Can you both share a little about that portion of the interview, what questions you asked and what you uncovered?"
+
+What I’ve found is that a lot of observations and assumptions break down when people have these type of discussions. An observation like, “they’re not very good at receiving feedback”, will become way more nuanced when you have a discussion about how you asked the question and what they said, when a different person had the opposite feedback. 
+
+This format also leads to better introspection of the interview process, so you can improve the design of the interview panels. 
 
 ### Bundle up similar roles
 
