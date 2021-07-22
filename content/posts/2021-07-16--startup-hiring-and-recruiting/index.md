@@ -74,21 +74,9 @@ I go into a lot more detail in this post: [How to speed up hiring](/how-to-speed
 
 ### Use a candidate packet
 
-Create a Google Doc and gradually start adding useful information for candidates: answers to questions they ask, information about the company you think they might want to know. Treat it like an FAQ, and gradually fill it out until you think it reaches a critical mass of useful information. Then take an editing pass, make it look nice, and send it as a PDF to all candidates who make it past the initial resume stage. 
+One practice that doesn't seem to be very widespread is the use of [candidate packets for interviews](/candidate-packet-for-interviews). A candidate packet is a package you send to applicants that explains the interview process, tells them about the company and the role they're applying for, and helps them understand what to expect as a candidate. 
 
-Candidate packets should outline the interview process, sell them on the company, outline benefits, and explain anything unusual about the company. 
-
-Here’s an outline for one candidate packet:
-
-* Interview process (ideally you would tell people the topics they’ll be discussion, and even the questions they’ll be asked)
-* Who we are (mission, core values)
-* Remote life (practicalities of being in fully distributed company and how we support people)
-* Benefits (health care, parental leave, time off)
-* Our offers (how we think about salary compensation, stock options)
-* How we think about inclusion (a frank look at where we’re at and how we’re trying to be)
-* Reviews and opportunities for growth (went through our review process and how we evaluate people for promotion. We were good at that so wanted to emphasize that we had a good system for promotions). 
-
-I update the candidate packet frequently, as I hear new information, and then generate a new PDF and send it to new applicants. 
+You can think of it as an FAQ for candidates, but also as a way to sell the candidate on the company and position.
 
 ### Give feedback to candidates
 

@@ -48,7 +48,6 @@ So how does this play out in practice?
 Let’s say your support team is asking questions of engineering, because they need that information to serve customers well. They might, for example, ask whether a certain browser is supported or not. Here are ways to respond to that, in increasing order of effectiveness:
 
 
-
 1. Answer their question.
 2. Write up a document on the internal wiki or external documentation, document the answer, and give the link to that documentation back to that person.
 3. Wait an hour, then do #2. 
