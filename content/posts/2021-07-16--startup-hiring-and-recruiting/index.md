@@ -41,8 +41,7 @@ If you’re genuinely trying to make your company be a great place to work, this
 
 People vet a job based on the job description. If it’s well-written, they may be excited about the job, and give it precedence. 
 
-Most job postings also turn away a large percentage of good candidates unnecessarily. I wrote up some [tips for writing unbiased and compelling job descriptions](/write-compelling-and-unbiased-job-descriptions). 
-
+Most job postings also turn away a large percentage of good candidates unnecessarily. I wrote up some [tips for writing unbiased and compelling job descriptions](/write-compelling-and-unbiased-job-descriptions). This includes what to include in your job posting, and some easy to use tools to improve your job descriptions and reduce bias. 
 
 ### Make your application process painless (for everyone)
 
