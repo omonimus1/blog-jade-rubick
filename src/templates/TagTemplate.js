@@ -35,7 +35,7 @@ const TagTemplate = props => {
         )}
       </ThemeContext.Consumer>
 
-      <Seo />
+      <Seo pageTitle="Posts with tag" />
     </React.Fragment>
   );
 };
