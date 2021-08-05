@@ -116,11 +116,9 @@ This format also leads to better introspection of the interview process, so you 
 
 ### Bundle up similar roles
 
-One of the biggest areas of inefficiency in hiring is filling the initial queue of qualified candidates. If you have similar positions, use the same pool of candidates. For example, a "backend engineer" might work on several different teams, so list that as one position, with several possible placements. Then, whenever you list a new backend engineer position, you'll find that you already have a pool of candidates you can immediately tap into. 
+One of the bigger inefficiencies in a hiring process is to treat every role as a separate queue of candidates. You can achieve way better outcomes by bundling similar roles together: no ramp up time for new positions, prefilled queues of candidates for new positions, process efficiencies, and even better success hiring candidates from diverse backgrounds.
 
-Bundling up your hiring can have surprising benefits. At New Relic, we found we hired way more women in the bundled positions. We thought this was because we did a better job of running the process when it was shared between teams. But it was also because the pool had a larger number of women in it.
-
-This can also be more candidate friendly. If you're applying to work at a place, you are looking for a role that matches your skillset. You're not necessarily looking for which of three positions on different teams is the right one for you, if they all are looking for your skillset. Of course you care, but it complicates the hiring process.
+Learn more about [bundled hiring](/bundled-hiring) and how it can improve your hiring outcomes. 
 
 ### All of these things reinforce each other
 
