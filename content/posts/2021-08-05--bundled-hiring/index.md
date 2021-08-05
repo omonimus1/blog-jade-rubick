@@ -58,6 +58,8 @@ Bundled hiring makes sense once you start seeing duplication in the roles you're
 
 ### Recommendations for bundled hiring
 
+* One way we ran it was to have a designated group that runs all of bundled hiring. Then, for each bundle, you have 1) the person leading the hiring, 2) the people that are good at hiring assigned for tours on the bundle, and then you let that bundle team do all of the hiring for a period of time, like three months. 
+
 * Whenever a position is filled, the hiring manager should do some sort of retrospective on the process, and incorporate what they've learned into the overall hiring process. This needs to be formally defined so people feel encouraged to treat the process as "open source". Usually it's good to involve the other hiring managers in those retrospectives. The overall process must be written down. 
 
 * When I first joined a "bundle", it was a little disorienting. I was jumping into an existing process, and I had to get my bearings. Make sure you think through the onboarding experience for hiring managers, and have a very clear set of written documents on how to get started and plug in to the process. 
@@ -66,10 +68,13 @@ Bundled hiring makes sense once you start seeing duplication in the roles you're
 
 * You have to think through who does the interviewing. Typically we had a wider set of interviewers than for normal positions. The part that hiring managers usually resist is having other people interviewing "their" candidates. You can overcome this once the process becomes refined enough that people are seeing good outcomes from it, but you have to be careful in the early days of bundled hiring to get over that gap.
 
-* Once the position is filled, you have to decide if people's engagement ends at that point. We typically did have it end then. But one thing that surprised me is that hiring managers would sometimes volunteer to help out with the queues. For example, one engineering manager would be under the gun on a critical project, and someone else would volunteer to help them hire. Because the hiring process was well understood, it made it easier to help across teams.
+* Once the position is filled, you have to decide if people's engagement ends at that point. As I mentioned above, you can have people do interview for a period of time, rather than just until the position is filled. One thing that surprised me is that hiring managers would sometimes volunteer to help out with the queues. For example, one engineering manager would be under the gun on a critical project, and someone else would volunteer to help them hire. Because the hiring process was well understood, it made it easier to help across teams.
 
 ### What do you think?
 
 Did I miss anything? Do you have experience with bundled hiring elesewhere? I'd love to hear your thoughts or your experiences as you implement bundled hiring.  
+
+
+Thank you to [Darin Swanson](https://www.linkedin.com/in/darinswanson/) for feedback and detail on how the bundled hires were run. 
 
 Image by <a href="https://pixabay.com/users/12019-12019/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=230112">David Mark</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=230112">Pixabay</a>
