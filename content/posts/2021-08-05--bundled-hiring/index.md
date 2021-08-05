@@ -18,7 +18,16 @@ Fortunately, we were using "bundled hiring" for these positions. For one of the 
 
 ### What is bundled hiring?
 
-Bundled hiring is when you take multiple, similar positions, and present them as one position to candidates. You use one uniform hiring process for all those candidates.
+Bundled hiring is when you take multiple, similar positions, and use a unified process to respond to all of them.
+
+The simplest form of this is when you take multiple similar positions, and merge them into one listing. For example:
+
+* Senior Engineer, Services (Java)
+* Senior Engineer, Authentication and Access (Java)
+
+Becomes
+
+* Senior Engineer (Java, several teams)
 
 ### Bundled hiring eliminates one of your biggest bottlenecks in the hiring process. 
 
@@ -70,11 +79,17 @@ Bundled hiring makes sense once you start seeing duplication in the roles you're
 
 * Once the position is filled, you have to decide if people's engagement ends at that point. As I mentioned above, you can have people do interview for a period of time, rather than just until the position is filled. One thing that surprised me is that hiring managers would sometimes volunteer to help out with the queues. For example, one engineering manager would be under the gun on a critical project, and someone else would volunteer to help them hire. Because the hiring process was well understood, it made it easier to help across teams.
 
+* You can choose to bundle skill levels together, or separate them into separate bundles. We generally found it useful to bundle close skill levels together, as it gave us flexibility during the interview process. If we found someone was more skilled than we expected, we might focus them on a particular subset of teams.
+
+* It's necessary to make sure all the hiring managers are aware of the needs of all the other hiring managers. We usually did this with an orientation meeting, where each hiring manager went around and described their needs. They also wrote them down, so that the whole team was looking out for each other and looking for the right fit for each candidate. This took some maturity from the hiring managers -- if someone was only looking out for their own needs, it wouldn't work as well. So it's possible this may not work as well in some low-trust work cultures. 
+
+* We did sometimes experiment with showing multiple listings for the same bundle. That was a good way to test out different approaches to the job description. The most important thing is that the process behind all the postings is the same. But you don't want to confuse the candidates by having a lot of similar postings, so I would keep this to a minimum.
+
 ### What do you think?
 
 Did I miss anything? Do you have experience with bundled hiring elesewhere? I'd love to hear your thoughts or your experiences as you implement bundled hiring.  
 
 
-Thank you to [Darin Swanson](https://www.linkedin.com/in/darinswanson/) for feedback and detail on how the bundled hires were run. 
+Thank you to [Darin Swanson](https://www.linkedin.com/in/darinswanson/) for feedback and detail on how the bundled hires were run. Thank you to Amjith Ramanujam for the helpful suggestion to provide an early example of what bundled hiring is. 
 
 Image by <a href="https://pixabay.com/users/12019-12019/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=230112">David Mark</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=230112">Pixabay</a>
