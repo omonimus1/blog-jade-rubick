@@ -85,6 +85,8 @@ Bundled hiring makes sense once you start seeing duplication in the roles you're
 
 * We did sometimes experiment with showing multiple listings for the same bundle. That was a good way to test out different approaches to the job description. The most important thing is that the process behind all the postings is the same. But you don't want to confuse the candidates by having a lot of similar postings, so I would keep this to a minimum.
 
+* The process has to be handled really well, or you can have a poor candidate experience. One issue we often saw was with candidates not getting replied to -- the hiring manager would find the candidates they were interested in, and respond to those people, but then leave everyone else back in the "pool" for everyone else. You need someone with good process chops and who can manage a process like this pretty tightly, or the approach can backfire. 
+
 ### What do you think?
 
 Did I miss anything? Do you have experience with bundled hiring elesewhere? I'd love to hear your thoughts or your experiences as you implement bundled hiring.  
