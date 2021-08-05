@@ -87,6 +87,8 @@ Bundled hiring makes sense once you start seeing duplication in the roles you're
 
 * The process has to be handled really well, or you can have a poor candidate experience. One issue we often saw was with candidates not getting replied to -- the hiring manager would find the candidates they were interested in, and respond to those people, but then leave everyone else back in the "pool" for everyone else. You need someone with good process chops and who can manage a process like this pretty tightly, or the approach can backfire. 
 
+* We never found a way to do this with specialized positions. In general, think of this as supplementing your usual approach. 
+
 ### What do you think?
 
 Did I miss anything? Do you have experience with bundled hiring elesewhere? I'd love to hear your thoughts or your experiences as you implement bundled hiring.  
