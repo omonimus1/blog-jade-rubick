@@ -12,9 +12,9 @@ This is a part of a [series of articles on hiring and recruiting](/startup-hirin
 
 ### Imagine filling a position in a week
 
-One time several years ago, I was asked to build up a new team on a mission critical part of the company. The team needed to be built extremely quickly. So we seeded the team with a couple of people, and knew we would need to hire a few other positions really quickly. 
+Several years ago, I was asked to build up a new team quickly. We seeded the team with a couple of people, and knew we would need to hire a few other positions rapidly. 
 
-I was pretty fortunate, because we were using bundled hiring. Although not every hire came through this quickly, I was able to be interviewing candidates the next week, and had an offer out to a promising candidate the week after that. 
+Fortunately, we were using "bundled hiring" for these positions. For one of the first roles, I was able to extend an offer within a week! 
 
 ### What is bundled hiring?
 
