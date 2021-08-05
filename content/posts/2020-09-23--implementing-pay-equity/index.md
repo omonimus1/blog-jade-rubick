@@ -53,7 +53,7 @@ If you have a newer engineering organization, you may not have pay scales, or st
 7. If you’re at a startup, you’ll probably want to think about equity as well. 
     1. This gets complicated really fast, but I recommend working with your finance person and HR person on this. Typically, the earlier you join the company, the more equity you get. So what I’ve done is go through and keep track of what stage of funding each employee came in at. 
     2. Ask your finance person if they can create equity tables for your salary bands, so you have a standard equity package you offer. Equitable equity FTW.
-    3. The best example of this I’ve seen is from Daryl Allen’s writeup on the [“implied value” method for equity distribution](https://www.google.com/url?q=https://medium.com/@darylll/how-to-measure-option-grants-implied-value-method-bbca1a05add7&sa=D&ust=1600819470014000&usg=AFQjCNFDt9QCYJ7eMEeKGTFpS8yiezSKRg).
+    3. The best example of this I’ve seen is from Daryl Allen’s writeup on the [“implied value” method for equity distribution](https://darylll.medium.com/how-to-measure-option-grants-implied-value-method-bbca1a05add7).
 
 
 ### Q3: Define a promotion process and evaluate people periodically.
