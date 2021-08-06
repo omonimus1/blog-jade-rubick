@@ -89,6 +89,8 @@ Bundled hiring makes sense once you start seeing duplication in the roles you're
 
 * We never found a way to do this with specialized positions. In general, think of this as supplementing your usual approach. 
 
+* One concern people had about this process was that the candidate wouldn’t have the experience of knowing which team they would be on. Usually we would narrow it down to the team or teams they would be eligible for, and then let the candidate choose. We typically would have the hiring manager interview the person as a final interview. That helped ensure there was a good mutual match.
+
 ### What do you think?
 
 Did I miss anything? Do you have experience with bundled hiring elesewhere? I'd love to hear your thoughts or your experiences as you implement bundled hiring.  
