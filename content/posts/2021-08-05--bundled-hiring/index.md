@@ -96,6 +96,6 @@ Bundled hiring makes sense once you start seeing duplication in the roles you're
 Did I miss anything? Do you have experience with bundled hiring elesewhere? I'd love to hear your thoughts or your experiences as you implement bundled hiring.  
 
 
-Thank you to [Darin Swanson](https://www.linkedin.com/in/darinswanson/) for feedback and detail on how the bundled hires were run. Thank you to Amjith Ramanujam for the helpful suggestion to provide an early example of what bundled hiring is. 
+Thank you to [Darin Swanson](https://www.linkedin.com/in/darinswanson/) for feedback and detail on how the bundled hires were run. Thank you to Amjith Ramanujam for the helpful suggestion to provide an early example of what bundled hiring is. [Matt LeBeau](https://www.linkedin.com/in/matt-lebeau-1652bb4/) shared his experience with me and pointed out some ways it hadn't worked well and the need for strong process management. [Beth Klem](https://www.linkedin.com/in/bethklem/) had good questions about the candidate experience that helped me improve that seciton. 
 
 Image by <a href="https://pixabay.com/users/12019-12019/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=230112">David Mark</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=230112">Pixabay</a>
