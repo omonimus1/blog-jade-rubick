@@ -43,13 +43,13 @@ Most engineers think of themselves in categories. They are a "backend engineer",
 
 However, most companies surface positions according to their own internal reporting structures, not according to what is most friendly to the candidate. A company might list eight backend engineer positions. The candidate then either applies for all of them, or has to read through each one and figure out which one they care about. 
 
-There are some things you have to be careful of with the candidate experience -- I discuss those in the implmemenation section.
+There are some things you have to be careful of with the candidate experience -- I discuss those in the implementation section below.
 
 ### Bundled hiring reduces the workload for hiring managers
 
 Let's go back to the example of a company that lists eight "backend engineer" positions. Each of the hiring managers typically writes their own job description (adding time to the process before the position is posted). The quality of these job descriptions will vary. 
 
-Because the process for the bundle is pre-defined, the hiring manager doesn't have to create the whole interview panel and interview process. They just plug into an existing system. 
+Because the process for the bundle is pre-defined, the hiring manager doesn't have to design the whole interview panel and interview process. They just plug into an existing system. 
 
 In addition, by joining forces, the hiring team for the "bundle" can split up the work. They can substitute for each other when someone is on vacation. They can take on roles they're more effective at.
 
