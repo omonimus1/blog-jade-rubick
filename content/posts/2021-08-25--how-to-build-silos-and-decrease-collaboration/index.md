@@ -3,7 +3,7 @@ title: How to build silos and decrease collaboration (on purpose)
 tags: ["scaling", "communication", "company-culture", "org-design", "information-flow"]
 cover: silo.jpg
 author: Jade Rubick
-discussionId: "bundled-hiring"
+discussionId: "build-silos"
 ---
 
 <re-img src="silo.jpg"></re-img>
