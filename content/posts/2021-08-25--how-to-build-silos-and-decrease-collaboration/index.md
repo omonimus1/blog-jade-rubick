@@ -12,7 +12,7 @@ discussionId: "build-silos"
 
 _“We need to break down silos between departments and get people to collaborate better” -- almost every leader everywhere._
 
-Most leaders reflexively think of siloes as BAD and collaboration as GOOD. This manifesto defends silos and challenges the value of collaboration.  
+Most leaders reflexively think of silos as BAD and collaboration as GOOD. This manifesto defends silos and challenges the value of collaboration.  
 
 ### Increasing collaboration can do harm
 
