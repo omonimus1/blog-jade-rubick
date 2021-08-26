@@ -33,6 +33,10 @@ I observed an example of this at New Relic. As the engineering organization grew
 
 Collaboration _sounds_ great, but it’s something you want to actively be combating between teams. A little collaboration is fine, but excessive collaboration between teams is a sign your organization isn’t structured well. If you ever wonder why Bezos took such a hard line on his [API mandate](https://chrislaing.net/blog/the-memo/#fn:1) in 2002, this probably factored into it. Bezos structured Amazon so that teams were as independent as possible.
 
+### What are silos?
+
+Silos are boundaries between groups of people, based on the organizational structure and teams they’re working on. 
+
 ### Why do silos exist?
 
 Silos exist because humans have cognitive and communication limits: 
@@ -99,6 +103,10 @@ A team that has to collaborate to achieve its objectives is going to be less rel
 
 Of course, the world is messy, and you shouldn’t expect a complete lack of collaboration between teams. But when you see teams collaborate, that’s something to pay attention to. 
 
+### Technical analogy
+
+You might think of silos as "encapsulation". Leaders want to dig into the internals of the classes holding the logic they need. But it's a bad solution to just bolt that on -- you really need to refactor things so that they are better structured.
+
 ### How do you get teams to coordinate better?
 
 In the next post in this series, I share concrete patterns that help teams and departments work across organizational boundaries. Stay tuned!
@@ -108,6 +116,6 @@ In the next post in this series, I share concrete patterns that help teams and d
 I always appreciate hearing your thoughts and reactions to my posts. 
 
 
-Thank you to the many people who helped improve this post. [Rebecca Campbell](https://www.linkedin.com/in/rebecca--campbell/) always makes my work better. She helped me tighten up many of my arguments and helped me realize that I needed to make the section on coordination more explicit. [Brent Miller](https://www.linkedin.com/in/foliosus/), always the purveyer of astute observations, offered structural feedback that made the post much stronger. [Chris Haupt](https://www.linkedin.com/in/chaupt/), always thoughtful, pointed out a few areas that he didn't find convincing, and helped me see that I needed to go deeper on information flow. And additional thank you to [Robert DiFalco](https://www.linkedin.com/in/robert-difalco-a40378/) and [Darin Swanson](https://www.linkedin.com/in/darinswanson/) for reviewing and commenting on the post. Always appreciate your insight! 
+Thank you to the many people who helped improve this post. [Rebecca Campbell](https://www.linkedin.com/in/rebecca--campbell/) always makes my work better. She helped me tighten up many of my arguments and helped me realize that I needed to make the section on coordination more explicit. [Brent Miller](https://www.linkedin.com/in/foliosus/), always the purveyer of astute observations, offered structural feedback that made the post much stronger. [Chris Haupt](https://www.linkedin.com/in/chaupt/), always thoughtful, pointed out a few areas that he didn't find convincing, and helped me see that I needed to go deeper on information flow. [Aaron Erickson](https://www.linkedin.com/in/aaronerickson/) suggested the metaphor of encapsulation. Thanks to Neville Kuyt for suggesting I define silo. And additional thank you to [Robert DiFalco](https://www.linkedin.com/in/robert-difalco-a40378/) and [Darin Swanson](https://www.linkedin.com/in/darinswanson/) for reviewing and commenting on the post. Always appreciate your insight! 
 
 Image by <a href="https://pixabay.com/users/1778011-1778011/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4015505">1778011</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4015505">Pixabay</a>
