@@ -43,7 +43,7 @@ const SubscribePage = props => {
                 </section>
               </a>
 
-              <a href="mailto:rubick-blog+subscribe@googlegroups.com" target="_blank">
+              <a href="https://groups.google.com/g/rubick-blog" target="_blank">
                 <section className="subContainer">
                   <span className="subIcon"><FaPaperPlane/></span>
                   <span className="subText">Email</span>
