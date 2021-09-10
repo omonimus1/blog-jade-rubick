@@ -69,7 +69,7 @@ But the main problem is that it isn’t specific enough.
 
 ### Communication != Collaboration != Coordination
 
-When you hear people say they want teams to collaborate more or break down silos, I encourage you to look at the problem from three perspectives:
+When you hear someone say they want teams to collaborate more or break down silos, encourage them to look at the problem from three perspectives:
 
 **Coordination**
 
