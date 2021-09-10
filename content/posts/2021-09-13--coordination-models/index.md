@@ -67,6 +67,7 @@ Team coordination models are the models you turn to most regularly. Familiarize 
 
 I realize this doesn’t include much detail on any of the patterns. I’ll be sharing more detailed posts on most of the above patterns. Please let me know if you see any patterns I’ve missed, or would like to hear more about any of these patterns. 
 
+I'd encourage you to subscribe (using the link in the upper right) if you'd like to be notified as I post more information on each of these patterns.
 
 ## Thank you
 
