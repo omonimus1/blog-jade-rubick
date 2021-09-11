@@ -12,7 +12,7 @@ As an organizational leader, you’ll be faced with many situations where you’
 
 Today, I’ll list some coordination models you can use to solve many of these situations. These models are very much like tools in a toolbox. You want to have a lot of familiarity with the tools you can use, and which tools make sense in what situation. 
 
-In future blog posts, I’ll go much deeper on each of these models, so you can develop a sense of when to apply each model. Let me know if you have any you’d like to see sooner than others -- I don’t have to go in order.
+In future blog posts, I’ll go much deeper on each of these models, so you can develop a sense of when to apply each model. Any of the links you see already have blog posts that describe this pattern. Let me know if you have any you’d like to see sooner than others -- I don’t have to go in order.
 
 ### How to use these coordination models
 
