@@ -109,7 +109,7 @@ You might think of silos as "encapsulation". Leaders want to dig into the intern
 
 ### How do you get teams to coordinate better?
 
-In the next post in this series, I share concrete patterns that help teams and departments work across organizational boundaries. Stay tuned!
+In the next post in this series, I share concrete [patterns that help teams and departments work across organizational boundaries](/coordination-models). 
 
 ### What do you think?
 
