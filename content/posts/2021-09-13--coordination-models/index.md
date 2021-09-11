@@ -25,10 +25,10 @@ I’ve put these models into three categories:
 
 ### Centralized coordination models
 
-As we discussed in my last post, you should [centralize coordination and goal-setting](https://www.rubick.com/how-to-build-silos-and-decrease-collaboration/). These patterns are appropriate for achieving better global coordination and alignment. 
+As we discussed in my last post, you should [centralize coordination and goal-setting](/how-to-build-silos-and-decrease-collaboration/). These patterns are appropriate for achieving better global coordination and alignment. 
 
 1. **Product strategy**. A written strategy which outlines the environment and way forward. 
-2. **[Standards](https://www.rubick.com/exploration-and-exploitation-in-technical-standards/)**. Rules that define guardrails in team behavior and force conversations about non-standard choices.
+2. **[Standards](/exploration-and-exploitation-in-technical-standards/)**. Rules that define guardrails in team behavior and force conversations about non-standard choices.
 3. **Tenets**. Mental shortcuts to help people globally make tradeoff decisions.
 4. **Goal frameworks**. A way to set goals that attempt to be coherent across the organization, and translate across the functions to coordinate work.
 5. **Metrics**. Track numbers to drive particular outcomes, add observability, or force attention to an area.
@@ -54,7 +54,7 @@ Team coordination models are the models you turn to most regularly. Familiarize 
 3. **Independent executor**. A team produces customer value without collaboration with other teams. They may make requests of other teams, but they don’t rely on those requests being completed.
 4. **Liaison**. An individual serves as a communication channel with a team or group of teams.
 5. **Embedded**. An individual has a source team, but spends the majority of their time working in another team and is treated like a part of that team. A variation of this is when the individual is associated with multiple teams or an organization, and they do work for those teams, or move between them. 
-6. **[Single-threaded-owner](https://www.rubick.com/implementing-amazons-single-threaded-owner-model/)**. A team where all the cross-functional contributors (most commonly engineering, product, and design) all report to the same manager.  
+6. **[Single-threaded-owner](/implementing-amazons-single-threaded-owner-model/)**. A team where all the cross-functional contributors (most commonly engineering, product, and design) all report to the same manager.  
 7. **Centralized liaison**. A variation of the Liaison model, where you have representatives from a number of teams form a working group. 
 8. **Merged group** (aka DevOps pattern). Two groups that previously passed work between each other are merged. 
 9. **Task force**. Temporarily create a merged team that focuses on a particular outcome, maximizing short-term collaboration. 
