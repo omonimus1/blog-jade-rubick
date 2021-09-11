@@ -53,7 +53,7 @@ Team coordination models are the models you turn to most regularly. Familiarize 
 2. **Self-service**. A team offers its work product without requiring other teams to collaborate with them.
 3. **Independent executor**. A team produces customer value without collaboration with other teams. They may make requests of other teams, but they don’t rely on those requests being completed.
 4. **Liaison**. An individual serves as a communication channel with a team or group of teams.
-5. **Embedded**. An individual has a source team, but spends the majority of their time working in another team and is treated like a part of that team. 
+5. **Embedded**. An individual has a source team, but spends the majority of their time working in another team and is treated like a part of that team. A variation of this is when the individual is associated with multiple teams or an organization, and they do work for those teams, or move between them. 
 6. **[Single-threaded-owner](https://www.rubick.com/implementing-amazons-single-threaded-owner-model/)**. A team where all the cross-functional contributors (most commonly engineering, product, and design) all report to the same manager.  
 7. **Centralized liaison**. A variation of the Liaison model, where you have representatives from a number of teams form a working group. 
 8. **Merged group** (aka DevOps pattern). Two groups that previously passed work between each other are merged. 
