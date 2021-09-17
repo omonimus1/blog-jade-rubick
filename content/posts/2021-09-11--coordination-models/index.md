@@ -29,7 +29,7 @@ As we discussed in my last post, you should [centralize coordination and goal-se
 
 1. **Product strategy**. A written strategy which outlines the environment and way forward. 
 2. **[Standards](/exploration-and-exploitation-in-technical-standards/)**. Rules that define guardrails in team behavior and force conversations about non-standard choices.
-3. **Tenets**. Mental shortcuts to help people globally make tradeoff decisions.
+3. **[Tenets](/tenets-for-faster-decisionmaking/)**. Mental shortcuts to help people globally make tradeoff decisions.
 4. **Goal frameworks**. A way to set goals that attempt to be coherent across the organization, and translate across the functions to coordinate work.
 5. **Metrics**. Track numbers to drive particular outcomes, add observability, or force attention to an area.
 6. **Centralized/decentralized prioritization**. Cut through cross-team projects gridlock by providing prioritization for critical projects and a way to break ties in prioritizations between decentralized teams.
