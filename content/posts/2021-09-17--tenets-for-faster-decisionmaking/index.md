@@ -35,7 +35,7 @@ It’s often good to have a “We value this, over this” structure to the tene
 * We build our software to scale by ten times our current baseline traffic. Vs.
 * We build our software to scale by twenty times our current baseline traffic. 
 
-Both of the variations are valid, so you know it’s a good tenet. It should feel opinionated!
+Both of the variations are valid, so you know it’s a good tenet. It should feel opinionated! One tip: try to think of the things people are actually trading off and use that.
 
 After you have the pithy sentence for a tenet, the next part is the commentary. You should have commentary after the tenet that gives more nuance, and helps people understand WHY we do things this way. Give a little context for why this makes sense for the company, and also outline when we might not follow the tenet. Be opinionated, but show the nuance.
 
