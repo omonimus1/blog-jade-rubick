@@ -63,6 +63,10 @@ Tenets can be centralized and global. They can also be federated throughout the 
 
 * I’ve never tried starting an organization or team with a set of tenets -- I’ve always viewed them as emergent. If you have experience with this, I’d love to hear the tradeoffs you found. 
 
+### Coordination models
+
+Tenets are just one of many [coordination models](/coordination-models/). Coordination models give you a menu of choices to choose from when solving your leadership coordination issues. 
+
 ### Thank you
 
 [Shaun Yelle](https://www.linkedin.com/in/shaunyelle/) for introducing me to tenets. [Seth Falcon](https://www.linkedin.com/in/sethfalcon/) for overall feedback, for pointing out the initial version had too many steps to implement tenets and basically rewriting it for me, for the interesting question about emergent tenets versus initializing a team with them, and for some excellent editing suggestions. [Matthew Finlayson](https://www.linkedin.com/in/matthewfinlayson1/) for feedback on this post and suggesting I go into more detail on how to implement tenets. 
