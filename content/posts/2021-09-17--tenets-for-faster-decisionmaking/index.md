@@ -37,7 +37,7 @@ It’s often good to have a “We value this, over this” structure to the tene
 
 Both of the variations are valid, so you know it’s a good tenet. It should feel opinionated! One tip: try to think of the things people are actually trading off and use that.
 
-After you have the pithy sentence for a tenet, the next part is the commentary. You should have commentary after the tenet that gives more nuance, and helps people understand WHY we do things this way. Give a little context for why this makes sense for the company, and also outline when we might not follow the tenet. Be opinionated, but show the nuance.
+After you have the pithy sentence for a tenet, the next part is the commentary. You should have commentary after the tenet that gives more nuance, and helps people understand WHY we do things this way. Give a little context for why this makes sense for the company, and also outline when we might not follow the tenet. Be opinionated, but show the nuance. You can also give people some rules of thumb they can use to help them decide these things for themselves. For example, if the tenet is "we're willing to spend money on problems to speed things up", you might provide guidance that you can assume an engineer's time is worth a million dollars a year.
 
 Note my examples above are how I do it. Feel free to use your own format -- just make sure it is clear and unambiguous. 
 
