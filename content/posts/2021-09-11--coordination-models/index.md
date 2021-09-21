@@ -49,7 +49,7 @@ These coordination models are limited in scope, so use them when appropriate but
 
 Team coordination models are the models you turn to most regularly. Familiarize yourself with all the different models, as each is a tool you can use for particular situations. 
 
-1. **Service provider**. A team has a valuable skill or service they provide to other teams (and those other teams depend on them to succeed).
+1. **[Service provider](/service-provider-model/)**. A team has a valuable skill or service they provide to other teams (and those other teams depend on them to succeed).
 2. **Consultant**. A consultant is available to help guide other teams to make better decisions or learn faster. They are never a hard dependency for other teams' work.
 3. **Self-service**. A team offers its work product without requiring other teams to collaborate with them.
 4. **Independent executor**. A team produces customer value without collaboration with other teams. They may make requests of other teams, but they don’t rely on those requests being completed.
