@@ -61,6 +61,7 @@ Team coordination models are the models you turn to most regularly. Familiarize 
 10. **Task force**. Temporarily create a merged team that focuses on a particular outcome, maximizing short-term collaboration. 
 11. **Tiger team**. A long-lived team that does work in other team's territories (and that's how they are defined, as a boundary-less team). 
 11. **Objective expert**. An expert or group of experts produce measurements or reports that help visualize problems, to drive behavioral changes.
+12. **Work demander**. A team demands work of other teams, and they have to do the work. 
 12. **Cousin team**. Change the management hierarchy so teams that need to collaborate have the same Director. 
 13. **Community of practice**. Support specialists across cross-functional teams by creating a group that shares information and practices, and often defines standards.
 
