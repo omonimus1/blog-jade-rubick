@@ -50,7 +50,7 @@ One of the more common [coordination models](/coordination-models/) is the Servi
 * **Evaluate how realistic it is to service the needs of the organization**. You can often use measurements to keep an eye on things -- turnaround time for requests, or 95 percentile for turnaround time. If your engagements are longer-lasting, interview people and make sure you’re aware of the impact of projects that don’t get prioritization. Try to be conscious of the impact of latency, and of shifting priorities. If the team isn’t set up in a realistic way, it’s time to have some serious discussions about its future.
 * **Use automation projects to give your team higher leverage**. This is a balancing act, because you have to balance the need to help people with the need to get automation work completed. Sometimes the only way to dig your way out of the hole you’re in when using the service provider pattern is to make your customers less happy while you automate the improvements.
 * **Communicate prioritization and tradeoffs**. You want people to understand what they can expect from you and what they can’t. A big source of frustration dealing with service provider teams 
-* **Switch to another model**. There are often better [coordination models](https://www.rubick.com/coordination-models/) you can use, that you can gradually transition to.
+* **Switch to another model**. There are often better [coordination models](/coordination-models/) you can use, that you can gradually transition to.
 
 
 ### Service provider versus other coordination models
