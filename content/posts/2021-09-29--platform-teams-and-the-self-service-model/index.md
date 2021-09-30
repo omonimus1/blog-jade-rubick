@@ -38,7 +38,6 @@ I generally recommend to start using self-service as soon as you have platform t
 ### Pros
 
 
-
 * **Highly scalable**. There isn’t a better [coordination model](/coordination-models/) that I’m aware of for decoupling the teams within an organization than self-service. It dramatically reduces the coordination requirements between teams. It’s one of the few things a company can do to get a “compounded interest” type of productivity out of engineering. 
 * **Customer-focused**. Using self-service requires teams to think about and listen to their internal stakeholders. This can be rewarding for engineers who like to see the impact of their work. And this can often mean the overall Platform organization will be more focused and effective.
 
@@ -70,9 +69,8 @@ When you treat your offering as a product, you engage in a different focus than 
 
 **Don’t just create great documentation**
 
-
-    “Too many folks think good self-service is all about extensive documentation. While it can be true that great self-service offerings have a lot of documentation, designing a thing intentionally to eliminate questions and doubt is the high art here.”  \
--- Merlyn Albery-Speyer
+“Too many folks think good self-service is all about extensive documentation. While it can be true that great self-service offerings have a lot of documentation, designing a thing intentionally to eliminate questions and doubt is the high art here.”  
+-- [Merlyn Albery-Speyer](https://github.com/curious-attempt-bunny)
 
 How do you do this? You need to radically reduce complexity in the user experience. When exploring a solution, [John Hyland](https://www.linkedin.com/in/jhyland/) has a wonderful talk (“So Simple A Well Trained Artichoke Could Do It”) on an approach to building out a solution that minimizes the number of steps it takes to accomplish your goals -- I’ll post it here when it’s publicly available. In this talk, he advocates for an iterative approach where you create an implementation and then refine it multiple times, each time removing steps you have to go through to use your API or tooling, and reducing the amount of outside knowledge required. You need to actually go through the steps the user will go through. The user experience isn’t adornment -- it’s actually most of the value you’re providing, so spend a lot of time on that.
 
@@ -140,11 +138,6 @@ The natural pair for self-service is the independent execution model, which I’
 
 Two other coordination models that are natural fits with self-service are embedded and consulting models. With self-service, you have a strong need to stay connected to the needs of your customers. So having team members embedded in other teams can be a useful way to see what their pain-points are. And if you provide a way for people to consult with your team when they have problems while using your work, you gain a valuable source of information on where your offering is falling short of the self-service ideal. So embedded and consulting models can be good complements to the self-service model.
 
-
-### Thank you
-
-This post benefited heavily from the feedback and thinking of many people with deep experience building Platforms. [Jim Shore](https://www.jamesshore.com) introduced self-service to me. I’d like to thank [Merlyn Albery-Speyer](https://github.com/curious-attempt-bunny) for offering a huge list of things he’s learned over the years building self-service teams, many of which became key points in this article. [Aaron Erickson](https://www.linkedin.com/in/aaronerickson/) shared his experiences with platforms as well, which helped cover some points I wouldn’t have thought to include. [Gus Shaffer](https://www.linkedin.com/in/gusshaffer/) had a lot of wisdom to share on things to watch out for and in particular some of the challenges of moving to self-service. [Marty Matheny](https://www.linkedin.com/in/martymatheny/) double-checked my memory about the database team at New Relic and helped me see how they had gone about moving to self-service, which helped flesh out the Wizard of Oz pattern. [John Hyland](https://www.linkedin.com/in/jhyland/) has taught me a lot about building platforms (as we built them together!), and provided valuable feedback on this article. I learned about the importance of the plug-in model from [Bjorn Freeman-Benson](https://www.linkedin.com/in/bjornfreemanbenson/) and [Kevin McGuire](https://www.linkedin.com/in/mcgui/). [Ben Bernard](https://www.linkedin.com/in/bernardben/) and [Ada Cohen](https://www.linkedin.com/in/ada-cohen-75176a93/) were some of the most effective people I’ve seen at being both customer focused and building developer experience tooling, so watching them in action helped me see some of the patterns I’ve mentioned in this post.
-
 ### Coordination models
 
 Self-service is just one of many [coordination models](/coordination-models/). Coordination models give you a menu of choices to choose from when solving your leadership coordination issues. 
@@ -152,5 +145,11 @@ Self-service is just one of many [coordination models](/coordination-models/). C
 ### Feedback
 
 See anything I missed? Disagree with this? Please let me know your thoughts!
+
+
+### Thank you
+
+This post benefited heavily from the feedback and thinking of many people with deep experience building Platforms. [Jim Shore](https://www.jamesshore.com) introduced self-service to me. I’d like to thank [Merlyn Albery-Speyer](https://github.com/curious-attempt-bunny) for offering a huge list of things he’s learned over the years building self-service teams, many of which became key points in this article. [Aaron Erickson](https://www.linkedin.com/in/aaronerickson/) shared his experiences with platforms as well, which helped cover some points I wouldn’t have thought to include. [Gus Shaffer](https://www.linkedin.com/in/gusshaffer/) had a lot of wisdom to share on things to watch out for and in particular some of the challenges of moving to self-service. [Marty Matheny](https://www.linkedin.com/in/martymatheny/) double-checked my memory about the database team at New Relic and helped me see how they had gone about moving to self-service, which helped flesh out the Wizard of Oz pattern. [John Hyland](https://www.linkedin.com/in/jhyland/) has taught me a lot about building platforms (as we built them together!), and provided valuable feedback on this article. I learned about the importance of the plug-in model from [Bjorn Freeman-Benson](https://www.linkedin.com/in/bjornfreemanbenson/) and [Kevin McGuire](https://www.linkedin.com/in/mcgui/). [Ben Bernard](https://www.linkedin.com/in/bernardben/) and [Ada Cohen](https://www.linkedin.com/in/ada-cohen-75176a93/) were some of the most effective people I’ve seen at being both customer focused and building developer experience tooling, so watching them in action helped me see some of the patterns I’ve mentioned in this post. 
+
 
 Image by <a href="https://pixabay.com/users/bertomic-2406133/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1576893">Michel Bertolotti</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1576893">Pixabay</a>
