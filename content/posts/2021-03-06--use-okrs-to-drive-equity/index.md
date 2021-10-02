@@ -25,4 +25,8 @@ One thing to be careful of politically: you are branded by the work you do, and 
 
 At startups, the focus is usually on the company's survival. You don’t want your efforts to be seen as competing with the survival of the company (even if the things you're doing make the company better and more attractive to candidates). Delivery will always be the top priority of any engineering department. So having it be an OKR per quarter is a good way to make sure you’re committing to continual progress.
 
+## General advice on OKRs
+
+See [advice on using goal frameworks](/advice-for-using-goal-framworks/) to see more suggestions on how to use goals to drive the results you're looking for.
+
 _Image by <a href="https://pixabay.com/users/geralt-9301/">Gerd Altmann</a> from <a href="https://pixabay.com/">Pixabay</a>_
