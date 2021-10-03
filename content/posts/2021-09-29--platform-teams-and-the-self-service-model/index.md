@@ -61,11 +61,11 @@ I generally recommend to start using self-service as soon as you have platform t
 
 When you treat your offering as a product, you engage in a different focus than when you focus on “building a platform”. You focus on solving your customer’s problems. This implies your team...
 
-
-
 * Spends time with the teams using your offering, understanding their needs. 
 * Can accurately represent the relative value of requests they hear. Merlyn Albery-Speyer: “My first lesson was to not build anything for any single team’s needs. A test question to ask your customers is: if your team had to build/fix this yourselves, how much engineering effort would you be willing to invest in it? If the response is: ‘well, none of course!’ Then they’ve indirectly answered how valuable the need was to them.”
 * Uses adoption and usage metrics to learn how people are using your work. Like a team launching a product, you carefully watch adoption, and think about the entire experience using your product.
+
+I favor having a product manager on platform teams. However, you can also have a technical leader act in this capacity, or have the engineering manager do it. Generally which way you go on this depends on the complexity of the environment, and the time it takes to do this job well. However you structure this, you should endeavor to have the whole team be as customer focused as possible. 
 
 **Don’t just create great documentation**
 
