@@ -56,14 +56,15 @@ Team coordination models are the models you turn to most regularly. Familiarize 
 5. **Liaison**. An individual serves as a communication channel with a team or group of teams.
 6. **Embedded**. An individual has a source team, but spends the majority of their time working in another team and is treated like a part of that team. A variation of this is when the individual is associated with multiple teams or an organization, and they do work for those teams, or move between them. 
 7. **[Single-threaded-owner](/implementing-amazons-single-threaded-owner-model/)**. A team where all the cross-functional contributors (most commonly engineering, product, and design) all report to the same manager.  
-8. **Centralized liaison**. A variation of the Liaison model, where you have representatives from a number of teams form a working group. 
-9. **Merged group** (aka DevOps pattern). Two groups that previously passed work between each other are merged. 
-10. **Task force**. Temporarily create a merged team that focuses on a particular outcome, maximizing short-term collaboration. 
-11. **Tiger team**. A long-lived team that does work in other team's territories (and that's how they are defined, as a boundary-less team). 
-11. **Objective expert**. An expert or group of experts produce measurements or reports that help visualize problems, to drive behavioral changes.
-12. **Work demander**. A team demands work of other teams, and they have to do the work. 
-12. **Cousin team**. Change the management hierarchy so teams that need to collaborate have the same Director. 
-13. **Community of practice**. Support specialists across cross-functional teams by creating a group that shares information and practices, and often defines standards.
+8. **Rotation**. A variation on the Liasion model, where a person from a team (or set of teams) takes on a role for a defined period of time.
+9. **Centralized liaison**. A variation of the Liaison model, where you have representatives from a number of teams form a working group. 
+10. **Merged group** (aka DevOps pattern). Two groups that previously passed work between each other are merged. 
+11. **Task force**. Temporarily create a merged team that focuses on a particular outcome, maximizing short-term collaboration. 
+12. **Tiger team**. A long-lived team that does work in other team's territories (and that's how they are defined, as a boundary-less team). 
+13. **Objective expert**. An expert or group of experts produce measurements or reports that help visualize problems, to drive behavioral changes.
+14. **Work demander**. A team demands work of other teams, and they have to do the work. 
+15. **Cousin team**. Change the management hierarchy so teams that need to collaborate have the same Director. 
+16. **Community of practice**. Support specialists across cross-functional teams by creating a group that shares information and practices, and often defines standards.
 
 
 ## More detail coming soon
