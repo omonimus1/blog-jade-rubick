@@ -1,6 +1,6 @@
 ---
 title: Advice for using goal frameworks
-tags: ["coordination-models", "coordination-models-centralized"]
+tags: ["coordination-models", "coordination-models-centralized", "okrs", "goals"]
 cover: goal.jpg
 author: Jade Rubick
 discussionId: "goal-frameworks"
