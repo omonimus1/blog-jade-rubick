@@ -115,7 +115,7 @@ Any important advice I missed? Let me know!
 
 ### Coordination models
 
-Self-service is just one of many [coordination models](/coordination-models/). Coordination models give you a menu of choices to choose from when solving your leadership coordination issues. 
+Goal frameworks are just one of many [coordination models](/coordination-models/). Coordination models give you a menu of choices to choose from when solving your leadership coordination issues. 
 
 ### Thank you
 
