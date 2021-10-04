@@ -119,7 +119,7 @@ Goal frameworks are just one of many [coordination models](/coordination-models/
 
 ### Thank you
 
-Thank you to [Bjorn Freeman-Benson](https://www.linkedin.com/in/bjornfreemanbenson/) for pointing out the problem of over-specificity as a challenge with goal frameworks. And to [Gus Shaffer](https://www.linkedin.com/in/gusshaffer/) for suggesting I add an example to the “don’t use goal frameworks to manage projects” section. And to [Gustavo Aguiar](https://www.linkedin.com/in/gustavo-aguiar/) for edits and feedback.
+Thank you to [Bjorn Freeman-Benson](https://www.linkedin.com/in/bjornfreemanbenson/) for pointing out the problem of over-specificity as a challenge with goal frameworks. And to [Gus Shaffer](https://www.linkedin.com/in/gusshaffer/) for suggesting I add an example to the “don’t use goal frameworks to manage projects” section. And to [Gustavo Aguiar](https://www.linkedin.com/in/gustavo-aguiar/) for edits and feedback. [Alex Kroman](https://www.linkedin.com/in/alexkroman/) taught me some of the rules of thumb here. 
 
 ### Feedback
 
