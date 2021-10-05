@@ -1,6 +1,6 @@
 ---
 title: Don’t use goal frameworks to manage projects
-tags: ["coordination-models", "coordination-models-centralized", "okrs", "goal-setting"]
+tags: ["coordination-models", "coordination-models-centralized", "okrs", "goal-setting", "project-management"]
 cover: goal.jpg
 author: Jade Rubick
 discussionId: "goal-frameworks"
