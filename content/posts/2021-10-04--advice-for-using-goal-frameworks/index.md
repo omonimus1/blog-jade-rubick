@@ -67,7 +67,7 @@ Another thing I’ve found is that you don’t get out of projects in OKRs for f
 
 If things change, should you update the goal, or leave it? I believe it’s a common mistake to focus on accountability more than having the goals make sense. If you don’t change the goals, then every meeting you’re reviewing something stale. My advice? Update your goals as you have new information.
 
-The alternative to this results in a situation where people are reporting on the same dead every week. It becomes ridiculous -- but I see this all the time.
+The alternative to this results in a situation where people are reporting on the same dead goal every week. It becomes ridiculous -- but I see this all the time.
 
 
 ### Consider trying “2-up” for organizational awareness 
@@ -119,7 +119,7 @@ Goal frameworks are just one of many [coordination models](/coordination-models/
 
 ### Thank you
 
-Thank you to [Bjorn Freeman-Benson](https://www.linkedin.com/in/bjornfreemanbenson/) for pointing out the problem of over-specificity as a challenge with goal frameworks. And to [Gus Shaffer](https://www.linkedin.com/in/gusshaffer/) for suggesting I add an example to the “don’t use goal frameworks to manage projects” section. And to [Gustavo Aguiar](https://www.linkedin.com/in/gustavo-aguiar/) for edits and feedback. [Alex Kroman](https://www.linkedin.com/in/alexkroman/) taught me some of the rules of thumb here. 
+Thank you to [Bjorn Freeman-Benson](https://www.linkedin.com/in/bjornfreemanbenson/) for pointing out the problem of over-specificity as a challenge with goal frameworks. And to [Gus Shaffer](https://www.linkedin.com/in/gusshaffer/) for suggesting I add an example to the “don’t use goal frameworks to manage projects” section. And to [Gustavo Aguiar](https://www.linkedin.com/in/gustavo-aguiar/) for edits and feedback. [Alex Kroman](https://www.linkedin.com/in/alexkroman/) taught me some of the rules of thumb here. [Merlyn Albery-Speyer](https://github.com/curious-attempt-bunny) gave me feedback and pointed out typos. 
 
 ### Feedback
 
