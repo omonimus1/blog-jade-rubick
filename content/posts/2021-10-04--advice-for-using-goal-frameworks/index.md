@@ -1,5 +1,5 @@
 ---
-title: Advice for using goal frameworks
+title: Don’t use goal frameworks to manage projects
 tags: ["coordination-models", "coordination-models-centralized", "okrs", "goal-setting"]
 cover: goal.jpg
 author: Jade Rubick
@@ -10,21 +10,15 @@ discussionId: "goal-frameworks"
 
 Goal frameworks are a way to create a set of goals within the organization that attempt to be coherent across all the groups that need to contribute to that goal. The most common framework is [OKRs](https://en.wikipedia.org/wiki/OKR), but you also see [V2MOM](https://www.salesforce.com/blog/how-to-create-alignment-within-your-company/) and homegrown goal frameworks. You can even just track a list of goals across all departments. The military has a system called Commander’s Intent that you might be interested in, as well. 
 
+In this post, I talk about some general advice for frameworks, and in particular cover why not to use them for managing projects.  
 
 ### When to use goal frameworks
 
 Goal frameworks are useful when you see a lot of confusion or a lack of coherence in what people are working towards. They allow local goals to be aligned more with the central goals of the organization, and can help rationalize conflicting objectives and align parts of the organization that need to coordinate their work together. 
 
-
-### How to use goal frameworks
-
-A lot of ink has been written on OKRs and similar systems, so I won’t go super deep on them except to share some suggestions based on my own experience.
-
-
 ### Plan for about half a quarter, not a full quarter
 
 The biggest error people make with goals is they overcommit and underfocus. A good rule of thumb is to choose a few things that represent about <span style="text-decoration:underline;">half</span> a quarter’s work, and make those your goals. You’ll have other stuff you have to focus on too, and you’ll have emergencies. You’re probably not accounting for that, so this helps you think critically about what you can accomplish. 
-
 
 ### Is it theater, or is it real?
 
@@ -32,11 +26,9 @@ When you’re using a goal framework, it’s usually a good idea to take it at f
 
 In a higher trust organization, or when you have the privilege to not worry about your position, make goals that think backwards -- what should be true? I like to ask what the situation calls for long term, and work backwards to what needs to be true in the next quarter.
 
-
 ### Reconcile priorities with sister organizations and teams
 
 All of these systems can be useful because they force conversations about priorities and what you’re trying to accomplish. A lot of the value comes from improving coordination across separate parts of the organization. For example, you can make sure that the marketing organization and the engineering organization are preparing for the same big changes. So be sure that when you use goal frameworks, there is some sort of review of what other people in neighboring organizations and teams are doing. You’ll often find misalignment, and you can fix it early.
-
 
 ### Don’t use goal frameworks to manage projects
 
@@ -119,7 +111,7 @@ Goal frameworks are just one of many [coordination models](/coordination-models/
 
 ### Thank you
 
-Thank you to [Bjorn Freeman-Benson](https://www.linkedin.com/in/bjornfreemanbenson/) for pointing out the problem of over-specificity as a challenge with goal frameworks. And to [Gus Shaffer](https://www.linkedin.com/in/gusshaffer/) for suggesting I add an example to the “don’t use goal frameworks to manage projects” section. And to [Gustavo Aguiar](https://www.linkedin.com/in/gustavo-aguiar/) for edits and feedback. [Alex Kroman](https://www.linkedin.com/in/alexkroman/) taught me some of the rules of thumb here. [Merlyn Albery-Speyer](https://github.com/curious-attempt-bunny) gave me feedback and pointed out typos. 
+Thank you to [Bjorn Freeman-Benson](https://www.linkedin.com/in/bjornfreemanbenson/) for pointing out the problem of over-specificity as a challenge with goal frameworks. And to [Gus Shaffer](https://www.linkedin.com/in/gusshaffer/) for suggesting I add an example to the “don’t use goal frameworks to manage projects” section. And to [Gustavo Aguiar](https://www.linkedin.com/in/gustavo-aguiar/) for edits and feedback. [Alex Kroman](https://www.linkedin.com/in/alexkroman/) taught me some of the rules of thumb here. [Merlyn Albery-Speyer](https://github.com/curious-attempt-bunny) gave me feedback, suggested a different (and better) title, and pointed out typos. 
 
 ### Feedback
 
