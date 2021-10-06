@@ -1,5 +1,5 @@
 ---
-title: Creating a hiring strategy
+title: Rethink your hiring strategy to stand out and delight the best candidates
 tags: ["hiring", "recruiting", "diversity-equity-and-inclusion", "scaling", "pay-equity"]
 cover: hiring-strategy.jpg
 author: Jade Rubick
