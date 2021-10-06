@@ -1,5 +1,5 @@
 ---
-title: Platform teams and the self-service model
+title: Scale platform teams with the best approach for platform teams - self-service
 tags: ["coordination-models", "coordination-models-team"]
 cover: self-service.jpg
 author: Jade Rubick
