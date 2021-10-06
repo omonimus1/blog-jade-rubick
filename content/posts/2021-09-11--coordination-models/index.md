@@ -53,7 +53,7 @@ Team coordination models are the models you turn to most regularly. Familiarize 
 2. **Consultant**. A consultant is available to help guide other teams to make better decisions or learn faster. They are never a hard dependency for other teams' work.
 3. **[Self-service](/platform-teams-and-the-self-service-model/)**. A team offers its work product without requiring other teams to collaborate with them.
 4. **Independent executor**. A team produces customer value without collaboration with other teams. They may make requests of other teams, but they don’t rely on those requests being completed.
-5. **Liaison**. An individual serves as a communication channel with a team or group of teams.
+5. **[Liaison](/liaison-model/)**. An individual serves as a communication channel with a team or group of teams.
 6. **Embedded**. An individual has a source team, but spends the majority of their time working in another team and is treated like a part of that team. A variation of this is when the individual is associated with multiple teams or an organization, and they do work for those teams, or move between them. 
 7. **[Single-threaded-owner](/implementing-amazons-single-threaded-owner-model/)**. A team where all the cross-functional contributors (most commonly engineering, product, and design) all report to the same manager.  
 8. **Rotation**. A variation on the Liasion model, where a person from a team (or set of teams) takes on a role for a defined period of time.
