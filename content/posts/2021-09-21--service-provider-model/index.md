@@ -1,5 +1,5 @@
 ---
-title: Service provider model
+title: Beware the service provider model - a recipe for engineering team failure
 tags: ["coordination-models", "coordination-models-team"]
 cover: service-provider.jpg
 author: Jade Rubick
