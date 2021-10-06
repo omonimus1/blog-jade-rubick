@@ -1,5 +1,5 @@
 ---
-title: How to speed up hiring
+title: Your hiring process is too slow -- speed it up with a better approach
 tags: ["hiring", "diversity-equity-and-inclusion", "scaling", "pay-equity"]
 cover: hiring-fast.jpg
 author: Jade Rubick
