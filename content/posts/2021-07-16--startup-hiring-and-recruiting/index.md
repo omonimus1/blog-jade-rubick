@@ -1,5 +1,5 @@
 ---
-title: Tips for effective startup hiring and recruiting
+title: Wonderful hiring practices that for some reason aren't more common
 tags: ["hiring", "recruiting", "diversity-equity-and-inclusion", "scaling", "pay-equity"]
 cover: hiring.png
 author: Jade Rubick
