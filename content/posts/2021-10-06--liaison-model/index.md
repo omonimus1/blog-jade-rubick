@@ -9,9 +9,6 @@ discussionId: "liaison-model"
 <re-img src="liaison.jpg"></re-img>
 
 
-# Liaison model
-
-
 ### What is the liaison model
 
 A liaison is a person who serves as a coordinator with another team or group of teams. They attend relevant meetings, and share context in both directions. 
