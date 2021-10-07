@@ -1,6 +1,6 @@
 ---
 title: Scale platform teams with the best approach for platform teams - self-service
-tags: ["coordination-models", "coordination-models-team"]
+tags: ["coordination-models", "coordination-models-team", "platform"]
 cover: self-service.jpg
 author: Jade Rubick
 discussionId: "self-service"
@@ -92,16 +92,7 @@ Moving to self-service often takes a very long time. One thing to evaluate is ho
 
 **Minimize or even outlaw deprecation**
 
-This is probably going to be controversial, but Platform teams should not be in the business of deprecating their offerings, except when strictly necessary. Why?
-
-A platform team’s natural incentives don’t match the needs of the wider organization. The team will want to keep their code orderly and easy to work in. They will want to eliminate complexity and improve things. Sometimes these deprecations can cause a lot of internal pain for a team.
-
-Yet one of the dangers in a platform organization is that they can push a lot of work out to the broader organization. Platform teams exist to accelerate organizations, not to slow them down. This type of “fan-out” work is dangerous, because it is expensive and hidden. Platform teams should do go out of their way to provide simple upgrade paths and support legacy approaches for as long as they possibly can. I remember a time at New Relic when most of the work happening in Product Engineering was fan-out work from the Platform teams.
-
-On an organizational level, two ways to solve this are:
-
-1. Make it harder to deprecate things (require approval for an architect, for example).
-2. (My favorite) Make Platform teams responsible for doing their own deprecation work, even if the work is in other codebases. Doing this requires funding Platform teams at higher levels, because they’re expected to do a lot more work across codebases. One nice benefit to doing things this way is it eliminates the need to keep Platform teams from deprecating things, because the cost of doing this work isn’t externalized, so it is prioritized rationally. Platform teams will often say they’re not equipped to do this type of work -- if you hear that, I think the Platform org should be responsible for correcting that. If they are truly unable to do the work, they should at least organize or work closely with teams doing the deprecation work. Externalizing costs is a [moral hazard](https://en.wikipedia.org/wiki/Moral_hazard). 
+You [don't want platform teams to deprecate things](/should-platform-teams-deprecate/). Teams shouldn't create massive work for other teams. This is a controversial topic, so I wrote a whole post on it. 
 
 **Consider extending your offering to internal and external customers**
 
