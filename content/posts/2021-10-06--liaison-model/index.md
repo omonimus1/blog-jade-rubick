@@ -38,7 +38,7 @@ A liaison is one of the best [coordination models](/coordination-models/) to use
 
 One of the advantages is that it is inexpensive. Using a liaison only requires a few meetings a week for one person.
 
-You can scale liaisons as the organization grows. For example, our product marketing department might assign a liaison per product line. These product lines map to engineering teams or organizations. When the company introduces a new product line, you hires a new product marketing person. This person is then attached to the new engineering group.
+You can scale liaisons as the organization grows. For example, our product marketing department might assign a liaison per product line. These product lines map to engineering teams or organizations. When the company introduces a new product line, you hire a new product marketing person. This person is then attached to the new engineering group.
 
 ### When using this model
 
