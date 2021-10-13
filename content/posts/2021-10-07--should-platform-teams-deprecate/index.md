@@ -30,9 +30,9 @@ When you deprecate, you prioritize your work over the whole organization's work.
 
 ### Sometimes deprecation is necessary
 
-So this may sound like a rant against deprecation, but it is true that deprecation is often necessary. Sometimes technical choices paint you into a corner, and deprecation is your only way out. 
+So this may sound like a rant against deprecation, but it is true that deprecation is often necessary. Sometimes technical choices paint you into a corner, and deprecation is your only way out. The more a team has to maintain, the larger the surface area for vulnerabilities. And you do want to provide a consistent experience for a platform. And sometimes your team struggles to maintain legacy services that nobody understands. Having an unsustainable team load isn't realistic either.
 
-You should take this as an opportunity to learn. What decision did we make that required deprecation later? Even if someone else made those decisions, you can learn from them. 
+Start with taking this as an opportunity to learn. What decision did we make that required deprecation later? Even if someone else made those decisions, you can learn from them. 
 
 And when you do deprecate, you should take great care to minimize the cost on others. Provide simple upgrade paths. Support legacy approaches for as long as you can. 
 
@@ -60,6 +60,6 @@ See anything I missed? Disagree with this? Please let me know your thoughts!
 
 ## Thank you
 
-[Ben Bernard](https://www.linkedin.com/in/bernardben/) provided feedback on an earlier version of this article, and gave me insight into what he's seen at Amazon and Google and other places around deprecation. At Amazon they called this "owning your clients". [Ralph Bodenner](https://www.linkedin.com/in/ralphbodenner/) and I talked through the incentivizes and challenges of getting companies to work this way, and some of the failure modes we've seen in the past. He provided feedback on an earlier version of this post. 
+[Ben Bernard](https://www.linkedin.com/in/bernardben/) provided feedback on an earlier version of this article, and gave me insight into what he's seen at Amazon and Google and other places around deprecation. At Amazon they called this "owning your clients". [Ralph Bodenner](https://www.linkedin.com/in/ralphbodenner/) and I talked through the incentivizes and challenges of getting companies to work this way, and some of the failure modes we've seen in the past. He provided feedback on an earlier version of this post. [Marcos Wright-Kuhns](https://www.linkedin.com/in/marcoswk/) pointed out some other aspects of deprecation, like security and consistency, that helped me flesh out the "sometimes deprecation is necessary" section. [Eric Dobbs](https://www.linkedin.com/in/dobbse/) shared a helpful talk from [Laura Nolan](https://www.linkedin.com/in/laura-nolan-bb7429/) on [how to choose to kill or migrate something in place](https://leaddev.com/leaddev-live/kill-it-fire-or-not-kill-it-fire) (registration required). 
 
 Image by <a href="https://pixabay.com/users/zhuwei06191973-11952162/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5409293">wei zhu</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5409293">Pixabay</a>
