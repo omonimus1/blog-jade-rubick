@@ -27,20 +27,19 @@ The main problem is that there is no **coordination**.
 So let me share an interview format I use. 
 
 The basic process is
-1. Copy the format from [this Google Doc](https://docs.google.com/document/d/1WlkzpOMoQnmaG5wVTjV2JFtbis1ykKjlaE0unO8XbEA/edit#). 
-2. Decide on what you want to learn about the candidate in order to make a confident decision. You might put them into categories, like Managing Projects, Managing People, Managing process, and Technical decision-making. These are your **interview sections**. 
-3. Choose two people to do each interview (they'll observe the interview better, and learn from each other, which increases your organizations ability to select candidates over time). One is okay if you can't find a second person.
-4. For each interview section, write down what you actually want to know in order to understand the candidates strengths and weaknesses. For Process interview, for example, you might want to know that their improvements are impactful. So write down: "They are an active force on their team and company, improving things." 
-5. Then, have the interviewers write down the questions they're going to ask (or what they'll do) to find out the answer to those areas. Looking at the previous question, I might add the question: "What improvements have you made in the past that have had the most impact on your team and the company? [Followup question: what impact did they have?] 
-6. Finally, for each question, have them write down what a good answer would look like. For the question above, I might say something like, *An poor answer would be switching to Kanban, or introducing standups (yes these can improve things, but the impact is very local). A better answer would be something like XYZ. A perfect answer would relate the impact to the results on the company, and the results would have made a substantial difference for the company.* 
-7. After people have submitted their questions, copy and paste the questions you're asking to [search for bias in the questions you're asking](http://gender-decoder.katmatfield.com/). I often find I'm gender coding in a way that might put off women. The tool pointed out that my previous framing had two masculine-coded words: "active" and "force". Usually removing the gender coding also makes it more clear. So I rewrite that area of inquiry to: "They make improvements on their team or company that have a large area of impact."
-8. After people have contributed the questions, you act as editor. Read through the interview and think about the interview experience, and whether these questions duplicate each other. Does the interview make sense? Could it be improved? Go through and improve the questions and talk through them with the interviewees.
+1. Make a list of assertions that should be true for the person to be right for this role. For example: works cooperatively across departments, experienced with org design and scaling organizations, able to attract and hire great talent. Or decomposes technical problems effectively, communicates technical matters clearly. Loosely prioritize this list of assertions. You won't use them all.
+2. For each assertion, list an interview question (or method) that will uncover evidence of how strong the candidate is in this area. 
+3. Group your assertions by category, like Managing Projects, Managing People, Managing process, and Technical decision-making. These are your **interview sections**. 
+4. Copy this [this Google Doc](https://docs.google.com/document/d/1WlkzpOMoQnmaG5wVTjV2JFtbis1ykKjlaE0unO8XbEA/edit#) and put your assertions and questions into the format, adding the people who will be responsible for each section. And what a good answer might look like. For example, I might say something like, *An poor answer would be switching to Kanban, or introducing standups (yes these can improve things, but the impact is very local). A better answer would be something like XYZ. A perfect answer would relate the impact to the results on the company, and the results would have made a substantial difference for the company.* 
+5. (optional) Choose _two_ people to do each interview (they'll observe the interview better, and learn from each other, which increases your organizations ability to select candidates over time). One is okay if you can't find a second person.
+6. Work with each interviewer to improve the questions they will ask. You act as editor, read through the interview and think about the interview experience, and whether questions duplicate each other. Make sure you have confidence answering those questions will answer the questions you're looking for.
+7. Copy and paste the questions you're asking to [search for bias in the questions you're asking](http://gender-decoder.katmatfield.com/). I often find I'm gender coding in a way that might exclude women -- for example, in a recent interview I used two masculine-coded words: "active" and "force". Usually removing the gender coding also makes it more clear. 
 
 After every interview, encourage everyone to ask themself these questions:
 
-1. Was I looking for the right information from this candidate? If not, alter or tweak the "what I'm looking for" section. (You'll probably need to alter the questions as well)
-2. Did I achieve my purposs of answering the objectives I was looking for? If not, you may need to tweak your interview question.
-3. Did I hear a particularly good or poor answer to the questions? If so, you may want to tweak the "what does a good response look like" section.
+1. Did I get the information I needed to make a confidence assessment of the candidate. If not, I should change my "assertions". 
+2. Did I understand the results of the assertion by asking the questions I did? If not, I should tweak the questions I ask. 
+3. Did I hear a particularly good or poor answer to the questions? If so, I may want to tweak the "what does a good response look like" section.
 
 So why is this format effective?
 
