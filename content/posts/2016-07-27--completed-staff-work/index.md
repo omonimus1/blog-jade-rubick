@@ -19,11 +19,11 @@ So, let me share with you one of the most powerful management concepts I’ve en
 
 ## An example of typical staff work
 
-New Relic had a couple of engineers located in a coworking space in a city in Europe. They were unhappy with the location—it had no windows, and they said it felt too tight. I talked about the issue with our facilities person, and he quickly located another location for us. But to make it happen he needed email approval from my manager.
+New Relic had a couple of engineers located in a coworking space in London. They were unhappy with the location—it had no windows, and they said it felt too tight. I talked about the issue with our facilities person, and he quickly located another location for us. But to make it happen he needed email approval from my manager.
 
 I composed an email to my manager that read something like this:
 
-_We’ve located a larger location. Their current office is cramped and has no window. The new office has a window, and enough room to fit 3 or 4 desks. The team looked at it and said it was perfect for their needs._
+_We’ve located a larger location for the London engineers. Their current office is cramped and has no window. The new office has a window, and enough room to fit 3 or 4 desks. The team looked at it and said it was perfect for their needs._
 
 _If you approve, reply to this email with approval for the additional monthly expenditure of $X a month._
 
@@ -49,7 +49,7 @@ A couple of takeaways:
 
 Completed Staff Work is when you present your plan to a decision-maker, and they can just give it a thumbs up to approve it. If they say, “sounds great, do it!” then it’s Completed Staff Work.
 
-One way of thinking about Completed Staff Work is this: Are you providing your best recommendation? Is it something you would stake your professional reputation on? If it isn’t, then it’s not Completed Staff Work.
+One way of thinking about Completed Staff Work is this: Are you providing your best recommendation? **Is it something you would stake your professional reputation on?** If it isn’t, then it’s not Completed Staff Work.
 
 So to take the earlier example, a better example of completed staff work would read something like this:
 
@@ -123,4 +123,4 @@ On the other hand, situations in which you aren’t able to give the go-ahead re
 
 I hope you find Completed Staff Work as useful as I have. I welcome your feedback.
 
-I'd like to thank Merlyn Albery-Speyer for substantial feedback on this article. Photo by <a href="https://freeimages.com/photographer/yankleber-44845">Yan Moura</a> from <a href="https://freeimages.com/">FreeImages</a>
+I'd like to thank [Merlyn Albery-Speyer](https://github.com/curious-attempt-bunny) for extensive feedback and suggestions to improve this post. Photo by <a href="https://freeimages.com/photographer/yankleber-44845">Yan Moura</a> from <a href="https://freeimages.com/">FreeImages</a>
