@@ -51,9 +51,7 @@ Instead, I like to use goal frameworks to improve the way engineering functions.
 
 You’ll often find this isn’t negotiable (the CEO might insist on it or there might be a need to coordinate across departments), so I just try to minimize it to the extent possible. One trick I have found useful here is when someone is pushing for a specific deliverable to be a part of the goals for the quarter, I ask what the outcome the project is intending to drive. That can provide some flexibility in how you reach that outcome.
 
- \
-Another thing I’ve found is that you don’t get out of projects in OKRs for free. You generally need to have your own [system for tracking and communicating](https://www.rubick.com/demo-driven-development/) the status of these things. Otherwise, the goal system will try and fill the void.
-
+I’ve found you don’t get out of projects in OKRs for free. Unless you provide your own [system for tracking and communicating](https://www.rubick.com/demo-driven-development/) the status of projects, people's information needs won't be met. Then, the goal system will seem like a solution to fill the void. 
 
 ### Make goals fluid
 
@@ -111,7 +109,7 @@ Goal frameworks are just one of many [coordination models](/coordination-models/
 
 ### Thank you
 
-Thank you to [Bjorn Freeman-Benson](https://www.linkedin.com/in/bjornfreemanbenson/) for pointing out the problem of over-specificity as a challenge with goal frameworks. And to [Gus Shaffer](https://www.linkedin.com/in/gusshaffer/) for suggesting I add an example to the “don’t use goal frameworks to manage projects” section. And to [Gustavo Aguiar](https://www.linkedin.com/in/gustavo-aguiar/) for edits and feedback. [Alex Kroman](https://www.linkedin.com/in/alexkroman/) taught me some of the rules of thumb here. [Merlyn Albery-Speyer](https://github.com/curious-attempt-bunny) gave me feedback, suggested a different (and better) title, and pointed out typos. 
+Thank you to [Bjorn Freeman-Benson](https://www.linkedin.com/in/bjornfreemanbenson/) for pointing out the problem of over-specificity as a challenge with goal frameworks. And to [Gus Shaffer](https://www.linkedin.com/in/gusshaffer/) for suggesting I add an example to the “don’t use goal frameworks to manage projects” section. And to [Gustavo Aguiar](https://www.linkedin.com/in/gustavo-aguiar/) for edits and feedback. [Alex Kroman](https://www.linkedin.com/in/alexkroman/) taught me some of the rules of thumb here. [Merlyn Albery-Speyer](https://github.com/curious-attempt-bunny) gave me feedback, suggested a different (and better) title, and pointed out typos. [Ian H Main](https://www.linkedin.com/in/ianmain/) pointed out some awkward language, and provided some helpful feedback.
 
 ### Feedback
 
