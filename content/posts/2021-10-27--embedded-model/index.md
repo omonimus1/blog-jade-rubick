@@ -92,7 +92,7 @@ Usually, you won’t have the latitude to do this. The designers will need to be
 
 **Merged group: let’s do DevOps!**
 
-You can combine departments that historical passed work between each other. The classic version of this is to combine developers and operators. Eliminating the departments and having them on the same team improves flow. This approach is like the [Single Threaded Owner model](/implementing-amazons-single-threaded-owner-model/), but less extreme. You're not doing it for every specialty, but one.
+You can combine departments that historically passed work between each other. The classic version of this is to combine developers and operators. Eliminating the departments and having them on the same team improves flow. This approach is like the [Single Threaded Owner model](/implementing-amazons-single-threaded-owner-model/), but less extreme. You're not doing it for every specialty, but one.
 
 This has similar tradeoffs, so read the STO model post for details.
 
@@ -116,7 +116,7 @@ When pairing the embedded model with a small centralized team, it can be useful 
 
 ### Coordination models
 
-Embedded is just one of many [coordination models](/coordination-models/). Coordination models give you a menu of choices to choose from when solving your leadership coordination issues.
+Embedded is just one of many [coordination models](/coordination-models/). Coordination models give you a menu of choices to choose from when solving your inter-team coordination issues.
 
 ### Feedback
 
