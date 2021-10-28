@@ -48,7 +48,7 @@ You can scale liaisons as the organization grows. For example, our product marke
 
 ### Liaison versus other coordination models
 
-A liaison is a limited version of the embedded model. When you need deep context, use the embedded model. When it makes sense to work together, prefer the embedded model. If your need for context isn't significant, use the liaison model instead.
+A liaison is a limited version of the [embedded model](/embedded-model/). When you need deep context, use the embedded model. When it makes sense to work together, prefer the embedded model. If your need for context isn't significant, use the liaison model instead.
 
 When you want someone to be available, a rotation model can be preferable. Rotations build less context. They also share the burden of being available better.
 
@@ -57,7 +57,7 @@ A collection of liaisons from many places forms a centralized liaison. For examp
 My advice:
 
 * Use liaisons with product marketing.
-* Use the embedded model or liaisons with security.
+* Use the [embedded model](/embedded-model/) or liaisons with security.
 * For support teams, use liaisons. Embedded support engineers would be a good experiment. For engineering teams, engineering rotations with the support liaison create a natural pair. This pair can triage and sometimes solve customer problems together.
 
 ### Next steps

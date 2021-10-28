@@ -16,7 +16,7 @@ The idea of the Single Threaded Owner comes from [Amazon](https://www.amazon.com
 
 ![STO hierarchy diagram](sto-hierarchy.png)
 
-The most common alternative to the STO model is what I call the “3 legged stool” model. In the [3 legged stool model](https://christineying.com/2014/10/23/three-legged-stool/), you have separate leadership hierarchies for Engineering, Product, and Design. Design sometimes reports to Product. But you then assemble a team of engineers, led by an Engineering Manager, with an embedded Product Manager and usually a Designer. The two or three of them become a sort of local leadership team. 
+The most common alternative to the STO model is what I call the “3 legged stool” model. In the [3 legged stool model](https://christineying.com/2014/10/23/three-legged-stool/), you have separate leadership hierarchies for Engineering, Product, and Design. Design sometimes reports to Product. But you then assemble a team of engineers, led by an Engineering Manager, with an [embedded](/embedded-model/) Product Manager and usually a Designer. The two or three of them become a sort of local leadership team. 
 
 ![three legged stool diagram](three-leg-stool.png)
 
@@ -64,7 +64,7 @@ We had four teams: two product teams, an agent team, and an infra team. All four
 
 After the reorganization, we ended up with three larger teams. We changed the Engineering Managers to be Single Threaded Owners, and changed the reporting so that the Designer and Product Manager for each team reported in to the new Single Threaded Owner. I acted as the manager of managers, which made me a Single Threaded Owner for all product development, and responsible for Engineering, Product, and Design. We had a Senior Director of Product, who reported to me and focused on high-level product strategy.
 
-Although this violated the Single Threaded Owner, we had a group of three principal engineers that reported outside of this hierarchy to the CTO. They were embedded on each team, and spent most of their time with the team. This served as an architectural group.
+Although this violated the Single Threaded Owner, we had a group of three principal engineers that reported outside of this hierarchy to the CTO. They were [embedded](/embedded-model/) on each team, and spent most of their time with the team. This served as an architectural group.
 
 Some other changes we made at the same time were to introduce weekly metrics review meetings, where the STOs and PMs would present what they had learned and were monitoring in their areas, based on metrics they tracked. We set up a monthly business review meeting which served as an interface between executive and local teams. 
 

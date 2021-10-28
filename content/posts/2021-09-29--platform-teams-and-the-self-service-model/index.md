@@ -127,7 +127,7 @@ Plugins can be important with self-service because plugging something into an ex
 
 The natural pair for self-service is the independent execution model, which I’ll write about in more detail later. In this model, teams don’t make plans for work that depends on non-existent capabilities. Or more precisely, they can make those plans, but they expect those plans to be high risk, and always plan for fallbacks where those things don’t occur. 
 
-Two other coordination models that are natural fits with self-service are embedded and consulting models. With self-service, you have a strong need to stay connected to the needs of your customers. So having team members embedded in other teams can be a useful way to see what their pain-points are. And if you provide a way for people to consult with your team when they have problems while using your work, you gain a valuable source of information on where your offering is falling short of the self-service ideal. So embedded and consulting models can be good complements to the self-service model.
+Two other coordination models that are natural fits with self-service are [embedded](/embedded-model/) and consulting models. With self-service, you have a strong need to stay connected to the needs of your customers. So having team members embedded in other teams can be a useful way to see what their pain-points are. And if you provide a way for people to consult with your team when they have problems while using your work, you gain a valuable source of information on where your offering is falling short of the self-service ideal. So embedded and consulting models can be good complements to the self-service model.
 
 ### Coordination models
 
