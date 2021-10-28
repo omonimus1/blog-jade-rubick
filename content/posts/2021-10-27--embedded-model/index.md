@@ -8,8 +8,6 @@ discussionId: "embedded-model"
 
 <re-img src="embed.jpg"></re-img>
 
-# Working together is the best -- the guide to happy embedding
-
 ### What is the embedded model?
 
 Companies need specialists. And specialists often do their work with people outside their department. For example, all these specialties work with software engineers:
