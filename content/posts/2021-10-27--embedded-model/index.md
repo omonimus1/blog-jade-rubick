@@ -98,6 +98,8 @@ You can combine departments that historically passed work between each other. Th
 
 This has similar tradeoffs, so read the STO model post for details.
 
+If your eventual aim is to have a merged group, it can often make sense to start with embedding. For example, let's say you have a centralize operations team. You want to eventually have teams own their own operations. You could move to an embedded model to uplevel the development teams on operational practices. Then, you can move a merged group later.
+
 **Service provider: have them come to you instead?**
 
 I generally prefer embedding to a [service provider](/service-provider-model/) approach. Most service providers lack the context and relationships to collaborate with teams.
