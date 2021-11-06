@@ -1,6 +1,6 @@
 ---
 title: Working together is the best -- the guide to happy embedding
-tags: ["coordination-models", "coordination-models-team", "org-design", "delivery", "velocity"]
+tags: ["coordination-models", "coordination-models-team", "org-design", "delivery", "velocity", "platform-engineering"]
 cover: embed.jpg
 author: Jade Rubick
 discussionId: "embedded-model"

@@ -1,6 +1,6 @@
 ---
 title: Scale platform teams with the best approach for platform teams - self-service
-tags: ["coordination-models", "coordination-models-team", "platform"]
+tags: ["coordination-models", "coordination-models-team", "platform-engineering"]
 cover: self-service.jpg
 author: Jade Rubick
 discussionId: "self-service"

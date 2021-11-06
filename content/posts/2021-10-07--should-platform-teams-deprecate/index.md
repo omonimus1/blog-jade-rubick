@@ -1,6 +1,6 @@
 ---
 title: Should platform teams deprecate or does that cause massive problems?
-tags: ["platform", "communication", "scaling", "org-design", "delivery", "velocity"]
+tags: ["platform", "communication", "scaling", "org-design", "delivery", "velocity", "platform-engineering"]
 cover: fan.jpg
 author: Jade Rubick
 discussionId: "platform-deprecation"
