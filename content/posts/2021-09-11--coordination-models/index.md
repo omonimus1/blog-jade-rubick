@@ -60,11 +60,12 @@ Team coordination models are the models you turn to most regularly. Familiarize 
 9. **Centralized liaison**. A variation of the Liaison model, where you have representatives from a number of teams form a working group. 
 10. **Merged group** (aka DevOps pattern). Two groups that previously passed work between each other are merged. 
 11. **Task force**. Temporarily create a merged team that focuses on a particular outcome, maximizing short-term collaboration. 
-12. **Tiger team**. A long-lived team that does work in other team's territories (and that's how they are defined, as a boundary-less team). 
-13. **Objective expert**. An expert or group of experts produce measurements or reports that help visualize problems, to drive behavioral changes.
-14. **Work demander**. A team demands work of other teams, and they have to do the work. 
-15. **Cousin team**. Change the management hierarchy so teams that need to collaborate have the same Director. 
-16. **Community of practice**. Support specialists across cross-functional teams by creating a group that shares information and practices, and often defines standards.
+12. **Away team**. Part or all of a team does work in another team's area. Lasts for the duration of a project.
+13. **Tiger team**. A long-lived team that does work in other team's territories (and that's how they are defined, as a boundary-less team). 
+14. **Objective expert**. An expert or group of experts produce measurements or reports that help visualize problems, to drive behavioral changes.
+15. **Work demander**. A team demands work of other teams, and they have to do the work. 
+16. **Cousin team**. Change the management hierarchy so teams that need to collaborate have the same Director. 
+17. **Community of practice**. Support specialists across cross-functional teams by creating a group that shares information and practices, and often defines standards.
 
 
 ## More detail coming soon
