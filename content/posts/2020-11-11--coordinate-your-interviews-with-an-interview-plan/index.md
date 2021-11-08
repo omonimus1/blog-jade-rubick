@@ -10,6 +10,8 @@ discussionId: "coordinate-your-interviews-interview-plan"
 
 Hiring well is one of the most high-leverage activities companies can make. Modest investments of time can make the difference between you hiring the best people for your company, and taking forever to hire people who may not be a great match.
 
+## How to coordinate poorly
+
 The most common (and **terrible**) way to organize interviews is to:
 * Decide on a group of people who can interview the candidate. 
 * Come up with a list of areas you want them to dig in on. 
@@ -24,6 +26,8 @@ This is problematic in a million ways:
 
 The main problem is that there is no **coordination**. 
 
+## Coordinate your interviews with a plan
+
 So let me share an interview format I use. 
 
 The basic process is
@@ -35,13 +39,15 @@ The basic process is
 6. Work with each interviewer to improve the questions they will ask. You act as editor, read through the interview and think about the interview experience, and whether questions duplicate each other. Make sure you have confidence answering those questions will answer the questions you're looking for.
 7. Copy and paste the questions you're asking to [search for bias in the questions you're asking](http://gender-decoder.katmatfield.com/). I often find I'm gender coding in a way that might exclude women -- for example, in a recent interview I used two masculine-coded words: "active" and "force". Usually removing the gender coding also makes it more clear. 
 
+## Tweak the format with continuous feedback
+
 After every interview, encourage everyone to ask themself these questions:
 
 1. Did I get the information I needed to make a confidence assessment of the candidate. If not, I should change my "assertions". 
 2. Did I understand the results of the assertion by asking the questions I did? If not, I should tweak the questions I ask. 
 3. Did I hear a particularly good or poor answer to the questions? If so, I may want to tweak the "what does a good response look like" section.
 
-So why is this format effective?
+## Why does this format work?
 
 1. It separates out what you want to learn, from how you are going to achieve it. This makes it easier to iterate on the interview format after every interview. 
 2. It is explicit about what you’re looking for in a good answer. This reduces bias, because you will have thought of it beforehand. This helps with interviewees that may not be the best interviewee, but are giving answers that indicate they might actually be the right person for the job. 
