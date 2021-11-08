@@ -12,11 +12,11 @@ Tenets are mental shortcuts that help an organization make decisions faster. The
 
 An example tenet might be, “we build our software to scale by ten times our current baseline traffic”. This tenet helps reduce the number of decisions people have to make in the future, and aligns the organization around HOW we do things.
 
-### When to use tenets
+## When to use tenets
 
 Tenets are valuable when there is a particular way of thinking you want to encourage. If you see people over and over discussing the same tradeoffs of HOW to do something, you might have a good candidate for a tenet. For example, if you see engineering teams always talking about how much to invest in testing, you could create a tenet to give clarity about it (a no-bullshit version of it might be something like “we value tests so much we’ll push back project deadlines to make sure it happens”. 
 
-### A good tenet
+## How to write tenets
 
 A good tenet should have a perfectly valid opposite tenet that would make sense in a different context. 
 
@@ -41,7 +41,7 @@ After you have the pithy sentence for a tenet, the next part is the commentary. 
 
 Note my examples above are how I do it. Feel free to use your own format -- just make sure it is clear and unambiguous. 
 
-### How to implement tenets
+## How to implement tenets
 
 1. Start with your team or organization. Discuss the pattern you see and the idea of using a tenet to help guide decision-making. 
 2. Write a draft and get feedback.
@@ -50,24 +50,24 @@ Note my examples above are how I do it. Feel free to use your own format -- just
 
 If you’re in a company that encourages individual contributors to contribute these types of things, you can define a way for people to propose tenets. Designate a leader who manages the process.
 
-### How tenets are structured
+## How to structure tenets
 
 Tenets can be centralized and global. They can also be federated throughout the organization, with each team creating tenets for itself. I usually start with a tenet or two, and see if it develops organically on local teams. If you do federate it, you should train your managers on how to create effective tenets, by doing a workshop or sharing this blog post with them.
 
-### How to not screw up tenets
+## How to not screw up tenets
 
 * Don’t make too many tenets. You want people to be able to remember them. Just have a couple. You can retire tenets that don’t seem necessary.
 * Don’t make obvious tenets. They should be things that the organization really needs to keep in mind and doesn’t have a habit of thinking that way.
 
-### Open questions
+## Open questions
 
 * I’ve never tried starting an organization or team with a set of tenets -- I’ve always viewed them as emergent. If you have experience with this, I’d love to hear the tradeoffs you found. 
 
-### Coordination models
+## Coordination models
 
 Tenets are just one of many [coordination models](/coordination-models/). Coordination models give you a menu of choices to choose from when solving your leadership coordination issues. 
 
-### Thank you
+## Thank you
 
 [Shaun Yelle](https://www.linkedin.com/in/shaunyelle/) for introducing me to tenets. [Seth Falcon](https://www.linkedin.com/in/sethfalcon/) for overall feedback, for pointing out the initial version had too many steps to implement tenets and basically rewriting it for me, for the interesting question about emergent tenets versus initializing a team with them, and for some excellent editing suggestions. [Matthew Finlayson](https://www.linkedin.com/in/matthewfinlayson1/) for feedback on this post and suggesting I go into more detail on how to implement tenets. 
 
