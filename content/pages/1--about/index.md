@@ -3,7 +3,7 @@ title: About
 ---
 <re-img src="avatar-large.jpeg" hovereffect=true></re-img>
 
-My name is Jade Rubick. I build engineering organizations where people can do their best work. [Contact me](/contact) if you'd like to discuss how I might be able to help your organization. 
+My name is Jade Rubick. I build engineering organizations where people can do their best work. [Contact me](/contact) if you'd like to discuss how I might be able to help your organization. You can see my background, companies I've worked with, and what people say about working with me on [LinkedIn](https://www.linkedin.com/in/jaderubick/). 
 
 ## What I can help with
 
@@ -15,7 +15,7 @@ I help companies primarily as an expert advisor (and occasionally as an Interim 
 
 ### Company profile
 
-I typically work with companies that meet this profile:
+I typically work with companies that meet this profile. Some companies fall outside these parameters, so feel free to contact me even if you don't hit every one of these.
 
 * Technology startups (I work across industries, but focus on tech startups)
 * 5-75 engineers.
