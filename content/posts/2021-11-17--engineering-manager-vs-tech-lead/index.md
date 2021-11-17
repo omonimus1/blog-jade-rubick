@@ -54,7 +54,7 @@ The intention is to have the Product Manager heavily involved in the team’s wo
 
 ## Single threaded owner
 
-The Single Threaded Owner owns everything. They can hire people to delegate parts of their job. I have a longer[ experience report on the Single Threaded Owner model](https://www.rubick.com/implementing-amazons-single-threaded-owner-model/). Amazon popularized this approach. 
+The Single Threaded Owner owns everything. They can hire people to delegate parts of their job. I have a longer [experience report on the Single Threaded Owner model](/implementing-amazons-single-threaded-owner-model/). Amazon popularized this approach. 
 
 ![Single Threaded Owner runs everything](sto.png)
 
@@ -194,7 +194,7 @@ The SCRUM approach is a classic approach to software development. It doesn’t e
 
 I have experience with all of these models listed above. One model I didn't include is the Engineering Manager who runs People, Process, and Technical, but works with a Project Manager. I’m sure it’s possible to be successful with any of these models. I welcome your feedback and comments!
 
-Also, be sure to [subscribe](https://www.rubick.com/subscribe/) if you’d like to be notified of future posts.
+Also, be sure to [subscribe](/subscribe/) if you’d like to be notified of future posts.
 
 
 Image by <a href="https://pixabay.com/users/markiss33311-20814146/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6116282">Marcus Williams</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6116282">Pixabay</a>
