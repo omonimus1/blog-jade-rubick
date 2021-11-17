@@ -41,7 +41,7 @@ The next step, once you have demos in place, is to kick off each week with a goa
 
 The product manager gives some context on where we’re going over the next couple of weeks, and reminds the team of what the value and tradeoffs are in the upcoming work.
 
-Then the engineering manager says, “**what should we demo on Friday?**”.
+Then the [engineering manager](/engineering-manager-vs-tech-lead/) says, “**what should we demo on Friday?**”.
 
 The EM and PM should have prepared any bugs or usability issues that need to be addressed that week. They should have a clear idea of what they would like to accomplish during the period. So they briefly show the top couple of items they think might be worth considering for the week. But the main focus for the team is to talk through the demo plans -- what is realistic, and what the demo should look like. 
 

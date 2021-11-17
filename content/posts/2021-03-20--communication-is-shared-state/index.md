@@ -30,7 +30,7 @@ It is easier for in-person teams to “share state”. When you sit next to some
 
 On distributed teams, we have to take extra care to share state. I’ve learned this the hard way -- we have to be incredibly explicit in our communication with each other. On distributed teams, it feels like things are the same, but the variance in deserializing information is much higher, so it requires a lot more explicit communication. One particularly bad example of this was when I was working at a company preparing an important project for our user conference. We got two months from the release and found out the engineers thought we were delivering “something” at the conference, even though the leadership had been talking about a GA release for months!
 
-One of the most common "state" problems on engineering teams is when the engineering manager and product manager aren't sharing state. They may each have their own version of the project plans. They might each have different ideas of what is being done or what's important. 
+One of the most common "state" problems on engineering teams is when the [engineering manager](/engineering-manager-vs-tech-lead/) and product manager aren't sharing state. They may each have their own version of the project plans. They might each have different ideas of what is being done or what's important. 
 
 There are a few solutions to sharing state. One is to check in frequently and have a lot of explicit communication. The more trust you have with someone, the easier it is to share state, because your serialization protocols are better tuned for each other. 
 
