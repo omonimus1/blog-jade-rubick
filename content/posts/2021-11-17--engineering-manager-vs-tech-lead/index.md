@@ -188,7 +188,9 @@ The SCRUM approach is a classic approach to software development. It doesn’t e
   </tr>
 </table>
 
+## Transitions
 
+Moving between these models is where things get hard. For example, let's say you decide to give your Engineering Manager responsibility for Projects. If you haven't been hiring people who have project management experience, that might be a stretch. You'll need a plan to uplevel their skills. 
 
 ## Feedback
 
