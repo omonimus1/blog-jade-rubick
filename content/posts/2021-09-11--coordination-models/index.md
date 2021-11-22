@@ -8,11 +8,11 @@ discussionId: "coordination-models"
 
 <re-img src="coordination.jpg"></re-img>
 
-As an organizational leader, you’ll be faced with many situations where the solution will be to improve the way people work together. 
+As an organizational leader, you’ll face situations where you need to improve the way people work together. 
 
-Today, I’ll list some coordination models you can use to address these situations. These models are very much like tools in a toolbox. You want to have a lot of familiarity with the tools you can use, and which tools make sense in what situation. 
+This is a list of coordination models -- approaches you can take to coordinate the way people work together. They are very much like tools in a toolbox. You want to have a lot of familiarity with the tools you can use, and which tools make sense in what situation. 
 
-In future blog posts, I’ll go much deeper on each of these models, so you can develop a sense of when to apply each model. Any of the links you see already have blog posts that describe this pattern. Let me know if you have any you’d like to see sooner than others -- I don’t have to go in order.
+I am writing longer posts on each of these coordination models. The links below are to those posts, and to drafts for future posts. 
 
 ### How to use these coordination models
 
