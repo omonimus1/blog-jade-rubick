@@ -42,7 +42,7 @@ And this is the view from the Sony a6000.
 
 I initially purchased a [Sony a5100](https://www.amazon.com/gp/product/B00MHPAFAG/ref=as_li_tl?ie=UTF8&tag=rubick-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B00MHPAFAG&linkId=f674c8fdb42ca9d0c31a84a758eaea84). It’s smaller than many alternatives, and has a handy flip up screen, so you can see what you’re shooting from the front. However, the external battery seemed to not power it forever — it would need to be removed and reinserted every time I used the camera. 
 
-So I instead went with a [Sony a6000](https://www.amazon.com/gp/product/B07BYZ5YB7/ref=as_li_tl?ie=UTF8&tag=rubick-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07BYZ5YB7&linkId=ae5ecdf669c9fdefa942169bd0804133). It seems like Sony cameras are some of the best supported for webcams, so if I were purchasing today, that’s probably what I would start with. But anything with clean video that can take a dummy battery and stay on for a long time is fine. Here are a couple of sources that list cameras that will work:
+So I instead went with a [Sony a6000](https://www.amazon.com/gp/product/B07BYZ5YB7/ref=as_li_tl?ie=UTF8&tag=rubick-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07BYZ5YB7&linkId=ae5ecdf669c9fdefa942169bd0804133). It seems like Sony cameras are some of the best supported for webcams, so if I were purchasing today, that’s probably what I would start with. But anything with clean video that can take a dummy battery and stay on for a long time is fine. Some DSLRs won't stay in video mode for long periods of time, so be sure to search for overheating and using it as a webcam. Here are a couple of sources that list cameras that should work (but you should search a bit before using it):
 
 * [List of camera you can use](https://www.elgato.com/en/gaming/cam-link/camera-check) with Elgato Camlink
 * This is another [list of cameras with clean video from Atmos](https://www.atomos.com/cameras)
@@ -114,5 +114,9 @@ A pop filter reduces extra noises on high quality microphones. They’re easy to
 I'm far from an expert on all this, so if you have any ideas on things I'm doing wrong, let me know! Also happy to answer questions on it. 
 
 Also, be sure to [subscribe](/subscribe/) if you’d like to be notified of future posts.
+
+## Thank you
+
+Thank you to [Drew Stokes](https://www.linkedin.com/in/drewstokes/) for pointing out the challenges of overheating.
 
 Image by <a href="https://pixabay.com/photos/sony-a6000-ilce-6000-camera-4808408/">Farbsynthese</a> from <a href="https://pixabay.com/">Pixabay</a>
