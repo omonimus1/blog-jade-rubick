@@ -105,9 +105,19 @@ A pop filter reduces extra noises on high quality microphones. They’re easy to
 
 * [Aokeo pop filter](https://www.amazon.com/gp/product/B01N21H9WY/ref=as_li_tl?ie=UTF8&tag=rubick-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N21H9WY&linkId=6352aac8ce3eeb55d7246363d95b8951). 
 
+### What does your desk look like?
+
+There are the aethetic aspects of the decision as well. It definitely adds a lot of cords to my desk. This is a minimally straightened out view of my desk (pretty close to how it looks most of the time, except I usually have a few more things on it):
+
+![Picture of desk](desk-photo.jpg)
+
 ### Further reading
 
 * Besides the articles by Jason Yee, I found one of the most helpful posts was this one by [Matt Stauffer](https://mattstauffer.com/blog/setting-up-your-webcam-lights-and-audio-for-remote-work-podcasting-videos-and-streaming/)
+
+### What's next
+
+I'll probably experiment with my video capture and see if that improves things. I've also heard of webcams that try to achieve DSLR quality recommended to me, so I plan to try one of them out and see if it's equivalent. If it is, I might use it to replace a lot of the things I've purchased. I'll report back here what I find.
 
 ## Feedback
 
@@ -117,6 +127,6 @@ Also, be sure to [subscribe](/subscribe/) if you’d like to be notified of futu
 
 ## Thank you
 
-Thank you to [Drew Stokes](https://www.linkedin.com/in/drewstokes/) for pointing out the challenges of overheating.
+Thank you to [Drew Stokes](https://www.linkedin.com/in/drewstokes/) for pointing out the challenges of overheating. 
 
 Image by <a href="https://pixabay.com/photos/sony-a6000-ilce-6000-camera-4808408/">Farbsynthese</a> from <a href="https://pixabay.com/">Pixabay</a>
