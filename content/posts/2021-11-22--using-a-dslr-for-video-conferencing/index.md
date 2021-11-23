@@ -93,7 +93,7 @@ And after, with the lighting:
 
 ### I want to talk without a headset: get a microphone
 
-I got a Blue Yeti microphone. It’s been fine. One challenge nobody told me about (but I should have anticipated) is that if you have an external microphone, it will get feedback from any other speaker. However, if you plug your speaker into the headphone’s INPUT, it is a lot better. I purchased some Bose mini-speakers, and this is really nice! I can talk without a headset on, and people hear me well. And I can hear them great, and control the volume with a volume nob. It's a real pleasure to not need a headset during meetings all day.
+I got a Blue Yeti microphone. It’s been fine. One challenge nobody told me about (but I should have anticipated) is that if you have an external microphone, it will get feedback from any other speaker. However, some microphones (like the Blue Yeti) have an output for speakers. If you plug in your speaker to this output, apparently it helps reduce feedback. It seemed to for me. I purchased some Bose mini-speakers, and this setup ended up feeling great. I can talk without a headset on, and people hear me well. And I can hear them great, and control the volume with a volume nob. It's a real pleasure to not need a headset during meetings all day.
 
 The challenge with this is that I’ve found some applications don’t handle the input and output device being the same device correctly. Zoom recognizes it fine on a Mac. Google Meet does not. 
 
