@@ -16,6 +16,7 @@ const Seo = props => {
   const description = postDescription ? postDescription : config.siteDescription;
   const imagePath = postCover ? postCover.childImageSharp.resize.src : config.siteImage;
   const url = config.siteUrl + (config.pathPrefix ? config.pathPrefix : "") + (postSlug ? postSlug : "");
+  const canonicalUrl = "https://www.rubick.com" + (config.pathPrefix ? config.pathPrefix : "") + (postSlug ? postSlug : "");
   const domain = useStaticQuery(plausibleDomainQuery).site.siteMetadata.plausibleDomain
   const imagePathWithDomain = "https://" + domain + "/" + imagePath.replace(/^\//, "")
 
@@ -37,6 +38,7 @@ const Seo = props => {
       <meta property="og:type" content="website" />
       {/* Plausible Analytics */}
       {process.browser && <script async defer data-domain={domain} src="https://plausible.io/js/plausible.js"/>}
+      <link rel="canonical" href={canonicalUrl} />
     </Helmet>
   )
 };
