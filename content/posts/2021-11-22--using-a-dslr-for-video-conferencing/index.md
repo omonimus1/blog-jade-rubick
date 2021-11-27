@@ -4,6 +4,7 @@ tags: ["remote-work"]
 cover: dslr.jpg
 author: Jade Rubick
 discussionId: "dslr"
+description: "You can dramatically improve your videoconferencing using a DSLR camera. This guide explains how I set it up and some of the challenges I face."
 ---
 
 <re-img src="dslr.jpg"></re-img>

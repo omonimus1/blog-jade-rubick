@@ -69,6 +69,7 @@ export const postQuery = graphql`
           }
         }
         discussionId
+        description
       }
       parent {
         ...on File {

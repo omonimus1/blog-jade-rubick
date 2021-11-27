@@ -16,7 +16,7 @@ const Post = props => {
       html,
       htmlAst,
       fields: { prefix, slug },
-      frontmatter: { title, author, tags, discussionId },
+      frontmatter: { title, author, tags, discussionId, description },
       parent: { modifiedTime }
     },
     authornote,
