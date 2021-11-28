@@ -97,7 +97,7 @@ The second team didn’t take quite as well. The Engineering Manager felt like t
 
 The best thing you could say about the STO model for this team is that it made it completely obvious that it wasn’t working. The PM ended up leaving, and the situation started to improve. The biggest benefit there was that the problems were more visible and obvious than they were previously, and the EM was able to take action to improve the situation. However, the EM did report that the whole experience was incredibly stressful. 
 
-## What were the strenghts and weaknesses of the Single Threaded Owner model? 
+## What were the strengths and weaknesses of the Single Threaded Owner model? 
 
 One of the biggest challenges with the STO model is that it asks people to forgo their identity as engineers or product managers. There was constant friction from product and design about them feeling like the STO model gave them less authority. As primates, we’ve been part of a hierarchical system of power since before we were human beings, and it’s a very natural thing for people to regard reporting structure as a proxy for status and importance. The STO model runs counter to this, and that is something that I think will be a continual headwind when in the STO model. For example, let’s say you think the weakness in your company is that you need a better product direction. If you want to go hire an experienced Product person to address that problem, you may be more limited in who will be willing to accept that role in a STO model. A lot of experienced leaders want to have a group of people reporting to them, or they think the position isn’t “real”.
 
