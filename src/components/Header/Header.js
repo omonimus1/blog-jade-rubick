@@ -40,8 +40,8 @@ class Header extends React.Component {
               <img src={config.gravatarImgMd5=="" ? avatar : config.gravatarImgMd5 } alt={config.siteTitle} />
             </div>
             <div className="type">
-              <h1>{config.headerTitle}</h1>
-              <h2>{config.headerSubTitle}</h2>
+              <div className="h1menu">{config.headerTitle}</div>
+              <div className="h2menu">{config.headerSubTitle}</div>
             </div>
           </Link>
             <ScreenWidthContext.Consumer>
@@ -91,13 +91,13 @@ class Header extends React.Component {
             }
           }
 
-          h1 {
+          .h1menu {
             font-size: ${theme.font.size.m};
             font-weight: ${theme.font.weight.standard};
             margin: ${theme.space.stack.xs};
           }
 
-          h2 {
+          .h2menu {
             font-weight: ${theme.font.weight.standard};
             font-size: ${theme.font.size.xxs};
             letter-spacing: 0;
