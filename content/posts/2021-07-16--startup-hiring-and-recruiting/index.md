@@ -4,6 +4,7 @@ tags: ["hiring", "recruiting", "diversity-equity-and-inclusion", "scaling", "pay
 cover: hiring.png
 author: Jade Rubick
 discussionId: "startup-hiring-and-recruiting"
+description: "Distills everything I've learned from decades of hiring, from the nuts and bolts of how to run a good hiring process, to some novel techniques for standing out and go faster than your competition."
 ---
 
 <re-img src="hiring.png"></re-img>

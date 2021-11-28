@@ -4,6 +4,7 @@ tags: ["org-design", "delivery"]
 cover: thread.jpg
 author: Jade Rubick
 discussionId: "implementing-single-threaded-ownership"
+description: "Experience report implementing the Single Threaded Owner model from Amazon. Describes the tradeoffs, gotchas, and challenges we encountered. Nuts and bolts of how we did it and what we learned."
 ---
 
 <re-img src="thread.jpg"></re-img>

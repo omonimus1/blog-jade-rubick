@@ -4,6 +4,7 @@ tags: ["delivery", "velocity"]
 cover: f86-sabre.jpg
 author: Jade Rubick
 discussionId: "obsess-feedback-loops"
+description: "Describes the impact of OODA loops and feedback cycles on engineering organizations."
 ---
 
 <re-img src="f86-sabre.jpg"></re-img>

@@ -4,6 +4,7 @@ tags: ["communication", "remote-work"]
 cover: serialization.jpg
 author: Jade Rubick
 discussionId: "communication-is-shared-state"
+description: "Communication is analogous to sharing state in computer systems. Describes how the same principles apply between both."
 ---
 
 Operating under a shared reality is a competitive advantage, but most teams share state poorly.

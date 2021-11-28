@@ -4,6 +4,7 @@ tags: ["hiring", "scaling"]
 cover: hiring-packet.jpg
 author: Jade Rubick
 discussionId: "candidate-packet"
+description: "Improve your hiring by using a candidate packet. Help candidates understand the company, position, and hiring process."
 ---
 
 <re-img src="hiring-packet.jpg"></re-img>

@@ -4,6 +4,7 @@ tags: ["project-management", "delivery"]
 cover: slow.jpg
 author: Jade Rubick
 discussionId: "three-anti-patterns-project-management"
+description: "Three anti-patterns are ubiquitous: weak (task-based) agile, million-meeting agile, and Gantt-aholic project management. Describes them and links to better alternatives."
 ---
 
 <re-img src="slow.jpg"></re-img>

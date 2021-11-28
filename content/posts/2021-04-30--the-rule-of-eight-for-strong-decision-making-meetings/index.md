@@ -4,6 +4,7 @@ tags: ["communication", "org-design", "meetings", "scaling"]
 cover: eight.jpg
 author: Jade Rubick
 discussionId: "rule-of-eight"
+description: "The rule of eight is that a meeting with more than eight people isn't a decision-making meeting."
 ---
 
 A rule of thumb is that **a meeting with more than eight people isn’t a decision-making meeting**. 

@@ -4,6 +4,7 @@ tags: ["scaling", "communication", "org-design", "information-flow", "coordinati
 cover: coordination.jpg
 author: Jade Rubick
 discussionId: "coordination-models"
+description: "This is a list of patterns you can apply to coordinate the work of teams. The patterns are divided into centralized, role-based, and team coordination models."
 ---
 
 <re-img src="coordination.jpg"></re-img>

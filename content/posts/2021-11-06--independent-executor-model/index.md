@@ -4,6 +4,7 @@ tags: ["coordination-models", "coordination-models-team", "org-design", "deliver
 cover: independent.jpg
 author: Jade Rubick
 discussionId: "independent-executor"
+description: "Produce engineering teams rely on dependencies heavily. They shouldn't. This post argues that product engineering teams (and all teams really) should instead operate using the 'independent executor model'."
 ---
 
 <re-img src="independent.jpg"></re-img>

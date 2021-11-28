@@ -4,6 +4,7 @@ tags: ["coordination-models", "coordination-models-centralized", "okrs", "goal-s
 cover: goal.jpg
 author: Jade Rubick
 discussionId: "goal-frameworks"
+description: "Goal frameworks like OKRs are a popular way to coordinate the work across an organization. One of the most common anti-patterns is to use it to run projects in engineering. This describes why that is a problem and better alternatives."
 ---
 
 <re-img src="goal.jpg"></re-img>

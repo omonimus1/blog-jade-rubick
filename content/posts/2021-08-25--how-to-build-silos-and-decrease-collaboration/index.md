@@ -4,6 +4,7 @@ tags: ["scaling", "communication", "company-culture", "org-design", "information
 cover: silo.jpg
 author: Jade Rubick
 discussionId: "build-silos"
+description: "Although counter-intuitive, it can be beneficial to build silos and decrease collaboration between teams. Balance the need for collaboration, coordionation, and communication with these tips."
 ---
 
 <re-img src="silo.jpg"></re-img>

@@ -4,6 +4,7 @@ tags: ["diversity-equity-and-inclusion", "company-culture", "pay-equity"]
 cover: equity-2.jpg
 author: Jade Rubick
 discussionId: "implementing-pay-equity"
+description: "Describes the nuts and bolts of how to implement equitable pay (and equitable stock equity) within your organization."
 ---
 
 <re-img src="equity-2.jpg"></re-img>

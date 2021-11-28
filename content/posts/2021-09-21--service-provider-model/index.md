@@ -4,6 +4,7 @@ tags: ["coordination-models", "coordination-models-team"]
 cover: service-provider.jpg
 author: Jade Rubick
 discussionId: "service-provider"
+description: "Service provider is the only pattern many platform teams have known. This article describes how this coordination model works and some alternatives to consider."
 ---
 
 <re-img src="service-provider.jpg"></re-img>

@@ -4,6 +4,7 @@ tags: ["coordination-models", "coordination-models-team", "org-design", "deliver
 cover: embed.jpg
 author: Jade Rubick
 discussionId: "embedded-model"
+description: "Embedded team members report to a central manager, but work on another team full time. This describes the ins and outs of successful embedding, and why it can be such a useful coordination model."
 ---
 
 <re-img src="embed.jpg"></re-img>

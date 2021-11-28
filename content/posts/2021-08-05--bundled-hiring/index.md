@@ -4,6 +4,7 @@ tags: ["hiring", "diversity-equity-and-inclusion", "scaling"]
 cover: bundle.jpg
 author: Jade Rubick
 discussionId: "bundled-hiring"
+descriptions: "Bundled hiring is one of the best approachs I've seen to speed up hiring, and increase the diversity of people you hire."
 ---
 
 <re-img src="bundle.jpg"></re-img>

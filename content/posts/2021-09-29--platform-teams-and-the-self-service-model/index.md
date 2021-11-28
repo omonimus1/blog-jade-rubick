@@ -4,6 +4,7 @@ tags: ["coordination-models", "coordination-models-team", "platform-engineering"
 cover: self-service.jpg
 author: Jade Rubick
 discussionId: "self-service"
+description: "Self-service is one of the most powerful patterns for decoupling engineering teams from each other, and preventing an engineering organizatino from slowing down. This post describes self service and how to move to it."
 ---
 
 <re-img src="self-service.jpg"></re-img>

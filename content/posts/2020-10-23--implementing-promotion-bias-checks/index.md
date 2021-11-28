@@ -4,6 +4,7 @@ tags: ["diversity-equity-and-inclusion", "company-culture", "promotions"]
 cover: promotion.jpg
 author: Jade Rubick
 discussionId: "implementing-promotion-bias-checks"
+description: "One of the most bias-prone activities in companies is promotions. Describes some techniques to give you real-time feedback on bias to help you make better promotion decisions."
 ---
 
 <re-img src="promotion.jpg"></re-img>

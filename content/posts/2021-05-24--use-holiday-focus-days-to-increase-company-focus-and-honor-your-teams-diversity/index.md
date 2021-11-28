@@ -4,6 +4,7 @@ tags: ["remote-work", "meetings", "meetings", "diversity-equity-and-inclusion", 
 cover: holiday.jpg
 author: Jade Rubick
 discussionId: "holiday-focus-days"
+description: "Describes a novel approach to company holidays which improves company focus, and makes it easier for people to take vacation on less common holidays."
 ---
 
 <re-img src="holiday.jpg"></re-img>

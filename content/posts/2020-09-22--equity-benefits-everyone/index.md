@@ -4,6 +4,7 @@ tags: ["diversity-equity-and-inclusion", "company-culture"]
 cover: equity.jpg
 author: Jade Rubick
 discussionId: "equity-benefits-everyone"
+description: "Under-represented minority groups are the best leading indicator of company culture. Describes why this is the case, and links to posts on how to improve."
 ---
 
 <re-img src="equity.jpg"></re-img>

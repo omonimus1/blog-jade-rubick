@@ -4,6 +4,7 @@ tags: ["communication", "remote-work", "scaling"]
 cover: nightmare.jpg
 author: Jade Rubick
 discussionId: "unusual-tips-slack"
+description: "Use the tips to improve your org's use of Slack: answers to questions should take longer than the time to look it up, notifications should go to a few people, the more people in a room, the more structured it should be. Plus a few more."
 ---
 
 Many people offer advice for getting the best out of Slack: use threads, post things in public channels, and use a naming convention for your channels. This post contains some  controversial or unusual recommendations about managing Slack or other chat platforms. 

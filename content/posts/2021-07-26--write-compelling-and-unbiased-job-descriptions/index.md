@@ -4,6 +4,7 @@ tags: ["hiring", "recruiting", "diversity-equity-and-inclusion", "scaling", "pay
 cover: description.jpg
 author: Jade Rubick
 discussionId: "job-description"
+description: "Most job descriptions are boring. Write job descriptions that engage your candidates and design them to be more useful and inclusive with this guide. Includes links ot helpful tools."
 ---
 
 <re-img src="description.jpg"></re-img>

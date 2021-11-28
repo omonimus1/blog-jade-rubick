@@ -4,6 +4,7 @@ tags: ["hiring", "recruiting", "diversity-equity-and-inclusion", "scaling", "pay
 cover: hiring-strategy.jpg
 author: Jade Rubick
 discussionId: "creating-a-hiring-strategy"
+description: "Practical questions to guide you to a strong answer to the question: 'why should anybody want to work at your company?'"
 ---
 
 <re-img src="hiring-strategy.jpg"></re-img>

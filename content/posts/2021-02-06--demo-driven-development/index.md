@@ -4,6 +4,7 @@ tags: ["project-management", "delivery"]
 cover: fast.jpg
 author: Jade Rubick
 discussionId: "demo-driven-development"
+description: "Describes a set of practices I recommend to improve value delivery of engineering organizations. Start with demos, move to value-driven user stories, and then add extremely lightweight project planning."
 ---
 
 <re-img src="fast.jpg"></re-img>

@@ -4,6 +4,7 @@ tags: ["communication", "company-culture", "remote-work", "recognition", "meetin
 cover: hammer.jpg
 author: Jade Rubick
 discussionId: "tools-to-make-your-org-better"
+description: "Review of tools to make startups more effective"
 ---
 
 <re-img src="hammer.jpg"></re-img>

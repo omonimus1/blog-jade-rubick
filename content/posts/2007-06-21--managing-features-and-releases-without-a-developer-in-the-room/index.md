@@ -4,6 +4,7 @@ tags: ["feature-flags", "velocity", "old"]
 cover: photo-1456518563096-0ff5ee08204e.jpg
 author: Jade Rubick
 discussionId: "managing-features-and-releases-without-a-developer-in-the-room"
+description: "The benefits of feature flags, and a description of a system that allowed for releases without any engineers present"
 ---
 
 **Introduction**

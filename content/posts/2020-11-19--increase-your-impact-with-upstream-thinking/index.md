@@ -4,6 +4,7 @@ tags: ["company-culture", "prioritization"]
 cover: upstream.jpg
 author: Jade Rubick
 discussionId: "upstream-thinking"
+description: "Upstream thinking helps you prevent future problems. Describes the patterns behind this style of thinking and how to identify what blocks it."
 ---
 
 <re-img src="upstream.jpg"></re-img>

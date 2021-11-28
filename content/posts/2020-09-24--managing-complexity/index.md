@@ -4,6 +4,7 @@ tags: ["delivery", "company-culture", "complexity", "agile", "scaling"]
 cover: complexity.jpg
 author: Jade Rubick
 discussionId: "managing-complexity"
+description: "Complexity is the underlying challenge of an engineering organizations. Describes the underlying factors and how to address them."
 ---
 
 <re-img src="complexity.jpg"></re-img>

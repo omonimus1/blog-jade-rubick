@@ -4,6 +4,7 @@ tags: ["information-flow", "communication"]
 cover: communication.jpg
 author: Jade Rubick
 discussionId: "how-to-be-an-information-flow-superhero"
+description: "Describes a technique you can use to improve information flow with the people around you."
 ---
 
 <re-img src="communication.jpg"></re-img>

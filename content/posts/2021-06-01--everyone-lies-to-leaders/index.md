@@ -4,6 +4,7 @@ tags: ["company-culture", "communication", "recognition", "leadership"]
 cover: lies.png
 author: Jade Rubick
 discussionId: "everyone-lies-to-leaders"
+description: "Power can delude those of us that rise to leadership. Our environment starts to lie to us, and we start getting bad information. Describes how this happens and how to combat it."
 ---
 
 <re-img src="lies.png"></re-img>

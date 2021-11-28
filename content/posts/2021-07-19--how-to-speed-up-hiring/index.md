@@ -4,13 +4,14 @@ tags: ["hiring", "diversity-equity-and-inclusion", "scaling", "pay-equity"]
 cover: hiring-fast.jpg
 author: Jade Rubick
 discussionId: "how-to-speed-up-hiring"
+description: "The easiest way to improve your hiring is to speed it up. Here's how: an SLA, present instant offers, and use a modified rolling approach."
 ---
 
 <re-img src="hiring-fast.jpg"></re-img>
 
 This is a part of a [series of articles on hiring and recruiting](/startup-hiring-and-recruiting). 
 
-Focusing on short turnarounds is probably the highest impact area for improving your hiring pipeline. 
+The easiest way to improve your hiring is to speed it up. 
 
 ### Why hiring faster is important
 

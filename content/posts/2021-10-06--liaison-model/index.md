@@ -4,6 +4,7 @@ tags: ["coordination-models", "coordination-models-team", "communication", "info
 cover: liaison.jpg
 author: Jade Rubick
 discussionId: "liaison-model"
+description: "Liaisons are a good coordination model to use when you need people to have better context with other parts of the organization. Learn more about how to apply this pattern."
 ---
 
 <re-img src="liaison.jpg"></re-img>

@@ -4,6 +4,7 @@ tags: ["diversity-equity-and-inclusion", "company-culture", "goal-setting"]
 cover: abstract.jpg
 author: Jade Rubick
 discussionId: "use-okrs-to-drive-equity"
+description: "If you want to see results, make someone accountable to it. Describes how we used OKRs to improve equity."
 ---
 
 <re-img src="abstract.jpg"></re-img>

@@ -4,6 +4,7 @@ tags: ["leadership", "mentorship", "org-design"]
 cover: drive-my-car.jpg
 author: Jade Rubick
 discussionId: "completed-staff-work"
+description: "Describes complete staff work, a management technique that improves local autonomy, prevents going back and forth, and carves out greater responsibilities for yourself."
 ---
 
 <re-img src="drive-my-car.jpg"></re-img>

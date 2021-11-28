@@ -4,6 +4,7 @@ tags: ["platform", "communication", "scaling", "org-design", "delivery", "veloci
 cover: fan.jpg
 author: Jade Rubick
 discussionId: "platform-deprecation"
+description: "Deprecation is a common thing with platform technologies: libraries, APIs, and components. But it causes huge problems. This outlines the hidden costs of deprecation and suggests other ways to handle deprecation."
 ---
 
 <re-img src="fan.jpg"></re-img>

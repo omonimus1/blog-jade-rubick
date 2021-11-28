@@ -4,6 +4,7 @@ tags: ["org-design", "delivery", "velocity", "scaling", "project-management"]
 cover: manager.jpg
 author: Jade Rubick
 discussionId: "eng-manager-tech-lead"
+description: "This post outlines the various ways people break up the leadership roles on engineering teams: engineering manager, tech lead, and single-threaded owner. It also outlines how some responsibilities are broken up between engineering leader and other functions."
 ---
 
 <re-img src="manager.jpg"></re-img>

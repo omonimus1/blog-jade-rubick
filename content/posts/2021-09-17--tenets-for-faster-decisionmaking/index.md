@@ -4,6 +4,7 @@ tags: ["scaling", "communication", "coordination-models", "coordination-models-c
 cover: tenets.jpg
 author: Jade Rubick
 discussionId: "tenets"
+description: "Tenets are a powerful tool to speed up the decision-making of an organization. Stop rehashing the same disucussions and provide better context for decisions with tenets."
 ---
 
 <re-img src="tenets.jpg"></re-img>

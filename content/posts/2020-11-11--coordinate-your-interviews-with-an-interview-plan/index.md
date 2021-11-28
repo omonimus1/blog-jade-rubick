@@ -4,6 +4,7 @@ tags: ["interviewing", "hiring"]
 cover: job-interview.jpg
 author: Jade Rubick
 discussionId: "coordinate-your-interviews-interview-plan"
+description: "Template and approach you can use to dramatically improve your interviewing results."
 ---
 
 <re-img src="job-interview.jpg"></re-img>
