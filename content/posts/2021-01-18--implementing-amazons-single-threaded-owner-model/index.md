@@ -4,14 +4,14 @@ tags: ["org-design", "delivery"]
 cover: thread.jpg
 author: Jade Rubick
 discussionId: "implementing-single-threaded-ownership"
-description: "Experience report implementing the Single Threaded Owner model from Amazon. Describes the tradeoffs, gotchas, and challenges we encountered. Nuts and bolts of how we did it and what we learned."
+description: "A Single Threaded Owner (STO), is a single leader that is completely responsible for their area of the product. I share my experiences implementing this model, including the tradeoffs and challenges. And I give the nuts and bolts of how we implemented it and what we learned."
 ---
 
 <re-img src="thread.jpg"></re-img>
 
 I’d like to share the results of one of the most interesting management experiments I’ve been a part of. At a company I worked at recently, we implemented the Single Threaded Owner (STO) model from Amazon, where you have everyone on the team report to a single leader, including product, design, and engineering. You can think of the STO model as a more extreme form of cross-functional teams, where the team has everything it needs to deliver on its mission. 
 
-### Single Threaded Owner Definition
+## What is a Single Threaded Owner?
 
 The idea of the Single Threaded Owner comes from [Amazon](https://www.amazon.com). The name itself is based on the idea of a team focusing on a single thing at a time (i.e., instead of multi-tasking, you are focusing on a single thread of work or focus at a time). At Amazon, each team is supposed to have a clear area of ownership (a product area, based on a customer need) that they obsess about all the time. A leader of a team is called a “Single Threaded Owner”, or STO. 
 
@@ -23,8 +23,7 @@ The most common alternative to the STO model is what I call the “3 legged stoo
 
 In the STO model, they actually all report in and are part of the same team. Everyone reports to the STO.
 
-
-### What was the motivation?
+## Single Threaded owners drive alignment and ownership
 
 We were seeing a lack of alignment across engineering and product, and we were about to do a reorganization that aligned the teams along clearer areas of ownership. We had a lot of ex-Amazon employees, including the CEO, and they thought combining the reorg with having a single leader responsible for that area would improve things.
 
@@ -34,7 +33,9 @@ On the local teams, I often saw issues where the engineering manager (EM) and pr
 
 So even before I heard of the Single Threaded Owner model, it was something I had been advocating for.  
 
-### How did we set it up? 
+## Transitioning to a Single Threaded Owner model
+
+Moving to the model required choosing how the roles would be defined, how the teams were organized, and what meetings and structure we would put around it.
 
 One factor we had to decide is who would be the Single Threaded Owner. Would it be Product, or Engineering? This is a pretty tricky matter. This is how I saw the tradeoffs:
 
@@ -71,7 +72,7 @@ Some other changes we made at the same time were to introduce weekly metrics rev
 
 The monthly business review meetings were a chance for the team to align on direction with executives and other stakeholders. The intention was for direction to be set by each team, within a larger strategy defined by the senior product manager. 
 
-### What was the result?
+## How did it go switching to the STO model? 
 
 Our results were mixed. 
 
@@ -96,7 +97,7 @@ The second team didn’t take quite as well. The Engineering Manager felt like t
 
 The best thing you could say about the STO model for this team is that it made it completely obvious that it wasn’t working. The PM ended up leaving, and the situation started to improve. The biggest benefit there was that the problems were more visible and obvious than they were previously, and the EM was able to take action to improve the situation. However, the EM did report that the whole experience was incredibly stressful. 
 
-### What did we learn?
+## What were the strenghts and weaknesses of the Single Threaded Owner model? 
 
 One of the biggest challenges with the STO model is that it asks people to forgo their identity as engineers or product managers. There was constant friction from product and design about them feeling like the STO model gave them less authority. As primates, we’ve been part of a hierarchical system of power since before we were human beings, and it’s a very natural thing for people to regard reporting structure as a proxy for status and importance. The STO model runs counter to this, and that is something that I think will be a continual headwind when in the STO model. For example, let’s say you think the weakness in your company is that you need a better product direction. If you want to go hire an experienced Product person to address that problem, you may be more limited in who will be willing to accept that role in a STO model. A lot of experienced leaders want to have a group of people reporting to them, or they think the position isn’t “real”.
 
@@ -116,7 +117,7 @@ We were moving to be more metrics driven at the same time, and although we saw g
 
 One of the challenges the STOs faced was in the interface between leadership and the STOs. Ideally, the way this works is that the leadership provides goals, and the STOs choose projects to meet those goals. In practice, this can be hard within a small company, when the founders and executives want to be highly involved in the team’s work. In our case, the local teams weren’t fully empowered to be autonomous, so they weren’t fully able to make decisions without them being overridden by executives. That kind of violated the expectations of the STO model, and resulted in back and forth and friction. 
 
-### What I will do next time
+## Do I recommend the Single Threaded Owner model?
 
 I believe the STO model is more effective than the standard “3 stool” model of having separate leadership hierarchies. But it has downsides and requires more discipline to implement and maintain, so I plan to keep it as a tool I can employ, but not one that I will use in most situations. 
 
@@ -144,7 +145,7 @@ As a thought exercise, you might be able to achieve some of the same outcomes by
 I could see this working effectively in either direction, with either Product or Engineering having the ability to end the contract. 
 *   **There might be ways to set up the responsibilities so that the EM or PM have an expansive view of their role**, that is similar to the “you own everything” approach of the STO model. I once had my manager tell me, “everything that happens on this product is your fault. If customers are supported poorly, that’s your fault. If you have bad product direction, that’s your fault. You’re responsible for making this all work.” Some of this was actually a stretch -- I wasn’t technically responsible for the product direction. But that sort of expansive view of a role can be helpful to ensure people make sure things are working, even if it’s not in their lane. Giving people the message that the Team’s success is what counts, even if it’s out of your lane, is probably a message we need to emphasize more.
 
-### Thank you
+## Thank you
 
 I’d like to thank [Alexa Stefanko](https://www.linkedin.com/in/alexa-stefanko-86646aa4/) and [Ben Bernard](https://www.linkedin.com/in/bernardben/) for contributing their thoughts to this blog post. And I’d like to thank [Jim Shore](https://www.jamesshore.com/) for suggesting I write this article. 
 
