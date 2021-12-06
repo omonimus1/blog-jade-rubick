@@ -19,8 +19,8 @@ It's not perfect. My setup is fiddly, and I find it often stops working. I’m n
 
 The results are worth it to me, but the frustration is real. These are issues I have regularly:
 
-* Sometimes the video feed just cuts out. This is the most frequent issue. It seems to take a restart (sometimes two) to get this to work again. 
-* Sometimes the video feed looks distorted. Like I’m really skinny. This isn’t quite as frequent. 
+* (Solved?) Sometimes the video feed just cuts out. This is the most frequent issue. It seems to take a restart (sometimes two) to get this to work again. 
+* (Solved?) Sometimes the video feed looks distorted. Like I’m really skinny. This isn’t quite as frequent. 
 * (Solved) Up until recently I was having near daily kernel panics. They seem to have stopped when I started plugging in two USB-C connections to my laptop instead of one. Maybe having a large monitor, DSLR video, and a few other devices plugged in to the same connection was the cause? I have no idea. I do know it happened across three different computers, and with clean installs of Mac OS, and the kernel panics are all in Apple code. I'm not even sure this is related to the DSLR. 
 
 So all of this is to say the cost is a more complex setup. And that may result in having to do things like restart you computer right before an important meeting. 
@@ -61,8 +61,8 @@ These are called "dummy batteries". I don’t believe mine is still available. B
 
 You’ll need something that can take the raw video and get it into your camera with low latency. To learn more about this, Jason Yee [has a great explanation](https://docs.google.com/document/d/1PjocFpojp771gmmn22JcApPj-Sc_RqAKWvpXTIhz-aU/edit). 
 
-* [Elgato Camlink](https://www.amazon.com/gp/product/B07K3FN5MR/ref=as_li_tl?ie=UTF8&tag=rubick-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07K3FN5MR&linkId=54c5381236996362db5fe541f4f8dd80). I tried this, but it stopped working. 
-* I also am using a cheap HDMI video capture device that Jason recommended. It was only $10 instead of $130, but seems to work. I sometimes wonder if it is the source of flaky behavior, but it worked better than the Camlink. It did give a slight red tint to the image. I was okay with that. However, it’s no longer available on Amazon, so you’ll need to find some other option.
+* [Elgato Camlink 4k](https://www.amazon.com/gp/product/B07K3FN5MR/ref=as_li_tl?ie=UTF8&tag=rubick-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07K3FN5MR&linkId=54c5381236996362db5fe541f4f8dd80). I tried this, but it stopped working. In December 2021, I purchased it again, and it seems to have addressed two of the main issues I was having. The whole setup is more reliable again. Crossing fingers it won't stop working again like it did before.
+* I used a cheap HDMI video capture device that Jason recommended. I used it for about two years. It was only $10 instead of $130. I wondered if was is the source of flaky behavior, and it turns out it was. It did give a slight red tint to the image. I was okay with that. However, it’s no longer available on Amazon, so you’ll need to find some other option. 
 
 ## Cables and such
 
