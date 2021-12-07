@@ -33,10 +33,12 @@ I use a special version of [milestones](https://en.wikipedia.org/wiki/Milestone)
 1. **Small**. Milestones are one or three weeks of work, no more. A project is composed of one or more milestones. 
 2. **High-quality**. Every time a milestone is completed, aim to make the codebase and user experience a little better than when you started. (The one exception to this is if you’re doing a throwaway prototype). This preserves your ability to deliver value over time. When you’re done with a milestone, it should be releasable in some way. You may choose to not release it to all customers, but it should feel done in some defined way.
 3. **Understandable**. Milestones have names which convey the value being delivered. Any non-engineer in the company should understand what a milestone does. I like to use ”[value delivered] by [approach]”. This communicates to both engineering and the rest of the business. For example: “speed up search results on the listing page by implementing ElasticSearch”. Business people understand the value part, and the engineering team will understand what we’re doing from the approach part.
-4. **Valuable**. Every milestone delivers value. It should be possible to finish the milestone and not continue to the next milestone in a project, and be satisfied you’ve done something good for the business. The value can be 
-    1. Customer value
-    2. Business value, or 
-    3. Information. 
+4. **Valuable**. Every milestone delivers value. It should be possible to finish the milestone and not continue to the next milestone in a project, and be satisfied you’ve done something good for the business. 
+
+For the last piece, the value can be 
+1. **Customer value**
+2. **Business value**, or
+3. **Information**. 
 
 The acronym for these attributes of a milestone is SHUV. 
 
@@ -59,18 +61,6 @@ Project management seems valuable. You do need some sort of structure that force
 A better alternative to project management is **milestone management**. All you do is “replace all talk of projects with milestones”
 
 Let me explain why this simple change is desirable. 
-
-### Effective project estimation is almost non-existent
-
-Our field is notorious for unreliable estimates. It’s so bad that [many people in the #NoEstimates camp argue you shouldn’t estimate](https://techbeacon.com/app-dev-testing/noestimates-debate-unbiased-look-origins-arguments-thought-leaders-behind-movement) at all.
-
-This is contentious because it is [important to understand the cost of building out a capability](https://blackswanfarming.com/experience-report-maersk-line/). If you can’t figure out the cost, your attempts to figure out the most valuable work (value / cost) are impossible. 
-
-The problem is that we aspire to unnecessary precision. We don’t need to know exact estimates to ensure engineering focuses on the most important work. The cost of producing exact estimates is wasteful. And it doesn’t even produce the outcome you’re looking for. You don’t need to pretend the feature will be done on June 20. This date is most certainly incorrect anyway.
-
-Milestones reduce the complexity of putting together high level estimates. They give a shorthand that can be good enough for most decision-making, without the overhead of rigorous estimation. 
-
-Occasionally, I see people succeed at rigorous estimation. But it’s rarely systemic – it’s usually one individual that is good at it. And it relies on them. If they go on vacation for a week, nobody is able to feed their model, and it collapses. While this is a great skill, to me it is the exception that proves the rule. Think of it this way: if one in twenty people can estimate in a high complexity situation, how many could be more successful in a less complex situation?
 
 ### Engineers are generally poor at incremental design
 
@@ -104,6 +94,18 @@ This is necessary. Designers need to do the work to think about the end state. B
 ### Product managers think about long-term end goals.
 
 Similarly, product managers think of things in terms of the end state. They have a capability they want to deliver to customers, so they may not think about the path to get there. So they join the crowd of people all biasing towards monolithic delivery. 
+
+### Effective project estimation is almost non-existent
+
+Our field is notorious for unreliable estimates. It’s so bad that [many people in the #NoEstimates camp argue you shouldn’t estimate](https://techbeacon.com/app-dev-testing/noestimates-debate-unbiased-look-origins-arguments-thought-leaders-behind-movement) at all.
+
+This is contentious because it is [important to understand the cost of building out a capability](https://blackswanfarming.com/experience-report-maersk-line/). If you can’t figure out the cost, your attempts to figure out the most valuable work (value / cost) are impossible. 
+
+The problem is that we aspire to unnecessary precision. We don’t need to know exact estimates to ensure engineering focuses on the most important work. The cost of producing exact estimates is wasteful. And it doesn’t even produce the outcome you’re looking for. You don’t need to pretend the feature will be done on June 20. This date is most certainly incorrect anyway.
+
+Milestones reduce the complexity of putting together high level estimates. They give a shorthand that can be good enough for most decision-making, without the overhead of rigorous estimation. 
+
+Occasionally, I see people succeed at rigorous estimation. But it’s rarely systemic – it’s usually one individual that is good at it. And it relies on them. If they go on vacation for a week, nobody is able to feed their model, and it collapses. While this is a great skill, to me it is the exception that proves the rule. Think of it this way: if one in twenty people can estimate in a high complexity situation, how many could be more successful in a less complex situation?
 
 ### Projects are often bad for people
 
