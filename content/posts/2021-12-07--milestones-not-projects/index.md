@@ -333,7 +333,7 @@ Biases more towards vertical, incremental design.
    <td>Agility and optionality
    </td>
    <td>You get 2-4 chances to learn and course correct per year. 
-<p>
+<br />
 Lower optionality, because projects are monolithic.
    </td>
    <td>You get 17-52 chances to learn and course correct per year. 
