@@ -23,7 +23,6 @@ Demo driven development also works because it introduces a structure that encour
 
 So how do you go about implementing demo-driven development? And what is involved with this practice? 
 
-
 ### Start with demos
 
 The first thing to do, if you haven’t done it already, is to introduce weekly or biweekly demos (I'll use weekly during this post, but you can substitute biweekly if that makes more sense for you). You can structure them many different ways, but to start with:
@@ -52,6 +51,10 @@ It’s important for this not to be a commitment, but a reasonable guess. Asking
 
 The team spends the rest of the time in the weekly kickoff meeting talking about how they’ll get this goal accomplished, and break down the high level demo goal into the technical work that needs to happen that week. They talk through how they’ll coordinate their work together, and any decisions or problems they might need to address. Collaboration!
 
+### Move the team to milestones instead of projects
+
+I have a whole post on this topic. The basic idea is to [replace projects with milestones](/milestones-not-projects/). This improves project breakdown, sequencing, and biases towards incremental design. 
+
 ### Move the team to using user stories
 
 Either at the same time, or slightly after you start kicking off the week with questions about how to demo on Fridays, you then organize the work around a higher level of abstraction: user stories. 
@@ -74,7 +77,7 @@ In a [Gantt-aholic](/three-anti-patterns-for-project-management) kickoff meeting
 
 Instead, focus the meeting on the goal you want to accomplish, and use your tooling to record things at the level of impact to your customers: user stories. 
 
-### Create project plans
+### Create project plans or milestone plans
 
 After you have user stories in place, the next step is to improve your planning. The way I like to do this is to have a week by week schedule which is just a list of a couple of things you think you would demo that week. You should also list risks or interesting things that might happen that week, like someone being out of the office, or someone needing to help onboard the new person on the team. 
 
