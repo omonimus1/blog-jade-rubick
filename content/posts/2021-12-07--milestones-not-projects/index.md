@@ -30,10 +30,10 @@ In this post, I describe:
 
 I use a special version of [milestones](https://en.wikipedia.org/wiki/Milestone), and recommend you do too. These milestones have these properties:
 
-1. **Small**. Milestones are one or three weeks of work, no more. A project is composed of one or more milestones. 
-2. **High-quality**. Every time a milestone is completed, aim to make the codebase and user experience a little better than when you started. (The one exception to this is if you’re doing a throwaway prototype). This preserves your ability to deliver value over time. When you’re done with a milestone, it should be releasable in some way. You may choose to not release it to all customers, but it should feel done in some defined way.
-3. **Understandable**. Milestones have names which convey the value being delivered. Any non-engineer in the company should understand what a milestone does. I like to use ”[value delivered] by [approach]”. This communicates to both engineering and the rest of the business. For example: “speed up search results on the listing page by implementing ElasticSearch”. Business people understand the value part, and the engineering team will understand what we’re doing from the approach part.
-4. **Valuable**. Every milestone delivers value. It should be possible to finish the milestone and not continue to the next milestone in a project, and be satisfied you’ve done something good for the business. 
+1. **Small**. Milestones are one or three weeks of work, no more. One or more milestones form a project.  
+2. **High-quality**. Every time you complete a milestone, leave things better than when you started. The codebase and user experience shouldn't degrade. The one exception to this is if you’re doing a throwaway prototype. This preserves your ability to deliver value over time. When you’re done with a milestone, it should be releasable in some way. You may choose to not release it to all customers, but it should feel done in some defined way.
+3. **Understandable**. Select milestone names which communicate the value you are delivering. Any non-engineer in the company should understand what a milestone does. I like to use "[value delivered] by [approach]". This communicates to both engineering and the rest of the business. For example: "speed up search results on the listing page by implementing ElasticSearch". Business people understand the value part. The engineering team will understand what we’re doing from the approach part.
+4. **Valuable**. Every milestone delivers value. If you are working on a project with many milestones, you should be able to stop midway. Even if you don't finish all the milestones, you should have delivered value. 
 
 For the last piece, the value can be 
 1. **Customer value**
@@ -56,7 +56,7 @@ I have a lot of experience with project management:
 
 Project management is beguiling. It offers the illusion of control over what is a very chaotic process. 
 
-Project management seems valuable. You do need some sort of structure that forces you to consider risks, review progress, and track dependencies. 
+Project management seems valuable. You do need some sort of structure. You do want to consider risks, review progress, and track dependencies. 
 
 A better alternative to project management is **milestone management**. All you do is “replace all talk of projects with milestones”
 
@@ -68,9 +68,9 @@ Engineers are predisposed to design and sequence work in a monolithic fashion. E
 
 ![engineering in horizontal layers](horizontal.png)
 
-Here is how your engineering team will design a typical feature that has a frontend and backend component: 
+Here is how your engineering team will design a typical feature. This assumes there is a frontend and backend part of the work. 
 
-* Have a conversation or design doc you’re working from. Perhaps a designer provides mockups.
+* Have a conversation or design doc you’re working from. A designer provides mockups.
 * Agree on what the API will look like between the frontend and backend focused engineers. 
 * The backend engineers get to work on the API. They design the data model, create the CRUD operations, then add the interesting business logic in. Spin up a new service for it.
 * The frontend engineers get to work building out the UI. They build it from mocks, creating components for each thing. Do it page by page. Mock out the backend until it is available, then hook it up. 
@@ -87,7 +87,7 @@ We will talk about a better way to do this later.
 
 ### Designers are also poor at incremental design
 
-Designers have similar challenges with incremental delivery. To design something well, you have to think about the end state. So designers will tend to produce artifacts that represent the end state you are working towards. 
+Designers have similar challenges with incremental delivery. To design something well, you have to think about the end state. So designers will produce artifacts that represent the end state you are working towards. 
 
 This is necessary. Designers need to do the work to think about the end state. But this further biases your delivery towards the monolithic. It is a trap!
 
