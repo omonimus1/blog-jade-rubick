@@ -11,7 +11,7 @@ description: "Programs are more complicated than projects which are more complic
 
 ## Milestones: the surprise solution to challenges in product development
 
-The root of ~~all~~ much evil in engineering is our focus on projects. --me
+<center><p>The root of <strike>all</strike> much evil in engineering is our focus on projects. --me</p></center>
 
 Most engineering organizations focus on delivering **projects**. They should focus on **milestones** instead. 
 
