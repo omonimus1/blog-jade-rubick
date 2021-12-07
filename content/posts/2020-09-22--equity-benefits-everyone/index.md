@@ -1,5 +1,5 @@
 ---
-title: Equity benefits everyone
+title: If you want a good company culture, focus on equity
 tags: ["diversity-equity-and-inclusion", "company-culture"]
 cover: equity.jpg
 author: Jade Rubick
