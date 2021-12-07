@@ -33,8 +33,7 @@ I use a special version of [milestones](https://en.wikipedia.org/wiki/Milestone)
 1. **Small**. Milestones are one or three weeks of work, no more. A project is composed of one or more milestones. 
 2. **High-quality**. Every time a milestone is completed, aim to make the codebase and user experience a little better than when you started. (The one exception to this is if you’re doing a throwaway prototype). This preserves your ability to deliver value over time. When you’re done with a milestone, it should be releasable in some way. You may choose to not release it to all customers, but it should feel done in some defined way.
 3. **Understandable**. Milestones have names which convey the value being delivered. Any non-engineer in the company should understand what a milestone does. I like to use ”[value delivered] by [approach]”. This communicates to both engineering and the rest of the business. For example: “speed up search results on the listing page by implementing ElasticSearch”. Business people understand the value part, and the engineering team will understand what we’re doing from the approach part.
-4. **Valuable**. Every milestone delivers value. It should be possible to finish the milestone and not continue to the next milestone in a project, and be satisfied you’ve done something good for the business. The value can be  \
-
+4. **Valuable**. Every milestone delivers value. It should be possible to finish the milestone and not continue to the next milestone in a project, and be satisfied you’ve done something good for the business. The value can be 
     1. Customer value
     2. Business value, or 
     3. Information. 
@@ -44,7 +43,7 @@ The acronym for these attributes of a milestone is SHUV.
 Why use milestones? Well, let’s start out by talking about why not projects. 
 
 
-## Humans are terrible at projects
+## Humans are terrible at project management
 
 I have a lot of experience with project management:
 
@@ -112,11 +111,11 @@ Project delivery can feel like a slog. Often you work for months towards a goal 
 
 These are the symptoms of the disease: projects are the evil behind it. 
 
-## Humans are actually pretty good at milestones
+## Humans are actually pretty good at milestone management
 
 The difference between projects and milestones is like the difference between juggling three balls and six balls. It takes orders of magnitude more skill to juggle six balls. Most people can learn to juggle three balls in twenty-four hours. It can take years or decades to learn to juggle six balls. 
 
-Play the game that is well within our cognitive talents: choose milestones instead. What are the ways we’re better at milestones?
+Program management is a much harder skill than project management. Project management is a much harder skill than milestone management. Why not play the easiest game, especially when the results can be so much better. Let's enumerate all those ways. 
 
 ### Estimating one to three weeks of work is easy
 
@@ -127,7 +126,6 @@ One to three weeks is short enough that people can reason about scope. They can 
 He is anonymous by request.
 
 This matches my experience. The sweet spot for setting goals is a week to three weeks. Humans just do better with work of that size. And they are much more accurate at estimates for work with that amount of complexity.
-
 
 ### Breaking a project into milestones lets you shape projects
 
@@ -154,7 +152,7 @@ Trade offs to consider include:
 
 For example, let’s say your project is to create a Slack bot that displays charts from your application in a customer’s Slack channel. Here are two different ways you could break down this project: 
 
-<table>
+<table cellpadding="0" cellspacing="0">
   <tr>
    <td><strong>Breakdown #1</strong>
    </td>
@@ -244,7 +242,7 @@ As you notice, this isn’t all that different, except that the frontend and bac
 
 Although the benefits of this may seem subtle, they matter. Incremental design results in work that delivers value after every milestone. Instead of every three to six months, delivering a huge chunk of unreliable value, you deliver value every one to three weeks, and learn and adjust if you miss the mark. You must invest in learning and adapting to take advantage of incremental design, but the payoff is huge.
 
-### How to break down milestones
+### How to break down project milestones
 
 When you work on the milestones, break down the current milestone only. Use user stories instead of technical tasks. Vertical slicing can be fractal, and extend down within milestones as well. You may find user stories you can remove, defer, or alter.
 
@@ -278,33 +276,30 @@ Milestones also serve as a good altitude to talk about matters between Product, 
 
 Using milestones also means a more steady stream of value is delivered to customers. If you’re concerned about the product changing too frequently, keep in mind that the milestones don’t necessarily have to be delivered to everyone. You can deliver them to a subset of your customers, and use feature flags to hold them back and batch the delivery. Even if you do this, the milestone approach is still superior.
 
-
 ### Managing milestones is lighter weight
 
 You generally need a lot less heavy-weight process to manage milestones than to manage projects. At the most, you may need a couple of bullet points per week as a project plan. You don’t need heavy artifacts and heavy tooling. You don’t need Gantt charts. You can track you dependencies and risks, and probably should. But you can scale the amount of investment in milestone management to the complexity and risk of the situation.
 
-
 ## Project-based delivery vs milestone-based delivery
 
-
-<table>
+<table cellpadding="0" cellspacing="0">
   <tr>
    <td>
    </td>
-   <td>Project based 
-   </td>
-   <td>Milestone based
-   </td>
+   <th>Project based 
+   </th>
+   <th>Milestone based
+   </th>
   </tr>
   <tr>
    <td>Increments
    </td>
    <td>Usually three to six months, but unpredictable.
-<p>
+<br />
 Usually built horizontally and monolithically.
    </td>
    <td>One to three weeks.
-<p>
+<br />
 Biases more towards vertical, incremental design.
    </td>
   </tr>
@@ -340,7 +335,7 @@ Biases more towards vertical, incremental design.
 Lower optionality, because projects are monolithic.
    </td>
    <td>You get 17-52 chances to learn and course correct per year. 
-<p>
+<br />
 Higher optionality, because you can change investment during the project, and achieve value throughout the project. 
    </td>
   </tr>
@@ -348,11 +343,11 @@ Higher optionality, because you can change investment during the project, and ac
    <td>How it feels for the humans
    </td>
    <td>Big feeling of accomplishment or failure after each project.
-<p>
+<br />
 Feels thrashy if you change your mind during projects. And you do.
    </td>
    <td>Frequent sense of accomplishment, stronger team dynamics. More opportunities to recognize team.
-<p>
+<br />
 More natural to change priorities based on new information.
    </td>
   </tr>
