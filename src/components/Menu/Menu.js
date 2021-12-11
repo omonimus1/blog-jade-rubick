@@ -13,7 +13,7 @@ class Menu extends React.Component {
     this.itemList = React.createRef();
 
     this.items = [
-      { to: "/", label: "Home", icon: FaHome },
+      { to: "/", label: "Posts", icon: FaHome },
       { to: "/tags/", label: "Tags", icon: FaTag },
       { to: "/subscribe/", label: "Subscribe", icon: FaRss },
       { to: "/contact/", label: "Contact", icon: FaEnvelope },
