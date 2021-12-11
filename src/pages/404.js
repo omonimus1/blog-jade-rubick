@@ -12,7 +12,7 @@ const NotFoundPage = props => {
       <header>
         <Headline title="404" theme={theme} />
       </header>
-      <p>You just hit a route that doesn&#39;t exist... the sadness.</p>
+      <p>Unfortunately you came to a page does&#39;t exist.</p>
     </Article>
   );
 };
