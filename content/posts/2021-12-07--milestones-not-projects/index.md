@@ -9,10 +9,6 @@ description: "Programs are more complicated than projects which are more complic
 
 <re-img src="milestone.jpg"></re-img>
 
-## Milestones: the surprise solution to challenges in product development
-
-<center><p>The root of <strike>all</strike> much evil in engineering is our focus on projects. --me</p></center>
-
 Most engineering organizations focus on delivering **projects**. They should focus on **milestones** instead. 
 
 Managing projects is hard. Companies contort themselves to do it well. Instead of playing chess, switch to checkers. Milestones are an easier game, and you get better results. 
@@ -26,7 +22,7 @@ In this post, I describe:
 5. How to make the switch to milestone-based delivery. 
 
 
-## Take these milestones and SHUV it
+## How should milestones be defined?
 
 I use a special version of [milestones](https://en.wikipedia.org/wiki/Milestone), and recommend you do too. These milestones have these properties:
 
@@ -46,13 +42,6 @@ Why use milestones? Well, let’s start out by talking about why not projects.
 
 
 ## Humans are terrible at project management
-
-I have a lot of experience with project management:
-
-* I’ve managed projects for a couple of decades. 
-* I’ve run programs crossing many teams and many projects.
-* I’ve studied project management theory. And,
-* I’ve designed and written project management software. 
 
 Project management is beguiling. It offers the illusion of control over what is a very chaotic process. 
 
@@ -374,6 +363,15 @@ As always, I love to receive feedback on my writing. Let me know what you think 
 And if you’re interested in receiving future posts, please [subscribe](/subscribe/). 
 
 As an aside, the other thing you can focus on instead of projects is outcomes. I’m in favor of this, but it is a more difficult change to put in place, so I consider it to be a more advanced technique. For companies that are used to projects, moving to milestones isn’t a huge change. Moving to outcomes may be ultimately better, but it’s harder to do. 
+
+### Why listen to me on projects?
+
+I have a lot of experience with project management:
+
+* I’ve managed projects for a couple of decades. 
+* I’ve run programs crossing many teams and many projects.
+* I’ve studied project management theory. And,
+* I’ve designed and written project management software. 
 
 ### Thank you
 
