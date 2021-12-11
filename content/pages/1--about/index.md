@@ -3,13 +3,15 @@ title: About
 ---
 <re-img src="avatar-large.jpeg" hovereffect=true></re-img>
 
-My name is Jade Rubick. I build engineering organizations where people can do their best work. [Contact me](/contact) if you'd like to discuss how I might be able to help your organization. You can see my background, companies I've worked with, and what people say about working with me on [LinkedIn](https://www.linkedin.com/in/jaderubick/). 
+My name is Jade Rubick. I advise startup founders and engineering leaders on how to build thriving engineering organizations. My specialty is humane, equitable, results-focused organizations.
+
+[Contact me](/contact) if you'd like to discuss how I might be able to help your organization. You can see my background, companies I've worked with, and what people say about working with me on [LinkedIn](https://www.linkedin.com/in/jaderubick/). 
 
 ## What I can help with
 
 Most startups run into challenges as they scale up their engineering teams. The most common symptoms are delivery slowing or quality problems. 
 
-Very smart people run into these problems, because the solutions  are the opposite of what you would expect. I've been through these scaling bottlenecks [many times before](https://www.linkedin.com/in/jaderubick/), and know the methods I can adapt to your unique circumstances to quickly improve your engineering organization. 
+Very smart people run into these problems, because the solutions  are the opposite of what you would expect. I've been through these scaling bottlenecks [many times before](https://www.linkedin.com/in/jaderubick/). We can often work together to quickly improve your organization. 
 
 I help companies primarily as an expert advisor (and occasionally as an Interim VP of Engineering). Typically this means I meet weekly or biweekly with a few leaders in your organization, and guide them through the problems the organization is facing. 
 
@@ -18,9 +20,8 @@ I help companies primarily as an expert advisor (and occasionally as an Interim 
 I typically work with companies that meet this profile. Some companies fall outside these parameters, so feel free to contact me even if you don't hit every one of these.
 
 * Technology startups (I work across industries, but focus on tech startups)
-* 5-75 engineers.
+* 5-50 engineers.
 * Founders have not scaled up an engineering organization before.
-* Have product market fit and have paying customers.
 * Leadership team is interested in my help and willing to make changes.
 * Are growing rapidly.
 
@@ -30,7 +31,7 @@ I typically work with companies that meet this profile. Some companies fall outs
 
 **Leveling up another engineering leader**. If you have an engineering leader who is effective but inexperienced, I can help. Many challenges they face will be "anti-intuitive". The solutions evade smart people, and unless you have the right mental models, you can fail. I've worked with many promising but less experienced leaders, and helped them have the impact the company requires of them.
 
-**Hiring (strategy, process)**. Why should anyone want to work for your company? I can help you[ work out your strategy](/creating-a-hiring-strategy/) for getting the best talent you can in the door. Some companies distinguish themselves by their work culture. Other companies attract candidates by the problem space they are in. Others may offer their employees freedoms, such as working on open source, or short work weeks. To hire in this competitive environment, you need a good hiring strategy. And you need a good retention strategy. Your hiring process also needs to be competitive. The[ time you take to move candidates through your hiring pipeline](/how-to-speed-up-hiring/) can decide whether that candidate becomes an employee. I can help you improve your candidate experience and hiring funnel. You can see examples of some of the things I recommend[ here](/startup-hiring-and-recruiting/).
+**Hiring (strategy, process)**. Why should anyone want to work for your company? I can help you [work out your strategy](/creating-a-hiring-strategy/) for getting the best talent you can in the door. Some companies distinguish themselves by their work culture. Other companies attract candidates by the problem space they are in. Others may offer their employees freedoms, such as working on open source, or short work weeks. To hire in this competitive environment, you need a good hiring strategy. And you need a good retention strategy. Your hiring process also needs to be competitive. The [time you take to move candidates through your hiring pipeline](/how-to-speed-up-hiring/) can decide whether that candidate becomes an employee. I can help you improve your candidate experience and hiring funnel. You can see examples of some of the things I recommend [here](/startup-hiring-and-recruiting/).
 
 **Quality and tech debt**. Many teams get mired in technical debt or are unable to release quality software. I can help with improvements that will help them be proud of their work. And help them make progress on intractable technical debt.  
 
