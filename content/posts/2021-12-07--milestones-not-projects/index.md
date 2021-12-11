@@ -237,6 +237,16 @@ Although the benefits of this may seem subtle, they matter. Incremental design r
 
 When you work on the milestones, break down the current milestone only. Use user stories instead of technical tasks. Vertical slicing can be fractal, and extend down within milestones as well. You may find user stories you can remove, defer, or alter.
 
+For example, let's say we're starting with our first milestone: "Create a hardcoded Slack bot for our own team that displays a useful metric with a line chart."
+
+This could be done is a lot of ways, but let's list a few potential user stories:
+
+* "Team member can see a 'hello world' message displayed in #my-team room in Slack when they type /happybot test"
+* "Team member can see the current happiness score displayed in #my-team room in Slack when they type /happybot test"
+* "Team member can see a line chart displayed in #my-team room in Slack when they type /happybot line"
+
+Each of these could be broken down into technical tasks if that's helpful or necessary. 
+
 ### Prioritization with milestones is good enough
 
 When prioritizing, you will have a rough sense of the cost of features based on the number of milestones (for execution projects). You probably don’t need as much accuracy as you think you do to prioritize features. 
