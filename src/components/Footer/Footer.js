@@ -42,7 +42,7 @@ export default Footer;
 const query = graphql`
   query Info {
     site {
-      buildTime(formatString: "DD.MM.YYYY HH:mm")
+      buildTime(formatString: "MMM DD, YYYY HH:mm")
     }
   }
 `
