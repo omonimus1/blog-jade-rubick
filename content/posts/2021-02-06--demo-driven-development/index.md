@@ -55,7 +55,7 @@ The team spends the rest of the time in the weekly kickoff meeting talking about
 
 I have a whole post on this topic. The basic idea is to [replace projects with milestones](/milestones-not-projects/). This improves project breakdown, sequencing, and biases towards incremental design. 
 
-### Move the team to using user stories
+### Move the team's work to using user stories
 
 Either at the same time, or slightly after you start kicking off the week with questions about how to demo on Fridays, you then organize the work around a higher level of abstraction: user stories. 
 
@@ -111,7 +111,7 @@ You can use technical leadership meetings to offer a similar type of critique fo
 
 These meetings can be extraordinarily impactful. One of the most common causes of project failure is projects that take too many ambitious bets at the same time. And many of the challenges of engineering organizations result from technical decisions made in previous years. Having a group that can set technical standards will prevent painful migration projects from blossoming. And creating a culture of discussing the long-term implications of choices can avoid lots of pain in future years. 
 
-### Conclusion
+### Demo driven development
 
 Demo-driven development organizes your practice at the right level of granularity to really manage your project. It provides goals and meaning in the work that help make the work more engaging, creative, and inspiring for the people involved. And it results in better innovation, more customer-focus, and better planned projects that alternative approaches. 
 
