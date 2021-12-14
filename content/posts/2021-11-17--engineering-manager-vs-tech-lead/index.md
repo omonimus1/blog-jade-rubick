@@ -85,9 +85,9 @@ The SCRUM approach is a classic approach to software development. It doesn’t e
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
    <th>Area of focus
-   </td>
+   </th>
    <th colspan="5" >Model
-   </td>
+   </th>
   </tr>
   <tr>
    <td>
@@ -105,7 +105,7 @@ The SCRUM approach is a classic approach to software development. It doesn’t e
   </tr>
   <tr>
    <th>People
-   </td>
+   </th>
    <td>EM
    </td>
    <td>EM
@@ -119,7 +119,7 @@ The SCRUM approach is a classic approach to software development. It doesn’t e
   </tr>
   <tr>
    <th>Process
-   </td>
+   </th>
    <td>EM
    </td>
    <td>EM
@@ -133,7 +133,7 @@ The SCRUM approach is a classic approach to software development. It doesn’t e
   </tr>
   <tr>
    <th>Projects
-   </td>
+   </th>
    <td>EM
    </td>
    <td>PM
@@ -147,7 +147,7 @@ The SCRUM approach is a classic approach to software development. It doesn’t e
   </tr>
   <tr>
    <th>Technical leadership
-   </td>
+   </th>
    <td>TL
    </td>
    <td>EM (poorly)
@@ -161,7 +161,7 @@ The SCRUM approach is a classic approach to software development. It doesn’t e
   </tr>
   <tr>
    <th>Product
-   </td>
+   </th>
    <td>PM
    </td>
    <td>PM
@@ -175,7 +175,7 @@ The SCRUM approach is a classic approach to software development. It doesn’t e
   </tr>
   <tr>
    <th>Talk with customers
-   </td>
+   </th>
    <td>PM
    </td>
    <td>PM (poorly)
@@ -185,6 +185,26 @@ The SCRUM approach is a classic approach to software development. It doesn’t e
    <td>STO or PM
    </td>
    <td>Product owner (poorly)
+   </td>
+  </tr>
+  <tr>
+   <th>
+   </th>
+   <th colspan="5" >Reporting
+   </td>
+  </tr>
+  <tr>
+   <th>
+   </th>
+   <td>Engineers report to EM.
+   </td>
+   <td>Engineers report to EM.
+   </td>
+   <td>Engineers report to TL.
+   </td>
+   <td>Everyone (engineers, PM, TL) reports to STO.
+   </td>
+   <td>Unspecified. Usually Engineers report to EM.
    </td>
   </tr>
 </table>
