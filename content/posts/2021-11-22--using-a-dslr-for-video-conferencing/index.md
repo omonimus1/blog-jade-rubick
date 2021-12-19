@@ -111,7 +111,7 @@ A pop filter reduces extra noises on high quality microphones. They’re easy to
 
 ## Lumina webcam vs DSLR review
 
-In December 2021, I purchased a [Lumina webcam](https://getlumina.com). It has a great form factor, and I love that it's USB-C. It also attaches nicely to the monitor. The dream is that it would offer the same quality as a DSLR -- then you wouldn't need the expensive DSLR, the mount, the capture device. And it would just plug in to your computer. 
+In December 2021, I purchased a [Lumina webcam](https://getlumina.com). It has a great form factor, and I love that it's USB-C. It also attaches nicely to the monitor. The dream is that it would offer the same quality as a DSLR -- then you wouldn't need the expensive DSLR, the mount, the capture device. And it would just plug in to your computer. The Lumina even features a nice little privacy cap.
 
 The Lumina is a very fine device, but it's not for me. It doesn't have the same detail and quality of the DSLR. 
 
