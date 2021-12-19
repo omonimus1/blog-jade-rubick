@@ -15,15 +15,16 @@ Almost all of my professional life is done via meetings online. So I thought I s
 
 ## How is it using a DSLR as a webcam?
 
-It's not perfect. My setup is fiddly, and I find it often stops working. I’m not quite sure why. I suspect it’s something to do with the video capture card, but it could be anywhere in the chain, including in Mac OS. 
+I've gotten it to a pretty good state, but in the past it has been really fiddly. It stopped working occasionally, and I wasn't sure why until I spent a lot of time on it. I still have some issues with Google Meet. 
 
-The results are worth it to me, but the frustration is real. These are issues I have regularly:
+The results are worth it to me, but the frustration is real. These are issues I have had:
 
-* (Solved?) Sometimes the video feed just cuts out. This is the most frequent issue. It seems to take a restart (sometimes two) to get this to work again. 
-* (Solved?) Sometimes the video feed looks distorted. Like I’m really skinny. This isn’t quite as frequent. 
+* (Solved) For a number of months, my video feed would sometimes just cut out. It seemed to take a restart or two to get it working again. I believe this was due to the cheap video capture device I was using. After going back to the Camlink (as I describe below), things began being reliable again. 
+* (Solved) Sometimes the video feed looks distorted. Like I’m really skinny. This seemed to be another issue with the video capture device. 
 * (Solved) Up until recently I was having near daily kernel panics. They seem to have stopped when I started plugging in two USB-C connections to my laptop instead of one. Maybe having a large monitor, DSLR video, and a few other devices plugged in to the same connection was the cause? I have no idea. I do know it happened across three different computers, and with clean installs of Mac OS, and the kernel panics are all in Apple code. I'm not even sure this is related to the DSLR. 
+* If I leave the camera on for a very long time, it needs to be cooled down or restarted. 
 
-So all of this is to say the cost is a more complex setup. And that may result in having to do things like restart you computer right before an important meeting. 
+So all of this is to say the cost of having a DSLR setup is that it is more complex. It can result in having to do things like restart you computer right before an important meeting. Diagnosing these problems can be hard, because there can be so many places the problem can be. 
 
 ## What does it look like? 
 
@@ -38,6 +39,8 @@ For a while I used a Logitech webcam. It was ... fine.
 And this is the view from the Sony a6000.
 
 ![Sony SLR webcam](sony.png)
+
+I do some comparisons below to the Lumina webcam as well.
 
 ## Choosing a camera
 
@@ -61,8 +64,8 @@ These are called "dummy batteries". I don’t believe mine is still available. B
 
 You’ll need something that can take the raw video and get it into your camera with low latency. To learn more about this, Jason Yee [has a great explanation](https://docs.google.com/document/d/1PjocFpojp771gmmn22JcApPj-Sc_RqAKWvpXTIhz-aU/edit). 
 
-* [Elgato Camlink 4k](https://www.amazon.com/gp/product/B07K3FN5MR/ref=as_li_tl?ie=UTF8&tag=rubick-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07K3FN5MR&linkId=54c5381236996362db5fe541f4f8dd80). I tried this, but it stopped working. In December 2021, I purchased it again, and it seems to have addressed two of the main issues I was having. The whole setup is more reliable again. Crossing fingers it won't stop working again like it did before.
-* I used a cheap HDMI video capture device that Jason recommended. I used it for about two years. It was only $10 instead of $130. I wondered if was is the source of flaky behavior, and it turns out it was. It did give a slight red tint to the image. I was okay with that. However, it’s no longer available on Amazon, so you’ll need to find some other option. 
+* [Elgato Camlink 4k](https://www.amazon.com/gp/product/B07K3FN5MR/ref=as_li_tl?ie=UTF8&tag=rubick-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B07K3FN5MR&linkId=54c5381236996362db5fe541f4f8dd80). I'm on my second or third Camlink. The first time I tried it, it stopped working after a short while. In December 2021, I purchased it again, and it seems to have addressed two of the main issues I was having (with the video feeds cutting out). The whole setup is more reliable again. Crossing fingers it won't stop working again like it did before.
+* For two years, I used a cheap HDMI video capture device Jason Yee recommended. It was only $10 and worked fine. It did give a slight red tint to the image. However, it’s no longer available on Amazon, so you’ll need to find some other option. 
 
 ## Cables and such
 
@@ -105,6 +108,40 @@ I use [Krisp.ai](https://krisp.ai) to reduce echo, since my office has wood floo
 A pop filter reduces extra noises on high quality microphones. They’re easy to install. A shock mount isolates the microphone from physical bumps and such. I never got one. But I did get a mount for my microphone. 
 
 * [Aokeo pop filter](https://www.amazon.com/gp/product/B01N21H9WY/ref=as_li_tl?ie=UTF8&tag=rubick-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B01N21H9WY&linkId=6352aac8ce3eeb55d7246363d95b8951). 
+
+## Lumina webcam vs DSLR review
+
+In December 2021, I purchased a [Lumina webcam](https://getlumina.com). It has a great form factor, and I love that it's USB-C. It also attaches nicely to the monitor. The dream is that it would offer the same quality as a DSLR -- then you wouldn't need the expensive DSLR, the mount, the capture device. And it would just plug in to your computer. 
+
+The Lumina is a very fine device, but it's not for me. It doesn't have the same detail and quality of the DSLR. 
+
+I set it up in the evening. Sometimes I start work in when it's still dark out, so this is a realistic situation for me. Here's the Lumina device:
+
+![Lumina at night](lumina-night-w-light.png)
+
+Here's my DSLR:
+
+![Sony at night](sony-night-w-light.png)
+
+So comparing those two, the Lumina tries to balance the brightness more, but the image looks pretty poor. And it does a nice thing where it tracks your face, and keeps it in the picture, but the DSLR makes it easier to control what is in your background (I don't like to show my window as I think it's distracting). You can see the DSLR clarity is much better. Still, the Lumina isn't terrible, and it's possible as they improve their software, it will be a better option. I'm using beta software after all.
+
+The next morning, I did another comparison. The Lumina actually offers two different camera inputs. The "raw" input, which shows what it does before all their software intervenes, and the "plus" input, which shows the input after the software has done its work. This is the raw input, with lighting:
+
+![Lumina during the day, with light, raw mode](lumina-day-raw.png)
+
+Oh my god that is kind of terrible. Let's see if their "plus" mode, after software does it's magic, helps:
+
+![Lumina during the day, plus mode, with light](lumina-day-plus.png)
+
+So that doesn't really help. Maybe it's being over-sensitive to my bright lighting? I tried turning off the front light, and the results look pretty good. 
+
+![Lumina during the day, plus mode, without light](lumina-plus-without-lights.png)
+
+But I still prefer my Sony a6000 DSLR setup. Here's the Sony view, With light: 
+
+![Sony DSLR, during the day, with light](sony-day.png)
+
+It does make me think it might be worth investing in a higher speed lens, as the Lumina is a picking up a lot more light from the environment. I like that companies like Lumina are starting to produce webcams that are intended to compete with DSLR setups. But they still have a lot of work ahead of them. Still, for people that don't want to hassle with a DSLR setup, the Lumina is a decent option. I will be returning the Lumina. 
 
 ## What does your desk look like?
 
