@@ -141,7 +141,7 @@ But I still prefer my Sony a6000 DSLR setup. Here's the Sony view, With light:
 
 ![Sony DSLR, during the day, with light](sony-day.png)
 
-It does make me think it might be worth investing in a higher speed lens, as the Lumina is a picking up a lot more light from the environment. I like that companies like Lumina are starting to produce webcams that are intended to compete with DSLR setups. But they still have a lot of work ahead of them. Still, for people that don't want to hassle with a DSLR setup, the Lumina is a decent option. I will be returning the Lumina. 
+When there is better ambient light, it looks even better. It does make me think it might be worth investing in a higher speed lens, as the Lumina is a picking up a lot more light from the environment. I like that companies like Lumina are starting to produce webcams that are intended to compete with DSLR setups. But they still have a lot of work ahead of them. Still, for people that don't want to hassle with a DSLR setup, the Lumina is a decent option. I will be returning the Lumina. 
 
 ## What does your desk look like?
 
