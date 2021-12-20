@@ -13,12 +13,14 @@ Most engineering organizations focus on delivering **projects**. They should foc
 
 Managing projects is hard. Companies contort themselves to do it well. Instead of playing chess, switch to checkers. Milestones are an easier game, and you get better results. 
 
+More importantly, milestones unlock powerful behavior. One example is project shaping. Milestones make it easy to play with the contours of a project. 
+
 In this post, I describe:
 
 1. A special flavor of milestones I recommend you adopt.
 2. Why humans suck at projects.
 3. Why we’re actually pretty good at milestones.
-4. The quadzillion ways in which milestone-based delivery makes everything better.
+4. How milestones unlock project shaping, better handle exploration projects, encourage incremental design, improve teams, make engineering look good, and increase trust. 
 5. How to make the switch to milestone-based delivery. 
 
 
