@@ -22,6 +22,7 @@ The results are worth it to me, but the frustration is real. These are issues I 
 * (Solved) For a number of months, my video feed would sometimes just cut out. It seemed to take a restart or two to get it working again. I believe this was due to the cheap video capture device I was using. After going back to the Camlink (as I describe below), things began being reliable again. 
 * (Solved) Sometimes the video feed looks distorted. Like I’m really skinny. This seemed to be another issue with the video capture device. 
 * (Solved) Up until recently I was having near daily kernel panics. They seem to have stopped when I started plugging in two USB-C connections to my laptop instead of one. Maybe having a large monitor, DSLR video, and a few other devices plugged in to the same connection was the cause? I have no idea. I do know it happened across three different computers, and with clean installs of Mac OS, and the kernel panics are all in Apple code. I'm not even sure this is related to the DSLR. 
+* When I use the camera with most web browser based videoconferencing solutions, I get an echo in the sound, because Zoom seems to be the only solution out there that can use a microphone as both a speaker and microphone. 
 * If I leave the camera on for a very long time, it needs to be cooled down or restarted. 
 
 So all of this is to say the cost of having a DSLR setup is that it is more complex. It can result in having to do things like restart you computer right before an important meeting. Diagnosing these problems can be hard, because there can be so many places the problem can be. 
@@ -40,7 +41,7 @@ And this is the view from the Sony a6000.
 
 ![Sony SLR webcam](sony.png)
 
-I do some comparisons below to the Lumina webcam as well.
+I do some comparisons below to the Lumina webcam as well, and added what it looks like now that I've added a lens.
 
 ## Choosing a camera
 
@@ -51,8 +52,7 @@ So I instead went with a [Sony a6000](https://www.amazon.com/gp/product/B07BYZ5Y
 * [List of camera you can use](https://www.elgato.com/en/cam-link/camera-check) with Elgato Camlink
 * This is another [list of cameras with clean video from Atmos](https://www.atomos.com/compatible-cameras)
 
-I use the lens that came with the Sony, which has a 3.5-5.6/16-50 lens. It works fine for my purposes. If I were wanting to upgrade my lens, I’d follow [Jason Yee’s advice](https://docs.google.com/document/d/1PjocFpojp771gmmn22JcApPj-Sc_RqAKWvpXTIhz-aU/edit).
-
+I started out using the lens that came with my Sony, which has a 16-50mm, f/3.5-5.6 lens. It worked fine, but in retrospect I should have upgraded it much sooner. You can see what a difference it made if you look later in this article. 
 
 ## You’ll need a dummy battery
 
@@ -123,7 +123,7 @@ Here's my DSLR:
 
 ![Sony at night](sony-night-w-light.png)
 
-So comparing those two, the Lumina tries to balance the brightness more, but the image looks pretty poor. And it does a nice thing where it tracks your face, and keeps it in the picture, but the DSLR makes it easier to control what is in your background (I don't like to show my window as I think it's distracting). You can see the DSLR clarity is much better. Still, the Lumina isn't terrible, and it's possible as they improve their software, it will be a better option. I'm using beta software after all.
+So comparing those two, the Lumina tries to balance the brightness more, but the image looks pretty poor. And it does a nice thing where it tracks your face, and keeps it in the picture, but the DSLR makes it easier to control what is in your background (I don't like to show my window as I think it's distracting). You can override these things with the Lumina. The DSLR image clarity is much better. Still, the Lumina isn't terrible, and it's possible as they improve their software, it will be a better option. I'm using beta software after all.
 
 The next morning, I did another comparison. The Lumina actually offers two different camera inputs. The "raw" input, which shows what it does before all their software intervenes, and the "plus" input, which shows the input after the software has done its work. This is the raw input, with lighting:
 
@@ -142,6 +142,23 @@ But I still prefer my Sony a6000 DSLR setup. Here's the Sony view, With light:
 ![Sony DSLR, during the day, with light](sony-day.png)
 
 When there is better ambient light, it looks even better. It does make me think it might be worth investing in a higher speed lens, as the Lumina is a picking up a lot more light from the environment. I like that companies like Lumina are starting to produce webcams that are intended to compete with DSLR setups. But they still have a lot of work ahead of them. Still, for people that don't want to hassle with a DSLR setup, the Lumina is a decent option. I will be returning the Lumina. 
+
+## Upgrading the camera lens
+
+After evaluating the Lumina, I realized the reason my picture was so dark is that my camera wasn't letting in very much light. So I purchased a [Meike 28mm f/2.8 camera lens](https://www.amazon.com/gp/product/B01DZ5URFY?ie=UTF8&psc=1&linkCode=ll1&tag=rubick-20&linkId=b1a0917af9598d78394ab87063641aef&language=en_US&ref_=as_li_ss_tl). 
+
+Here's the original Sony 16-50mm f/3.5-5.6 lens that came with the camera:
+![Original Sony zoom lens](sony35to56_16-50lens.png)
+
+Here's the view from Meike camera lens.
+![Meike manual focus 28mm lens](meike28mmf28.png)
+
+Some things to note:
+* The Meike is a manual focus, fixed lenth lens. When using as a webcam, that means you set the focus and leave it there. If you move around a lot, that's not a good option for you.
+* You can manually set the focal length on the Meike lens, to decide how much light and depth of field you want. 
+* One annoyance with a zoom lens is when you turn it on, you have to zoom in and frame it each time. The Meike is easier because it starts always at the same Zoom level. However, you better be happy with how it frames the scene -- it isn't something you can adjust. 
+* I'm amazed how much more light it brought in. It significantly improves the view.
+* The Meike lens cap is also easier to put over the lens, as a privacy cap. The Sony cap is less satisfying to put over the lens.
 
 ## What does your desk look like?
 
@@ -165,6 +182,6 @@ Also, be sure to [subscribe](/subscribe/) if you’d like to be notified of futu
 
 ## Thank you
 
-Thank you to [Drew Stokes](https://www.linkedin.com/in/drewstokes/) for pointing out the challenges of overheating. Thank you to [Adam Larson](https://www.linkedin.com/in/adam-larson-seattle/) for getting me to post a photo of my desk. 
+Big thanks to [Jason Yee](https://www.linkedin.com/in/gitbisect/) for sharing his [setup notes](https://docs.google.com/document/d/1PjocFpojp771gmmn22JcApPj-Sc_RqAKWvpXTIhz-aU/edit). Thank you to [Drew Stokes](https://www.linkedin.com/in/drewstokes/) for pointing out the challenges of overheating. Thank you to [Adam Larson](https://www.linkedin.com/in/adam-larson-seattle/) for getting me to post a photo of my desk. 
 
 Image by <a href="https://pixabay.com/photos/sony-a6000-ilce-6000-camera-4808408/">Farbsynthese</a> from <a href="https://pixabay.com/">Pixabay</a>
