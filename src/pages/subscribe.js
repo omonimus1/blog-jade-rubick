@@ -28,7 +28,35 @@ const SubscribePage = props => {
               <header>
                 <Headline title="Subscribe" theme={theme} />
               </header>
-              <p>Hear about new posts by RSS, Twitter, or get it in your inbox.</p>
+
+              <h3>An email a week on engineering leadership</h3>
+              <p></p>
+              <p>I offer a free and paid version,
+                and I promise not to spam you or bug you about the paid version. Just an email a week
+                on engineering leadership topics.
+              </p>
+
+              <p>The paid version is a great use for a professional development budget. Pay for it,
+                expense it, and support my writing!</p>
+
+                <a href="https://rubick.ck.page/subscribe" target="_blank">
+                  <section className="subContainer">
+                    <span className="subIcon"><FaPaperPlane/></span>
+                    <span className="subText">Email Course</span>
+                  </section>
+                </a>
+
+                <a href="https://rubick.ck.page/products/engineering-leadership-course" target="_blank">
+                <section className="subContainer">
+                  <span className="subIcon"><FaPaperPlane/></span>
+                  <span className="subText">Paid course</span>
+                </section>
+              </a>
+
+              <p></p>
+
+              <p>And finally, there are lots of ways to be informed about new posts: RSS, Twitter, and LinkedIn all work!</p>
+
               <a href="../rss.xml" target="_blank">
                 <section className="subContainer">
                     <span className="subIcon"><FaRss/></span>
@@ -43,7 +71,7 @@ const SubscribePage = props => {
                 </section>
               </a>
 
-              <a href="https://groups.google.com/g/rubick-blog" target="_blank">
+              <a href="https://rubick.ck.page/subscribe" target="_blank">
                 <section className="subContainer">
                   <span className="subIcon"><FaPaperPlane/></span>
                   <span className="subText">Email</span>
