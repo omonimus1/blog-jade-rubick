@@ -29,15 +29,17 @@ const SubscribePage = props => {
                 <Headline title="Subscribe" theme={theme} />
               </header>
 
-              <h3>An email a week on engineering leadership</h3>
+              <h3>Are you interested in being a better engineering leader?</h3>
               <p></p>
-              <p>I offer a free and paid version,
-                and I promise not to spam you or bug you about the paid version. Just an email a week
-                on engineering leadership topics.
-              </p>
+              <p>I offer a course on engineering leadership. 
+                Each week, you receive an email 
+                that describes something useful. If you've read my posts in the past 
+                and learned from them, sign up! </p>
 
-              <p>The paid version is a great use for a professional development budget. Pay for it,
-                expense it, and support my writing!</p>
+              <p>I offer a free and paid version. The paid version is a great use for 
+                a "professional development" budget. Pay for it and expense it. 
+                The paid version helps me develop more curriculum, and will
+                have some other benefits.</p>
 
                 <a href="https://rubick.ck.page/subscribe" target="_blank">
                   <section className="subContainer">
