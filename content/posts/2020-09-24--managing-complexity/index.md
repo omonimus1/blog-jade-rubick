@@ -11,7 +11,7 @@ description: "Complexity is the underlying challenge of an engineering organizat
 
 Delivery is the yardstick that engineering organizations are measured by. After all, if we're not creating and maintaining something valuable in the world, what's the purpose of our work?
 
-[Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham) has a wonderful way of describing the heart of agile software development. He compares it to the pedal of a wheel. Every turn of the wheel...
+[Ward Cunningham](https://en.wikipedia.org/wiki/Ward_Cunningham) has a wonderful way of describing the heart of agile software development. He compares it to the pedal of a bicycle. Every turn of the crank...
 1. You deliver something of value to your customers or the business.
 2. You do something that makes the next turn of the wheel smoother.
 

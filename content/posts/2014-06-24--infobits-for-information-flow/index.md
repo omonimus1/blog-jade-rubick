@@ -12,7 +12,7 @@ description: "Describes a technique you can use to improve information flow with
 Everyone participates in information flow, although they may or may not realize it. Information flow is the act of consciously pushing information to the people that need it. It is an important part of any job, and I am going to share two techniques for being successful at it.
 
 1. The first is a common technique, but often one that is poorly practiced: a weekly email.
-2. The second is a new method I use which tracks _what_ to communicate out _to whom:_ infobits. It’s made a huge difference in my communication, to the extent that my colleagues seem blown away by the level of communication.
+2. The second is a new method I use, which tracks _what_ to communicate out _to whom:_ infobits. It’s made a huge difference in my communication, to the extent that my colleagues seem blown away by the level of communication.
 
 My first introduction to information flow was when I screwed up. I didn’t tell my manager about an important change to a project I was running. Someone asked him about it during a meeting, and he was caught flat-footed.
 
