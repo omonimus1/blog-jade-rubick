@@ -47,7 +47,7 @@ What are the things you need as the organization grows?
 * Cross-functional teams, so less coordination is needed to build something valuable
 * About a million other things
 
-You can think of growing an engineering organization as almost a mathemtical exercise, where you see growth in complexity in what you build and who you hire, and you reduce complexity with all the activities you take to streamline things. 
+You can think of growing an engineering organization as almost a mathematical exercise, where you see growth in complexity in what you build and who you hire, and you reduce complexity with all the activities you take to streamline things. 
 
 A warning: one way of reading the Innovator's Dilemna is that the company with the most complexity almost always loses. So you have to build your organizations very, very carefully.
 
