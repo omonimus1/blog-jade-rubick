@@ -71,6 +71,15 @@ Then, I edit them based on that particular person’s information needs:
 
 After editing, I periodically sweep through the list, and cut and paste each person’s section into an email addressed to them.
 
+## Why not Slack this info to them?
+
+I have done an experiment with doing this by Slack. I prefer the email, for a couple of reasons:
+
+1. Doing it by email made me pay more attention to what I was doing. It helped me build the skill. Why? The email and the notes were closer to each other, so editing the notes to get them into email form seemed closer to what I was looking for. 
+2. With Slack, the tempatation can be to do it as it comes up. I found part of the benefit was from batching and editing. This gave me time to think about what each person needs, and also the relative importance of what I was sending. This allowed me to filter out more, making it more valuable to my reader.
+
+Doing it by Slack is fine, but I recommend doing it on a cadence: daily, biweekly, or weekly. 
+
 ## Why you should try infobits
 
 Writing infobits takes a little more time than the weekly email. Is it worth it? I’d encourage you to try it out for a couple of weeks, and see what kind of response you get.
@@ -82,4 +91,4 @@ My experience was that there were three surprises:
 * Surprise #3: Infobits also help build important business relationships. People really appreciate it when you are helping them to do their job better.
 
 
-Thanks to @Lariar on Twitter for archiving this content so I could repost it. This was originally hosted on [Kate Matsudaira's](https://www.linkedin.com/in/katemats/) popforms. Also thank you to [Bjorn Freeman-Benson](https://www.linkedin.com/in/bjornfreemanbenson/), who taught me many of the techniques in this blog post.
+Thanks to [@Lariar](https://twitter.com/lariar) on Twitter for archiving this content so I could repost it. This was originally hosted on [Kate Matsudaira's](https://www.linkedin.com/in/katemats/) popforms. Also thank you to [Bjorn Freeman-Benson](https://www.linkedin.com/in/bjornfreemanbenson/), who taught me many of the techniques in this blog post.
