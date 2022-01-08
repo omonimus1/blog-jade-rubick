@@ -12,7 +12,7 @@ const ReImg = (props) => {
         top: 0,
         left: (props.meme ? '15%' : '0'),
         margin: '2.5em 0',
-        width: (props.meme ? '70%' : '100%'),
+        width: (props.width ? props.width : '100%'),
         display: 'block',
         borderRadius: theme.size.radius.default,
         overflow: 'hidden'
