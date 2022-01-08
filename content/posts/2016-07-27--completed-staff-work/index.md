@@ -20,7 +20,7 @@ So, let me share with you one of the most powerful management concepts I’ve en
 
 ## An example of typical staff work
 
-New Relic had a couple of engineers located in a coworking space in London. They were unhappy with the location—it had no windows, and they said it felt too tight. I talked about the issue with our facilities person, and he quickly located another location for us. But to make it happen he needed email approval from my manager.
+Company X had a couple of engineers located in a coworking space in London. They were unhappy with the location—it had no windows, and they said it felt too tight. I talked about the issue with our facilities person, and he quickly located another location for us. But to make it happen he needed email approval from my manager.
 
 I composed an email to my manager that read something like this:
 
