@@ -1,5 +1,5 @@
 ---
-title: Engineering leaders should obsess over feedback loops
+title: What can air combat can teach us about software project failure?
 tags: ["delivery", "velocity"]
 cover: f86-sabre.jpg
 author: Jade Rubick
@@ -42,7 +42,7 @@ So, we need to focus on things that speed our feedback loops:
 
 We can do this in our individual actions, as individual contributors, and as managers. And most importantly for engineering, we must do this in our projects, because it enriches the value of engineering organizations immensely to deliver things in faster, smaller loops.
 
-One of the most common issues I see in engineering organizations is focusing on shipping big projects, where you learn the result of the project at the end. You often miss the mark. Focusing on [projects as the unit of delivery is fundamentally flawed](/milestones-not-projects/). Instead, break things into pieces, and focus on validation and learning as often as you can during the course of the project. The results will be far superior.
+One of the most common failures I see in engineering organizations is shipping big projects, where you learn the result of the project at the end. You often miss the mark. Focusing on [projects as the unit of delivery is flawed](/milestones-not-projects/). Instead, break things into pieces, and focus on validation and learning as often as you can during the course of the project. The results will be far superior.
 
 Part of the reason this is so valuable is that **velocity is a vector: it combines movement with a direction**. Incremental delivery helps ensure your direction fits your customer needs, so even if it were less efficient to be incremental, the results are almost always better.
 
