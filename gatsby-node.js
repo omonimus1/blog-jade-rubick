@@ -198,7 +198,7 @@ exports.createPages = ({ graphql, actions }) => {
     
           createPaginationJSON(pathSuffix, pagePosts);
           createPage({
-            path: `/`+pathSuffix,
+            path: `/posts`+pathSuffix,
             component: path.resolve("./src/templates/index.js"),
             context: {
               numPages,
