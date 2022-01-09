@@ -3,7 +3,7 @@ title: About
 ---
 <re-img src="avatar-large.jpeg" hovereffect=true></re-img>
 
-My name is Jade Rubick. I advise startup founders and engineering leaders on how to build thriving engineering organizations. My specialty is humane, equitable, results-focused organizations.
+My name is Jade Rubick. I advise startup founders and engineering leaders on how to build thriving engineering organizations. My specialty is humane, results-focused organizations.
 
 [Contact me](/contact) if you'd like to discuss how I might be able to help your organization. You can see my background, companies I've worked with, and what people say about working with me on [LinkedIn](https://www.linkedin.com/in/jaderubick/). 
 
