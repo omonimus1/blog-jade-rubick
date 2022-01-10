@@ -26,7 +26,7 @@ const ContactPage = props => {
         </a>
 
         <a href="https://rubick.ck.page/products/engineering-leadership-course" target="_blank">
-          <section className="subContainer">
+          <section className="subContainer2">
             <span className="subIcon"><FaPaperPlane /></span>
             <span className="subText">Paid course</span>
           </section>
@@ -88,7 +88,24 @@ const ContactPage = props => {
                     }
                   }
                 }
-              
+
+                .subContainer2 {
+                  display: inline-block;
+                  border-radius: 6px;
+                  padding: 10px;
+                  padding-bottom: 0px;
+                  margin-right: 30px;
+                  min-width: 130px;
+                  border: 1px solid ${theme.color.neutral.gray.d};
+                  background-color: ${theme.color.brand.primaryLight};
+                  :hover {
+                    border: 1px solid #ccc;
+                    .subText {
+                      color: ${theme.color.brand.primary};
+                    }
+                  }
+                }
+
                 .subText {
                     text-align: right;
                     font-size: 20px;
