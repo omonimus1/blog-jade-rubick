@@ -61,9 +61,9 @@ I write because I enjoy sharing what I've learned. Writing can be thankless unle
 
 My most popular posts have been: 
 
-* [Coordination models -- tools for getting teams to work well together](/coordination-models/) (especially the [the independent executor model](/independent-executor-model/) and [self-service model](/platform-teams-and-the-self-service-model/) posts)
+* [Great engineering teams focus on milestones instead of projects](/milestones-not-projects/)
 * [How to build siloes and decrease collaboration](/how-to-build-silos-and-decrease-collaboration/)
-* [Implementing Amazon's single threaded owner model](/implementing-amazons-single-threaded-owner-model/)
+* [Coordination models -- tools for getting teams to work well together](/coordination-models/) (especially the [the independent executor model](/independent-executor-model/) and [self-service model](/platform-teams-and-the-self-service-model/) posts)
 * [How to implement pay equity](/implementing-pay-equity/)
 
 This blog's code is open sourced on [GitHub](https://www.github.com/jadeforrest/blog/) thanks to [Atte Juvonen](https://github.com/baobabKoodaa/blog) and others before him. Feel free to submit corrections or use the code to create your own blog (but do not host my content elsewhere).
