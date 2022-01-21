@@ -26,34 +26,36 @@ const SubscribePage = props => {
           <React.Fragment>
             <Article theme={theme}>
               <header>
-                <Headline title="Subscribe" theme={theme} />
+                <Headline title="Learn to build humane, effective engineering organizations" theme={theme} />
               </header>
 
-              <h3>Are you interested in being a better engineering leader?</h3>
-              <p></p>
-              <p>I offer a course on engineering leadership. 
-                Each week, you receive an email 
-                that describes something useful. If you've read my posts in the past 
-                and learned from them, sign up! </p>
+              <p>Get a weekly email course on engineering leadership!</p>
 
-              <p>I offer a free and paid version. The paid version is a great use for 
-                a "professional development" budget. Pay for it and expense it. 
-                The paid version helps me develop more curriculum, and will
-                have some other benefits.</p>
-
-                <a href="https://rubick.ck.page/subscribe" target="_blank">
-                  <section className="subContainer">
-                    <span className="subIcon"><FaPaperPlane/></span>
-                    <span className="subText">Email Course</span>
-                  </section>
-                </a>
-
-                <a href="https://rubick.ck.page/products/engineering-leadership-course" target="_blank">
+              <a href="https://rubick.ck.page/subscribe" target="_blank">
                 <section className="subContainer">
-                  <span className="subIcon"><FaPaperPlane/></span>
+                  <span className="subIcon"><FaPaperPlane /></span>
+                  <span className="subText">Free Course</span>
+                </section>
+              </a>
+
+              <a href="https://rubick.ck.page/products/engineering-leadership-course" target="_blank">
+                <section className="subContainer2">
+                  <span className="subIcon"><FaPaperPlane /></span>
                   <span className="subText">Paid course</span>
                 </section>
               </a>
+
+              <p></p>
+
+              <p>Each week, you receive an email
+                that describes something useful. If you've read my posts in the past
+                and learned from them, sign up! </p>
+
+              <p>The paid version is a great use for
+                a "professional development" budget. Pay for it and expense it.
+                The paid version helps me develop more curriculum, and will
+                have some other benefits.</p>
+
 
               <p></p>
 
@@ -102,7 +104,7 @@ const SubscribePage = props => {
                   padding-bottom: 0px;
                   margin-right: 30px;
                   min-width: 130px;
-                  border: 1px solid ${theme.color.neutral.white};
+                  border: 1px solid ${theme.color.neutral.gray.d};
                   :hover {
                     border: 1px solid #ccc;
                     .subText {
@@ -110,7 +112,24 @@ const SubscribePage = props => {
                     }
                   }
                 }
-              
+
+                .subContainer2 {
+                  display: inline-block;
+                  border-radius: 6px;
+                  padding: 10px;
+                  padding-bottom: 0px;
+                  margin-right: 30px;
+                  min-width: 130px;
+                  border: 1px solid ${theme.color.neutral.gray.d};
+                  background-color: ${theme.color.brand.primaryLight};
+                  :hover {
+                    border: 1px solid #ccc;
+                    .subText {
+                      color: ${theme.color.brand.primary};
+                    }
+                  }
+                }
+
                 .subText {
                     text-align: right;
                     font-size: 20px;
