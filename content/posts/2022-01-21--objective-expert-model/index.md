@@ -80,7 +80,7 @@ Here’s how it can work:
 See later in this post for how to put this in place. 
 
 
-### Non-specialist teams can use this model for projects
+## Non-specialist teams can use this model for projects
 
 Platform teams can steal this approach for non-specialist teams. If you have something you need others to adopt, you can make it visible who has done the work to adopt it. 
 
