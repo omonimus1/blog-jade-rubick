@@ -79,7 +79,6 @@ Here’s how it can work:
 
 See later in this post for how to put this in place. 
 
-
 ## Non-specialist teams can use this model for projects
 
 Platform teams can steal this approach for non-specialist teams. If you have something you need others to adopt, you can make it visible who has done the work to adopt it. 
@@ -88,15 +87,12 @@ For example, let’s say your team is responsible for permissions, and you have 
 
 There are many ways to solve that problem: 
 
-
-
 * You can do the work across all the engineering teams. ([I’m a fan of this approach](/should-platform-teams-deprecate/))
 * You can create documentation on what needs to be done to integrate, and work through product management to get the work prioritized on each team. 
 * You can create documentation on what needs to be done to integrate, and create tickets for each team to request them to do the work (I don’t recommend this approach)
 * If you have the right prioritization, you can have a [Program Manager](/coordination-models/) coordinate all the parties involved. 
 
 Another approach you can take is similar to the approach we described for specialist teams:
-
 
 1. Make sure the prioritization is agreed upon. (Perhaps a deadline or stack ranking of priorities).
 2. Tell every product manager it is up to them to decide, and ask them to surface risks of not achieving it on time.
@@ -114,7 +110,7 @@ The Object Expert Model is one of the most scalable [coordination models](/coord
 
 If your team wants other teams to prioritize work from you, use this model. 
 
-you can take this too far. It isn’t a model that every team should be using. Think about what it would look like if every team tried this model. Your organization would generate too many prioritization artifacts. It would be unwieldy. So if you see more than a couple teams using this model, think twice before adding another one.
+You can take this too far. It isn’t a model that every team should be using. Think about what it would look like if every team tried this model. Your organization would generate too many prioritization artifacts. It would be unwieldy. So if you see more than a couple teams using this model, think twice before adding another one.
 
 
 ## When using this model
@@ -234,7 +230,7 @@ This is one of many ways to handle team coordination. Other patterns to consider
 
 ## Coordination models
 
-Liaisons are just one of many [coordination models](/coordination-models/). Coordination models give you a menu of choices to choose from when solving your leadership coordination issues.
+Objective Experts are just one of many [coordination models](/coordination-models/). Coordination models give you a menu of choices to choose from when solving your leadership coordination issues.
 
 ## Feedback
 
