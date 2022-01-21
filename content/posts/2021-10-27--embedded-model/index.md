@@ -49,7 +49,7 @@ Sometimes specialist teams should grow slower. For example, a security team shou
 \
 For example, a design organization might embed, but have a central team or two. This central team can work on a design system, or design research. \
 \
-An SRE organization might have a central SRE team as well. This team can work on standardized tooling, and provide reliability information. (See my upcoming post on objective experts). This works together with embedding. \
+An SRE organization might have a central SRE team as well. This team can work on standardized tooling, and [provide reliability information and reporting](/objective-expert-model/). This works together with embedding. \
 \
 This sort of pairing is natural. You may or may not need it to start. But you usually end up needing both.
 
@@ -117,7 +117,7 @@ If context is less important, a rotation may be preferable. This doesn’t build
 
 **Objective expert: give the central team leverage!**
 
-When pairing the embedded model with a small centralized team, it can be useful to have the central team use the Objective expert approach. A reliability organization might have a central SRE group that is in charge of reporting on reliability for the organization, broken down by team. This can drive a lot of work in other teams. I love this approach, and will write more on it soon. 
+When pairing the embedded model with a small centralized team, it can be useful to have the central team use the [Objective expert model](/objective-expert-model/). A reliability organization might have a central SRE group that is in charge of reporting on reliability for the organization, broken down by team. This can drive a lot of work in other teams. 
 
 ### Coordination models
 
