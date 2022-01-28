@@ -124,7 +124,7 @@ This matches my experience. The sweet spot for setting goals is a week to three 
 
 When people break down a project, they typically break it down into **technical tasks**. Some more experienced teams might break it down into **user stories**. 
 
-You will extract far greater value if you first break projects into a list of milestones. A project is a list of one or more milestones. Your high level plan for the project is an ordered list of milestones to deliver. 
+You will extract far greater value if you first break projects into a list of **milestones**. A project is a list of one or more milestones. Your high level plan for the project is an ordered list of milestones to deliver. 
 
 This is more valuable because humans can reason about a list of milestones way better than a list of technical tasks. And a list is more fluid. The opposite of that is alist of technical tasks. They will cement your approach and make it a lot of work to change the plan. 
 
@@ -184,7 +184,7 @@ For example, let’s say your project is to create a Slack bot that displays cha
   </tr>
 </table>
 
-
+\
 Tradeoffs:
 
 * The second breakdown gives the team a more immediate understanding of the problem space. Dogfooding is strong with this one.
@@ -355,6 +355,28 @@ More natural to change priorities based on new information.
    </td>
   </tr>
 </table>
+
+## Milestones vs sprints vs kanban
+
+Isn't this just sprints? Or, can't you accomplish the same thing by using sprints? 
+
+I don't recommend it. **Milestones are mini-projects**. I've seen organizations that have used sprints since the beginning be transformed by using milestones. 
+
+If you use sprints for mini-projects, you're saying every unit of delivery is exactly 2 weeks in length (or whatever you use). This incentivizes adding more scope to fill out a mini-project, or cutting out scope to make a mini-project fit.
+
+What I've found is:
+
+1. Milestones incentivize different things than sprints. Instead of "what can we accomplish in two weeks", you ask yourself, "what's the minimum amount of work we can do to provide value". 
+2. Milestones incentivize better shaping of projects, and better planning.
+3. Sprints don't encourage vertical slicing. Milestones do. 
+
+So, I recommend you use milestones WITH sprints, or milestones WITH kanban. 
+
+When using sprints, I plan the current and next milestone. Each sprint, we break down the work for any milestones we're coming into contact with. And we look at whether we'll complete a milestone that sprint or not. 
+
+Another way of thinking of it is that milestones is like using kanban but preserving your weekly or biweekly meetings. 
+
+Using milestones with Kanban is simpler. Your unit of delivery is just a milestone, and you try to deliver one every one to three week cycle. 
 
 ## How to switch to milestone based delivery
 
