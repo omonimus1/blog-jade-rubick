@@ -1,5 +1,5 @@
 ---
-title: Your hiring process is too slow -- speed it up with these six tips
+title: Your hiring process is too slow -- speed it up with these five tips
 tags: ["hiring", "diversity-equity-and-inclusion", "scaling", "pay-equity"]
 cover: hiring-fast.jpg
 author: Jade Rubick
@@ -64,6 +64,8 @@ The formula for how long your interview takes is:
 We've already optimized the number of steps, and turnaround time. The final optimization is to reduce coordination time. 
 
 One way to do this is to pre-schedule your team for interview times, so they're available for a certain number of interviews per week. Then you can offer times that are immediate, instead of far off in the future. 
+
+A side benefit of this is that you ensure your interview team is being scheduled a sane amount of time each week.
 
 Now you're cooking with fire!
 
