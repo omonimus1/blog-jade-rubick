@@ -1,48 +1,101 @@
 ---
-title: Your hiring process is too slow -- speed it up with a better approach
+title: Your hiring process is too slow -- speed it up with these six tips
 tags: ["hiring", "diversity-equity-and-inclusion", "scaling", "pay-equity"]
 cover: hiring-fast.jpg
 author: Jade Rubick
 discussionId: "how-to-speed-up-hiring"
-description: "The easiest way to improve your hiring is to speed it up. Here's how: an SLA, present instant offers, and use a modified rolling approach."
+description: "The easiest way to improve your hiring is to speed it up. Here's how: use an SLA, reduce steps, use schedule blocks, present instant offers, and use a modified rolling approach."
 ---
 
 <re-img src="hiring-fast.jpg"></re-img>
 
 This is a part of a [series of articles on hiring and recruiting](/startup-hiring-and-recruiting). 
 
-The easiest way to improve your hiring is to speed it up. 
+The easiest way to improve your hiring is to speed it up. Here is how to do that.
 
-### Why hiring faster is important
+## Hiring faster can drive immense improvements
 
-Candidates have time windows for every company they're working with. They have a certain amount of time within which they will take to interview, and a certain amount of time they have to make a decision. 
+Imagine you had **perfect knowledge** of a candidate. You could decide instantly whether to give them an offer. So you give them an offer. And they decide within the next couple of days. How much more likely would you be to hire that candidate?
 
-When your company has a long time window, that means you increase the chance that candidates have to choose other companies before you're ready to make a decision. 
+<re-img src="apply-to-offer.png" width="50%"></re-img>
 
-To illustrate this, imagine you were able to instantly decide on a candidate, without any evaluation. You produce an offer, and they have maybe a week to decide on that offer. Unless the candidate can get competing offers within a week, they have the chance to make a decision with your company first. They may ask for more time, or whatever, but this make it more possible for them to choose you.
+**Time windows** are a differentiator when hiring. Candidates have an amount of time within which they'll interview. And they have an amount of time within which they'll make a decision.
 
-Conversely, if you hire at the pace Google does (which is to say, very slowly -- they can take 6 months to hire someone), then most candidates will have to make a decision with another company before they can choose to work with you. Even if they're very motivated to work at your company, you're putting up a lot of friction for them to do so. 
+If you decrease your time window, you compete with fewer companies. You also speed up every aspect of your hiring. 
 
-### Give your hiring team an SLA
+Instead of filling a position in three months, you might fill it in one. The compounding effect of this on a growing company is immense.
 
-My biggest piece of advice is to give yourself an internal SLA on all candidate touchpoints of 24 hours. This will give you 2-10 times better results with hiring, even if you do nothing else! Try to get back to candidates in hours, it can have a big impact.
+## Give your hiring team a service level agreement (SLA)
 
-The reason this is effective is that most companies take 2-4 weeks to hire someone. If you can get someone through the whole hiring process in a week, you’ve just made your hiring pipeline AT LEAST 2-4 times more effective. You’re competing with fewer companies for the same person. This isn’t even accounting for the fact that the candidate experience is so much better. 
+My advice: give everyone that touches candidates **24 hours** to get back to them. Ideally you get back to candidates within a few hours.
 
-### Present an offer the day of the last interview
+<re-img src="24-hr-sla.png" width="50%"></re-img>
 
-One way to speed things up is to monitor how the “onsite” interview goes, by talking with the interviewers right after the interview, or having them enter it into the applicant tracking system right afterwards (tip: have a meeting scheduled for them to reserve this time, right after their interview). If you see enough positive signs, prepare an offer to present them at the end of the day.  
+Even if you do nothing else, this will give you 2-10 times better results than being average. 
 
-### Interview in a modified rolling approach
+Most companies take a week or more to get back to candidates. This little change accelerates every step of your interview process. The end result in people get through the whole process faster.
+
+This also results in a better experience. Candidates feel like they're valued if they get a prompt response. 
+
+## Reduce the number of steps in your interview process
+
+The second change to make is to remove steps in your interview process. 
+
+Most interview processes contain three to five rounds. For example, you might have a process like this:
+
+<re-img src="more-steps.png"></re-img>
+
+Each of these steps adds a new cycle of turnaround time to your interview process. So removing steps is the best way to compete with other companies:
+
+<re-img src="less-steps.png"></re-img>
+
+With these changes, your time window is a week or two, instead of a month or more. 
+
+You’ve just made your hiring pipeline AT LEAST 2-4 times more effective. You’re competing with fewer companies for the same person. This isn’t even accounting for the fact that the candidate experience is so much better. 
+
+## Schedule all the steps ahead of time
+
+The formula for how long your interview takes is:
+
+<re-img src="interview-time.png" width="50%"></re-img>
+
+(Number of steps) * (Turnaround time + Coordination time)
+
+We've already optimized the number of steps, and turnaround time. The final optimization is to reduce coordination time. 
+
+One way to do this is to pre-schedule your team for interview times, so they're available for a certain number of interviews per week. Then you can offer times that are immediate, instead of far off in the future. 
+
+Now you're cooking with fire!
+
+## Interview until you find the right person, not in batches
 
 You can use two different models for your interviews:  
 
-* **Batch**. You interview a bunch of candidates, compare them to each other, and have a decision after you’ve interviewed a whole bunch of them. 
-* **Rolling**. You interview until you find the right person. Whenever you find the right person for the role, you stop. 
+* **Batch interviews**. You interview a bunch of candidates, compare them to each other, and have a decision after you’ve interviewed a whole bunch of them. 
+* **Rolling interviews**. You interview until you find the right person. Whenever you find the right person for the role, you stop. 
 
-The problem with Batch is that it is very slow, so you’ll lose a lot of candidates due to them waiting for you. The problem with Rolling is that at the beginning you haven’t calibrated your candidates (if you’re familiar with [explore and exploit algorithms](/exploration-and-exploitation-in-technical-standards/), there is actually math that can be used to determine how long to wait before making a decision, but that’s probably not necessary). And it can be hard to hire someone when you know there are other promising candidates that will be interviewed next week. 
+**Batch interviews** are slow, but more fair and thorough. 
 
-I recommend using a Rolling approach, but calibrating for a while until you have a good sense of how good each candidate is. You can also [Batch up candidates if you’re not getting enough diversity](/bundled-hiring/) in your hiring pipeline (research shows [if you have one woman in your candidate pool, there is 0% chance she’ll be hired](https://hbr.org/2016/04/if-theres-only-one-woman-in-your-candidate-pool-theres-statistically-no-chance-shell-be-hired), and I imagine that’s true of other underrepresented groups). If you’re doing this within a Rolling process, one way to do it is to not make a decision until you’ve interviewed people from at least two underrepresented groups. To balance this against the need to hire quickly, you can also give yourself a time limit, after which you can resign yourself to the fact that you’re not doing a good job of attracting diverse candidates. This is how I try to balance my interest in hiring quickly, with my interest in hiring fairly and from a diverse pool of candidates.
+**Rolling interviews** are difficult at the beginning, because you haven't calibrated your candidates. They are also difficult at the end, because you may be reluctant to extend an offer when you you're still interviewing promising candidates. 
+
+I recommend using _Rolling interviews_. You should calibrate for a [couple of weeks](/exploration-and-exploitation-in-technical-standards/), until you have a good sense of how good each candidate is. 
+
+### Best of both models for diversity
+
+You can [batch up candidates if you’re not getting enough diversity](/bundled-hiring/) in your hiring pipeline. 
+
+Research shows [if you have one woman in your candidate pool, there is 0% chance she’ll be hired](https://hbr.org/2016/04/if-theres-only-one-woman-in-your-candidate-pool-theres-statistically-no-chance-shell-be-hired), and I imagine that’s true of other underrepresented groups). 
+
+<re-img src="fair-interview.png" width="70%"></re-img>
+
+I like to not make a decision until I've interviewed people at least two people from underrepresented groups. To balance against the need to hire quickly, I give myself a time limit. If I don't meet that limit, I can proceed, but note down the failure as a signal for improvement.
+
+This is how I try to balance my interest in hiring quickly, with my interest in hiring fairly and from a diverse pool of candidates.
+
+## Present an offer the day of the last interview
+
+One way to speed things up is to monitor how the “onsite” interview goes, by talking with the interviewers right after the interview, or having them enter it into the applicant tracking system right afterwards (tip: have a meeting scheduled for them to reserve this time, right after their interview). If you see enough positive signs, prepare an offer to present them at the end of the day.  
+
 
 
 Did I miss anything? Please share your favorite ideas with me, I’d love to hear them! 
