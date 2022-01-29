@@ -364,7 +364,7 @@ const ContactPage = props => {
                   display:block;
                 }
                 .formkit-background {
-                  background-image: url(&quot;https://embed.filekitcdn.com/e/mNeKaTGtKvpZpieVZMQsz6/dbwFN87zhWiNPg2SdKiepp&quot;);
+                  background-image: url("https://embed.filekitcdn.com/e/mNeKaTGtKvpZpieVZMQsz6/dbwFN87zhWiNPg2SdKiepp");
                   opacity: 0.2;
                 }
                 .formkit-form[data-uid="3978146adc"] .formkit-background{background-position:center center;background-size:cover;min-height:200px;}
