@@ -224,6 +224,7 @@ const ContactPage = props => {
                   border:0;
                   border-radius:5px;
                   color:#ffffff;
+                  background-color:#3875b9;
                   cursor:pointer;
                   display:inline-block;
                   text-align:center;
