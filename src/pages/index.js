@@ -34,6 +34,51 @@ const ContactPage = props => {
 
         <p></p>
 
+        <script src="https://f.convertkit.com/ckjs/ck.5.js" />
+        <form action="https://app.convertkit.com/forms/2891253/subscriptions" class="seva-form formkit-form" method="post" data-sv-form="2891253" data-uid="3978146adc" data-format="inline" data-version="5" data-options="{&quot;settings&quot;:{&quot;after_subscribe&quot;:{&quot;action&quot;:&quot;message&quot;,&quot;success_message&quot;:&quot;Success! Now check your email to confirm your subscription.&quot;,&quot;redirect_url&quot;:&quot;&quot;},&quot;analytics&quot;:{&quot;google&quot;:null,&quot;facebook&quot;:null,&quot;segment&quot;:null,&quot;pinterest&quot;:null,&quot;sparkloop&quot;:null,&quot;googletagmanager&quot;:null},&quot;modal&quot;:{&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;powered_by&quot;:{&quot;show&quot;:true,&quot;url&quot;:&quot;https://convertkit.com/features/forms?utm_campaign=poweredby&amp;utm_content=form&amp;utm_medium=referral&amp;utm_source=dynamic&quot;},&quot;recaptcha&quot;:{&quot;enabled&quot;:false},&quot;return_visitor&quot;:{&quot;action&quot;:&quot;show&quot;,&quot;custom_content&quot;:&quot;&quot;},&quot;slide_in&quot;:{&quot;display_in&quot;:&quot;bottom_right&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15},&quot;sticky_bar&quot;:{&quot;display_in&quot;:&quot;top&quot;,&quot;trigger&quot;:&quot;timer&quot;,&quot;scroll_percentage&quot;:null,&quot;timer&quot;:5,&quot;devices&quot;:&quot;all&quot;,&quot;show_once_every&quot;:15}},&quot;version&quot;:&quot;5&quot;}" min-width="400 500 600 700 800">
+          <div data-style="full">
+            <div data-element="column"></div>
+            <div data-element="column">
+              <div data-element="header">
+                <h2>Learn to build humane, effective eng orgs</h2>
+              </div>
+
+              <ul data-element="errors" data-group="alert"></ul>
+
+              <div data-element="fields">
+                <div>
+                  <input name="email_address" aria-label="Email Address" placeholder="Email Address" required="" type="email" />
+                </div>
+
+                <div>
+                  <div data-group="dropdown" class="formkit-8966" type="Custom" order="1" save_as="Tag" group="field">
+                    <select data-element="tags-select" name="tags[]" required="">
+                      <option value="">Receive weekly posts?</option>
+                      <option value="2842251">Yes, please!</option>
+                      <option value="2842252">No, just new posts</option>
+                    </select>
+                  </div>
+                </div>
+
+                <button data-element="submit">
+                  <div>
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                  </div>
+                  <span>Subscribe</span>
+                </button>
+
+              </div>
+            <div data-element="disclaimer">We respect your privacy. Unsubscribe at anytime.
+            </div>
+
+            <div>
+            </div>
+          </div>
+          </div>
+        </form>
+
         <p>Each week, you receive an email
           that describes something useful. If you've read my posts in the past
           and learned from them, sign up! </p>
