@@ -68,17 +68,19 @@ const ContactPage = props => {
 
         <p>👋 Hi, I'm Jade Rubick.</p>
         
-        <p>I've been lucky enough to work 💻 at many startups
-          in my career. And I've learned how people 🧑‍🦰 can coordinate 
+        <p>I advise 💻 startups and medium sized companies on how people 🧑‍🦰 can coordinate 
           to create great things together 🚀.</p>
 
-        <p>I'm also a management and leadership geek 🤓, and love to share what I've learned.
+        <p>I'm a management and leadership geek 🤓, and love to share what I've learned.
           I see a lot of great management content on the internet 🌐, but much of what I've
           learned, I don't see anywhere else. So I write ✍️ it down to share.
         </p>
 
         <p>When you subscribe ✨ to my engineering leadership newsletter course, 
           you will receive an email 📧 each week with something that should be useful.
+          </p>
+
+        <p>
           The most common themes in my writing are the principles behind why we work
           the way we do, humane management, and product development. But you'll see
           writing on many topics, including diversity/equity/inclusion, engineering
@@ -101,7 +103,7 @@ const ContactPage = props => {
         <h4>Kind words from readers:</h4>
 
         <ul>
-          <li>You summed up my 20+ years doing product development nicely [in that post] --A reader in Palo Alto</li>
+          <li>You summed up my 20+ years doing product development nicely --A reader in Palo Alto</li>
           <li>This article has gone viral after I shared it internally. --A reader in Toronto</li>
           <li>This is just what I was looking for --A reader in Washington DC</li>
           <li>Your blog posts continue to be 🔥 --A reader in Oregon</li> 
