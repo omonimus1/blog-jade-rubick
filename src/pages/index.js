@@ -384,7 +384,7 @@ const ContactPage = props => {
                   border-left:none;
                   border-right:none;
                   border-top:none;
-                  padding-left:0;
+                  padding-left:10px;
                   padding-right:0;
                 }
                 .formkit-form[data-uid="3978146adc"] .formkit-fields .formkit-submit{
