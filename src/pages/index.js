@@ -72,7 +72,7 @@ const ContactPage = props => {
         <p>The paid version is a great use for
           a "professional development" budget. Pay for it and expense it.
           The paid version helps me develop more curriculum, and will
-          have some other benefits.</p>
+          have some other benefits. But it's mostly the same as the free version.</p>
 
           <a href="https://rubick.ck.page/products/engineering-leadership-course" target="_blank">
           <section className="subContainer2">
