@@ -65,14 +65,30 @@ const ContactPage = props => {
         </form>
 
         <p></p>
-        <p>Each week, you receive an email
-          that describes something useful. If you've read my posts in the past
-          and learned from them, sign up! </p>
 
-        <p>I offer a <b>paid version</b> of this course. Use your 
-          "professional development" budget: pay for it and expense it.
-          The paid version helps me develop more curriculum, and will
-          have some other benefits. But it's mostly the same as the free version.</p>
+        <p>👋 Hi, I'm Jade Rubick.</p>
+        
+        <p>I've been lucky enough to work 💻 at many startups
+          in my career. And I've learned how people 🧑‍🦰 can coordinate 
+          to create great things together 🚀.</p>
+
+        <p>I'm also a management and leadership geek 🤓, and love to share what I've learned.
+          I see a lot of great management content on the internet 🌐, but much of what I've
+          learned, I don't see anywhere else. So I write ✍️ it down to share.
+        </p>
+
+        <p>When you subscribe ✨ to my engineering leadership newsletter course, 
+          you will receive an email 📧 each week with something that should be useful.
+          The most common themes in my writing are the principles behind why we work
+          the way we do, humane management, and product development. But you'll see
+          writing on many topics, including diversity/equity/inclusion, engineering
+          standards, running projects, and communication. </p>
+
+        <p>I also offer a <b>paid version</b> 💰 of this course. This supports 💚 my
+          writing -- the more support I get, the more I'll be able to write. Use your 
+          "professional development" budget: pay for it and expense it. I've been so
+          thankful 🙏 for the support!
+          The curriculum is mostly the same, but there may be other benefits down the road.</p>
 
           <a href="https://rubick.ck.page/products/engineering-leadership-course" target="_blank">
           <section className="subContainer2">
@@ -82,7 +98,19 @@ const ContactPage = props => {
         </a>
 
         <p></p>
-        <p>You can also follow my writing in other ways:</p>
+        <h4>Kind words from readers:</h4>
+
+        <ul>
+          <li>You summed up my 20+ years doing product development nicely [in that post] --A reader in Palo Alto</li>
+          <li>This article has gone viral after I shared it internally. --A reader in Toronto</li>
+          <li>This is just what I was looking for --A reader in Washington DC</li>
+          <li>Your blog posts continue to be 🔥 --A reader in Oregon</li> 
+          <li>This article had me at 'hello' --A reader in Ottowa</li>
+        </ul>
+
+        <p></p>
+        <h4>You can also follow my writing in other ways:</h4>
+        <p></p>
 
         <a href="../rss.xml" target="_blank">
           <section className="subContainer">
@@ -106,11 +134,18 @@ const ContactPage = props => {
         </a>
 
         <style jsx>{`
-                p {
-                  font-size: ${theme.font.size.s};
+                p,ul {
+                  font-size: ${theme.font.size.m};
                   line-height: ${theme.font.lineHeight.xxl};
                   margin: 0 0 1.5em;
                   margin-bottom: 40px;
+                }
+
+                li {
+                  padding-top: 18px;
+                }
+                h4 {
+                  font-size: ${theme.font.size.m};
                 }
 
                 .subContainer {
