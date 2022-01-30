@@ -69,8 +69,8 @@ const ContactPage = props => {
           that describes something useful. If you've read my posts in the past
           and learned from them, sign up! </p>
 
-        <p>The paid version is a great use for
-          a "professional development" budget. Pay for it and expense it.
+        <p>I offer a <b>paid version</b> of this course. Use your 
+          "professional development" budget: pay for it and expense it.
           The paid version helps me develop more curriculum, and will
           have some other benefits. But it's mostly the same as the free version.</p>
 
