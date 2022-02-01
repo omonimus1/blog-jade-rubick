@@ -23,9 +23,13 @@ const ContactPage = props => {
             <div data-element="column" className="formkit-background"></div>
             <div data-element="column" className="formkit-column">
               <div className="formkit-header" data-element="header">
-                <h2>Learn to build humane, effective eng orgs</h2>
+                <h2>Want to be a more effective startup leader?</h2>
               </div>
-              
+
+              <div className="subText">
+                Every week, you'll get an email that will challenge your thinking and provide new approaches to leadership. 
+              </div>
+
               <ul className="formkit-alert formkit-alert-error" data-element="errors" data-group="alert"></ul>
               
               <div data-element="fields" className="seva-fields formkit-fields">
@@ -56,7 +60,9 @@ const ContactPage = props => {
                 </button>
               </div>
             
-              <div className="formkit-disclaimer" data-element="disclaimer">We respect your privacy. Unsubscribe at anytime.</div>
+              <div className="formkit-disclaimer" data-element="disclaimer">
+                I respect your privacy. Unsubscribe at anytime.
+              </div>
             
               <div className="formkit-powered-by-convertkit-container">
               </div>
@@ -184,9 +190,8 @@ const ContactPage = props => {
                 }
 
                 .subText {
-                    text-align: right;
-                    font-size: 20px;
                     color: ${theme.color.neutral.gray.j};
+                    margin-bottom: 18px;
                 }
                 
                 .subIcon {
