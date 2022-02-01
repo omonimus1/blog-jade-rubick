@@ -52,7 +52,7 @@ const ContactPage = props => {
                     <div></div>
                   </div>
                 
-                  <span className="">Subscribe</span>
+                  <span className="">Sign me up!</span>
                 </button>
               </div>
             
