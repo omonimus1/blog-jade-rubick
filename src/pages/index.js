@@ -37,17 +37,7 @@ const ContactPage = props => {
                 <div className="formkit-field">
                   <input className="formkit-input" name="email_address" aria-label="Email Address" placeholder="Email Address" required="" type="email" />
                 </div>
-                
-                <div className="formkit-field">
-                  <div data-group="dropdown" className="formkit-8966" type="Custom" order="1" save_as="Tag" group="field">
-                    <select className="formkit-select" data-element="tags-select" name="tags[]" required="">
-                      <option value="">Receive weekly posts?</option>
-                      <option value="2842251">Yes, please!</option>
-                      <option value="2842252">No, just new posts</option>
-                    </select>
-                  </div>
-                </div>
-                
+                                
                 <button data-element="submit" className="formkit-submit formkit-submit">
               
                   <div className="formkit-spinner">
