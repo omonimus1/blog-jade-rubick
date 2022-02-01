@@ -51,7 +51,7 @@ const ContactPage = props => {
               </div>
             
               <div className="formkit-disclaimer" data-element="disclaimer">
-                I respect your privacy. Unsubscribe at anytime.
+                I respect your privacy. Unsubscribe anytime.
               </div>
             
               <div className="formkit-powered-by-convertkit-container">
