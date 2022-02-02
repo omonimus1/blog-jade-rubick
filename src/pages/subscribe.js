@@ -27,6 +27,7 @@ const SubscribePage = props => {
             <Article theme={theme}>
               <header>
                 <Headline title="Learn to build humane, effective engineering organizations" theme={theme} />
+                <meta http-equiv="refresh" content="0; url='/'" />
               </header>
 
               <p>Get a weekly email course on engineering leadership!</p>
