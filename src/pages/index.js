@@ -400,7 +400,7 @@ const ContactPage = props => {
                 }
                 .formkit-background {
                   background-image: url("https://embed.filekitcdn.com/e/mNeKaTGtKvpZpieVZMQsz6/dbwFN87zhWiNPg2SdKiepp");
-                  opacity: 0.7;
+                  opacity: 0.9;
                 }
                 .formkit-form[data-uid="3978146adc"] .formkit-background{background-position:center center;background-size:cover;min-height:200px;}
                 .formkit-form[data-uid="3978146adc"] .formkit-column{padding:20px;position:relative;}
