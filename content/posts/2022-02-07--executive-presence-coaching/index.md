@@ -9,8 +9,6 @@ description: "Thirteen tips for improving your executive presence."
 
 <re-img src="executive.jpg"></re-img>
 
-# Executive presence coaching: use these tips to become a better leader
-
 Some people naturally shine in meetings. Others have to work at it. I count myself in the latter category. I’d like to share some tips that have helped me to improve my executive presence. 
 
 ## Ask a question, and then wait
@@ -124,6 +122,10 @@ Women and people of color will face double standards. For example, black men in 
 This can often lead to “you’re damned if you do and damned if you don’t” situations. If you’re struggling with this, reach out to people who seem to be navigating it well and ask their advice. It sucks that you have to deal with this on top of the double-standard itself.
 
 I’d love to hear how people have navigated this. If you have any resources you think will be helpful, please let me know so I can share them.
+
+## What else have you found?
+
+Let me know your experiences with these tips. And if you have any other ideas to share, please do!
 
 ## Thank you
 
