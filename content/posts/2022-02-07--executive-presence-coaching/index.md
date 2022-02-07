@@ -121,7 +121,7 @@ I wrote this advice from the point of view of a white male in engineering organi
 
 Women and people of color will face double standards. For example, black men in America often will be criticized for being assertive, where a white man making exactly the same comments in the same way will be seen as strong. A black man being angry is “scary”, whereas a white man being angry is “passionate”. Women face similar double-standards. 
 
-This can often lead to “you’re damned if you do and damned if you don’t” situations. If you’re struggling with this, reach out to people who seem to be navigating it well and ask their advice. 
+This can often lead to “you’re damned if you do and damned if you don’t” situations. If you’re struggling with this, reach out to people who seem to be navigating it well and ask their advice. It sucks that you have to deal with this on top of the double-standard itself.
 
 I’d love to hear how people have navigated this. If you have any resources you think will be helpful, please let me know so I can share them.
 
