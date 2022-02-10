@@ -64,7 +64,7 @@ Tell me about the largest improvement you've made in your organization. I'm inte
 \
 *A poor answer would be switching to Kanban, or introducing standups (yes these can improve things, but the impact is very local). A better answer would be something like changing the way leadership worked together, or how people communicated, if the impact were good. A perfect answer would relate the impact to the results on the company, and the results would have made a substantial difference for the company.* 
 
-Do this for your top questions. 
+Do this for your top questions. If you'd like to see excellent examples of what good answers look like, [this article](https://medium.engineering/engineering-interviews-grading-rubric-8b409bec021f) from Medium engineering is quite good.
 
 ## Group and assign the questions
 
