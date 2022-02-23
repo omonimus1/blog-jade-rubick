@@ -28,14 +28,18 @@ People vet a job based on the job description. If it’s well-written, they may 
 
 * **Make sure you're following the law**. Some locations require you to post salary ranges (I believe Colorado is one such state). Other states require you to tell the pay scale of the job if requested ([California](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB168)). Consider posting the salary in the job description, even if it's not required.
 
-* **Be explicit about what requirements require**. It's almost always a good idea to include something like this phrase in your job posting: _If you don't think you meet all of the criteria below but still are interested in the job, please apply. Nobody checks every box—we’re looking for candidates that are particularly strong in a few areas, and have some interest and capabilities in others._ \
+* **Be explicit about what requirements require**. Include something like this phrase in your job posting: _If you feel like you don’t meet all of the requirements for this role, we encourage you to apply anyways. We know the confidence gap and imposter syndrome gets in the way of meeting incredible candidates, and don’t want it to get in the way of meeting you._ \
 \
 Why? Otherwise you’re selecting for overconfident candidates, who may apply even if they are missing a requirement or two. This helps ensure you’ll get more diverse candidates applying. [Women tend to not apply for a role unless they meet 100% of the requirements](https://hbr.org/2014/08/why-women-dont-apply-for-jobs-unless-theyre-100-qualified), while men will apply even if they only meet 60% of the qualifications. \
 \
-In general, it's also a good idea to prune your requirements.
+Also, prune your requirements down to what is essential. 
 
 ### What do you think?
 
 Did I miss anything? I'd love to hear what else you like to see in job descriptions. And if you have good examples you'd like to share, send them my way! 
+
+### Thank you
+
+[Alexa Stefanko](https://www.linkedin.com/in/alexa-stefanko-86646aa4/) took my stilted wording for the "don't meet these requirements?" and made it infinitely better, so I copied her wording in the post above. 
 
 Image by <a href="https://pixabay.com/users/congerdesign-509903/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1891732">congerdesign</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1891732">Pixabay</a>
