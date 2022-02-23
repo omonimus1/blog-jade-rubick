@@ -98,9 +98,11 @@ This is how I try to balance my interest in hiring quickly, with my interest in 
 
 One way to speed things up is to monitor how the “onsite” interview goes, by talking with the interviewers right after the interview, or having them enter it into the applicant tracking system right afterwards (tip: have a meeting scheduled for them to reserve this time, right after their interview). If you see enough positive signs, prepare an offer to present them at the end of the day.  
 
-
-
 Did I miss anything? Please share your favorite ideas with me, I’d love to hear them! 
 
+
+## Thank you
+
+My appreciation to jtopper from Rands Leadership for his feedback on the post. 
 
 Image by <a href="https://pixabay.com/users/pexels-2286921/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1840437">Pexels</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1840437">Pixabay</a>
