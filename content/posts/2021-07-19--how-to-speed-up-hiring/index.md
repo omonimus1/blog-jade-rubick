@@ -31,7 +31,7 @@ My advice: give everyone that touches candidates **24 hours** to get back to the
 
 <re-img src="24-hr-sla.png" width="50%"></re-img>
 
-Even if you do nothing else, this will give you 2-10 times better results than being average. 
+Even if you do nothing else, this will give you many times better results than being average. 
 
 Most companies take a week or more to get back to candidates. This little change accelerates every step of your interview process. The end result in people get through the whole process faster.
 
