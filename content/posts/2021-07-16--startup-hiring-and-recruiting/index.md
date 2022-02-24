@@ -99,6 +99,8 @@ One of the best ways I’ve found of bringing in candidates is using the social 
 
 There is even a product that helps [automate the process of finding candidates from the network of people your employees already know](https://www.gem.com/product/sourcing). (I came up with the idea for this product before it existed, so I’m so happy someone came up with the same idea and made it happen)
 
+For this to work, you have to be *extremely* careful with consent and how you use people's network. When I've done it, I got consent for the phrasing of the message I would send people. And I took notes for each potential candidate on how to contact them. 
+
 ## Work well with your recruiters
 
 If you use recruiters, invest some time in making sure they understand what you’re looking for. Talk through how the whole process will work, and make sure you’re on the same page about expectations. You can make them much more effective by walking them through how to know if someone is a good fit or not. A strong partnership with your recruiters can streamline everything, get you higher quality candidates, and, if they’re organized, they might even be able to help manage parts of the process for you.
