@@ -70,4 +70,5 @@ I started building on top of [Greg Lobinski's](https://github.com/greglobinski) 
 - Added infinite scroll, which gracefully degrades into pagination.
 - Many design changes. Spent a lot of time tweaking image placeholders :gem: Removed and simplified a lot of features to create a less cluttered look (matter of preference, eye of the beholder and so forth...)
 
-
+Useful links:
+- react-icons: https://react-icons.github.io/react-icons/icons?name=fa
