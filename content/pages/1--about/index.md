@@ -5,25 +5,17 @@ title: About
 
 My name is Jade Rubick. I advise startup founders and engineering leaders on how to build thriving engineering organizations. My specialty is humane, results-focused organizations.
 
+I also like to share what I've learned. So I write blog posts on this site, and write newsletter based courses on engineering leadership. 
+
 [Contact me](/contact) if you'd like to discuss how I might be able to help your organization. You can see my background, companies I've worked with, and what people say about working with me on [LinkedIn](https://www.linkedin.com/in/jaderubick/). 
 
-## What I can help with
+## How I help as an advisor
 
 Most startups run into challenges as they scale up their engineering teams. The most common symptoms are delivery slowing or quality problems. 
 
 Very smart people run into these problems, because the solutions  are the opposite of what you would expect. I've been through these scaling bottlenecks [many times before](https://www.linkedin.com/in/jaderubick/). We can often work together to quickly improve your organization. 
 
 I help companies primarily as an expert advisor (and occasionally as an Interim VP of Engineering). Typically this means I meet weekly or biweekly with a few leaders in your organization, and guide them through the problems the organization is facing. 
-
-### Company profile
-
-I typically work with companies that meet this profile. Some companies fall outside these parameters, so feel free to contact me even if you don't hit every one of these.
-
-* Technology startups (I work across industries, but focus on tech startups)
-* 5-50 engineers.
-* Founders have not scaled up an engineering organization before.
-* Leadership team is interested in my help and willing to make changes.
-* Are growing rapidly.
 
 ### Areas I can help
 
