@@ -4,7 +4,7 @@ import theme from "../theme/theme.yaml";
 import Article from "../components/Article";
 import Headline from "../components/Article/Headline";
 import Seo from "../components/Seo";
-import { FaSeedling } from "react-icons/fa";
+import { FaUserPlus, FaSeedling } from "react-icons/fa";
 import config from "../../content/meta/config";
 
 const CoursePage = props => {
@@ -38,7 +38,18 @@ const CoursePage = props => {
                 </section>
               </a>
 
+              <p>Designed for engineering managers who are just getting started. Click above to learn more.</p>
+
               <p></p>
+
+              <a href="https://rubick.ck.page/products/engineering-leadership-course" target="_blank">
+                <section className="subContainer2">
+                  <span className="subIcon"><FaUserPlus /></span>
+                  <span className="subText">Engineering leadership paid course</span>
+                </section>
+              </a>
+
+              <p>Designed for engineering leaders (product and design leaders may benefit as well). Click above to learn more.</p>
 
               <style jsx>{`
                 p {
