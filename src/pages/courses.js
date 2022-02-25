@@ -7,7 +7,7 @@ import Seo from "../components/Seo";
 import { FaSeedling } from "react-icons/fa";
 import config from "../../content/meta/config";
 
-const SubscribePage = props => {
+const CoursePage = props => {
 
   return (
     <StaticQuery
@@ -29,12 +29,12 @@ const SubscribePage = props => {
                 <Headline title="Learn to build humane, effective engineering organizations" theme={theme} />
               </header>
 
-              <p>Get a weekly email course on engineering leadership!</p>
+              <p>I offer a couple of courses on engineering leadership</p>
 
               <a href="https://rubick.ck.page/products/management-bootcamp" target="_blank">
                 <section className="subContainer2">
                   <span className="subIcon"><FaSeedling /></span>
-                  <span className="subText">Learn more</span>
+                  <span className="subText">Engineering management bootcamp</span>
                 </section>
               </a>
 
@@ -97,7 +97,7 @@ const SubscribePage = props => {
                 }
               `}</style>
             </Article>
-            <Seo pageTitle="Subscribe"/>
+            <Seo pageTitle="Courses"/>
           </React.Fragment>
         )}
       }
@@ -105,4 +105,4 @@ const SubscribePage = props => {
   )
 };
 
-export default SubscribePage;
+export default CoursePage;
