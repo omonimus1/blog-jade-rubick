@@ -5,7 +5,7 @@ import theme from "../theme/theme.yaml";
 import Article from "../components/Article";
 import Headline from "../components/Article/Headline";
 import Seo from "../components/Seo";
-import { FaTag, FaRss, FaPaperPlane, FaTwitter, FaLinkedin } from "react-icons/fa";
+import { FaUserPlus, FaRss, FaTwitter, FaLinkedin } from "react-icons/fa";
 
 
 const ContactPage = props => {
@@ -90,8 +90,8 @@ const ContactPage = props => {
 
           <a href="https://rubick.ck.page/products/engineering-leadership-course" target="_blank">
           <section className="subContainer2">
-            <span className="subIcon"><FaPaperPlane /></span>
-            <span className="subText">Paid course</span>
+            <span className="subIcon"><FaUserPlus /></span>
+            <span className="subText">Engineering leadership paid course</span>
           </section>
         </a>
 
