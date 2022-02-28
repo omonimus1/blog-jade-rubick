@@ -1,17 +1,13 @@
 ---
-title: The three most common anti-patterns for managing projects
+title: Make your team miserable with one of these popular project-management anti-patterns
 tags: ["project-management", "delivery"]
 cover: slow.jpg
 author: Jade Rubick
 discussionId: "three-anti-patterns-project-management"
-description: "Three anti-patterns are ubiquitous: weak (task-based) agile, million-meeting agile, and Gantt-aholic project management. Describes them and links to better alternatives."
+description: "Three anti-patterns are ubiquitous: weak/task-based agile, million-meeting agile, and Gantt-aholic project management. Describes them and links to better alternatives."
 ---
 
 <re-img src="slow.jpg"></re-img>
-
-## The three most common anti-patterns for managing projects
-
-_This is part one of a two-part blog post on how software teams can effectively organize their projects._
 
 One of the most common weaknesses I see in engineering organizations is how projects are managed. Poor project management leads to slow delivery, which can lead to the company failing. The purpose of an engineering organization is to produce things that are valuable for customers, so it’s surprising how little attention this gets in many startups.
 
