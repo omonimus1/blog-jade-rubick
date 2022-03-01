@@ -15,6 +15,8 @@ As managers, we're in the best position to cause sadness on our teams. If you as
 
 Note that this is focused on project management "anti-patterns". There are many _other_ ways you can make the people on your team miserable. 
 
+<re-img src="3-tips.png" width="50%"></re-img>
+
 These techniques lead to slow delivery, and can make your company less effective. With enough participation, you can cause engineering to completely fail in its mission. So not only can these techniques make your team unhappy, they can also destroy your company! 
 
 ## The three so-called "anti-patterns"
@@ -31,7 +33,11 @@ I've done all three of these approaches, and they all have merits and risks. I c
 
 ## Task treadmill
 
-This is the most common pain-causing technique I see in startups today. Diabolical managers turn to it because it's so effective at numbing the mind. Here's how it works:
+This is the most common pain-causing technique I see in startups today. Diabolical managers turn to it because it's so effective at numbing the mind. 
+
+<re-img src="tasks.png" width="50%"></re-img>
+
+Here's how it works:
 
 1. Use Jira to store everything that people think about doing related to the team’s work.
 2. Break projects down into a ton of technical tasks. Bonus if the task has no description and has a very technical title that only one engineer can understand.
@@ -59,6 +65,8 @@ You should be aware that this technique isn't fail-proof. Or rather, it can succ
 ## Million-meeting agile
 
 If you're a twisted manager, you'll want to know all the variants. This second way of managing projects is sure to infuriate your team! This approach is to follow the form of agile, but to make it heavyweight. I call this approach “million-meeting agile”. 
+
+<re-img src="calendar.png" width="50%"></re-img>
 
 The approach is:
 
@@ -90,6 +98,8 @@ These practices are not in themselves terrible. A lot of them have good rational
 Last and certainly least is Gantt-aholic project management. This is an approach usually taken by someone who is new to project management. They read a lot about project management techniques and apply them to software development. That can cause a lot of pain!
 
 If you're seeking to cause the world to be a worse place, I would start with the other two patterns, but this can do its part as well. 
+
+<re-img src="gantt.png" width="50%"></re-img>
 
 So how does Gantt-aholic project management work? It is an approach that uses fine-grained planning to determine a schedule.
 
