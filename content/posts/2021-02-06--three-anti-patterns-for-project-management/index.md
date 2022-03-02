@@ -90,7 +90,7 @@ The inefficiency of this way of working can lead to disengagement. Team members 
 
 These practices are not in themselves terrible. A lot of them have good rationales behind them. So you can attempt to cause great misery but actually do an okay job if you're not careful.
 
-1. Teams that work with stories that are high-level will tend to avoid a lot of the pain of this approach. Be sure to make the stories small enough, or your team will avoid much of the pain. If the team is reviewing a couple of stories a week, they may be fine with this approach.
+1. Teams that work with stories that are high-level will tend to avoid a lot of the pain of this approach. They will have stories that are large enough to have a couple of stories a week. This reduces the frustration of "million-meeting agile", so if you want be sure to cause grief, make sure you have a lot of stories, and make them small!
 2. This approach does do a good job of building shared context.
 
 ## Gantt-aholic project management
@@ -129,6 +129,6 @@ Occasionally, you may see fit to be merciful to the teams you serve. In that cas
 
 ## Thank you
 
-Many experienced engineering leaders give helpful feedback on early drafts of this post. Thank you to [Seth Falcon](https://www.linkedin.com/in/sethfalcon/), [Bjorn Freeman-Benson](https://www.linkedin.com/in/bjornfreemanbenson/) and [Kenichi Nakamura](https://www.linkedin.com/in/kenichi/) for numerous structural and content suggestions that made this post stronger and more focused. And thank you to [Brent Miller](https://www.linkedin.com/in/foliosus/), [Davy Stevenson](https://www.linkedin.com/in/davystevenson/), and [Darin Swanson](https://www.linkedin.com/in/darinswanson/) for their improvements! 
+Many experienced engineering leaders give helpful feedback on early drafts of this post. Thank you to [Seth Falcon](https://www.linkedin.com/in/sethfalcon/), [Bjorn Freeman-Benson](https://www.linkedin.com/in/bjornfreemanbenson/) and [Kenichi Nakamura](https://www.linkedin.com/in/kenichi/) for numerous structural and content suggestions that made this post stronger and more focused. And thank you to [Brent Miller](https://www.linkedin.com/in/foliosus/), [Davy Stevenson](https://www.linkedin.com/in/davystevenson/), and [Darin Swanson](https://www.linkedin.com/in/darinswanson/) for their improvements! [Sarah Madden](https://twitter.com/1tsS4r) helped me with some awkward language, thank you!
 
 _Image by <a href="https://pixabay.com/users/mhy-333962/">István Mihály</a> from <a href="https://pixabay.com/">Pixabay</a>_
