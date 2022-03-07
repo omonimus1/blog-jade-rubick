@@ -52,6 +52,8 @@ const ContactPage = props => {
             
               <div className="formkit-disclaimer" data-element="disclaimer">
                 I respect your privacy. Unsubscribe anytime.
+                <br /><br />
+                A <a href="https://rubick.ck.page/products/engineering-leadership-course">paid version</a> of this course, with extra benefits, is available.
               </div>
             
               <div className="formkit-powered-by-convertkit-container">
@@ -86,7 +88,8 @@ const ContactPage = props => {
           writing -- the more support I get, the more I'll be able to write. Use your 
           "professional development" budget: pay for it and expense it. I've been so
           thankful 🙏 for the support!
-          The curriculum is mostly the same, but there may be other benefits down the road.</p>
+          Although most of the curriculum is the same, the paid version offers additional benefits, such as
+          an optional 1-1 session.</p>
 
           <a href="https://rubick.ck.page/products/engineering-leadership-course" target="_blank">
           <section className="subContainer2">
