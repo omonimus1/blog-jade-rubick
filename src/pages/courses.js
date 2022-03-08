@@ -38,7 +38,7 @@ const CoursePage = props => {
                 </section>
               </a>
 
-              <p>Designed for engineering managers who are just getting started. Click above to learn more.</p>
+              <p>Designed for engineering managers who are just getting started or have some experience. Click above to learn more.</p>
 
               <p></p>
 
@@ -89,9 +89,38 @@ const CoursePage = props => {
                 </dd>
 
                 <dt>I can't afford your classes, but really want to take them</dt>
-                <dd><a href="/contact/">Contact me!</a>
+                <dd><a href="/contact/">Contact me!</a> I'll set you up.
                 </dd>
 
+                <dt>How much email will I be receiving, and for how long?</dt>
+                <dd>The Engineering Leadership course is a weekly email with about 
+                  eleven months of content (as of March 2022). I'll probably add courses
+                  in the future as well, so it's possible you'll get more content, just less
+                  frequently, after you get through the main content. 
+                  <br /><br />
+                  The Management Bootcamp course has much more frequent emails at the beginning. 
+                  The first week is daily, the second week is every other day, then every three days.
+                  It settles into a weekly cadence. The length of the course is still being determined,
+                  but I'm planning to make it about a ninety day course. 
+                </dd>
+
+                <dt>Can I sign up for both classes?</dt>
+                <dd>Yes, that should work just fine. The only downside is that you
+                  might receive two email on the same day.  
+                </dd>
+
+                <dt>If I pay for the course and don't like it, can I get a refund?</dt>
+                <dd>Yes, I provide refunds with no questions asked, for two months after the
+                  course starts. <a href="/contact/">Contact me</a>.
+                </dd>
+
+                <dt>Is it annoying to unsubscribe if I'm finished with it?</dt>
+                <dd>Every email has an unsubscribe link in it. It should be super easy.
+                </dd>
+
+                <dt>How do I give you feedback on any of the course content?</dt>
+                <dd>You can reply to any email and I'll read it. I really appreciate feedback!
+                </dd>
 
               </dl>              
 
