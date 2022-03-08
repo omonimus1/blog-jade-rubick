@@ -51,6 +51,50 @@ const CoursePage = props => {
 
               <p>Designed for engineering leaders (product and design leaders may benefit as well). Click above to learn more.</p>
 
+              <h2>About the courses</h2>
+
+              <dl>
+                <dt>What is the format for these classes?</dt>
+                <dd>They are email-based newsletter courses.</dd>
+
+                <dt>How much time do these courses require?</dt>
+                <dd>For all of the courses, the amount of time you devote to them depends on you.<br /><br />
+
+                  For the Engineering Leadership course, most of the content is ideas and 
+                  inspiration for your practice. <br /><br />
+                  
+                  The Management Bootcamp course has some assignments. But all assignments
+                  are optional, and it's up to you to decide which you want to integrate
+                  into your management practice. For example, there is an assignment to 
+                  set up your support network, with some suggestions for how to do so. 
+                  You don't have to do any of them, but you'll probably find it helpful. 
+                </dd>
+
+                <dt>Are there assessments or quizzes with these courses?</dt>
+                <dd>No. The courses do not have an assessment.
+                </dd>
+
+                <dt>Is there any interaction with other students?</dt>
+                <dd>The Management Bootcamp course has a private Slack group you can 
+                  opt to participate in. It's like a support group for managers! You can
+                  ask questions there and get answers from your peers and from Jade. 
+                </dd>
+
+                <dt>How is the paid version of the Engineering Leadership course different than the free version?</dt>
+                <dd>The paid version includes a 1-1 session with me, and also supports my
+                  writing. If you're able to do the paid version, please do. These courses 
+                  are something I do because I want people to pass on the things I've learned. 
+                  I can make much better money doing other work. So this helps make it 
+                  financially viable.
+                </dd>
+
+                <dt>I can't afford your classes, but really want to take them</dt>
+                <dd><a href="/contact/">Contact me!</a>
+                </dd>
+
+
+              </dl>              
+
               <style jsx>{`
                 p {
                   font-size: ${theme.font.size.s};
@@ -59,20 +103,21 @@ const CoursePage = props => {
                   margin-bottom: 40px;
                 }
 
-                .subContainer {
-                  display: inline-block;
-                  border-radius: 6px;
-                  padding: 10px;
-                  padding-bottom: 0px;
-                  margin-right: 30px;
-                  min-width: 130px;
-                  border: 1px solid ${theme.color.neutral.gray.d};
-                  :hover {
-                    border: 1px solid #ccc;
-                    .subText {
-                      color: ${theme.color.brand.primary};
-                    }
-                  }
+                dl {
+                  line-height: ${theme.font.lineHeight.xxl};
+                  margin: 0 0 1.5em;
+                  margin-bottom: 40px;                  
+                }
+
+                dt {
+                  margin-top: 20px;
+                  font-weight: bold;
+                  font-size: ${theme.font.size.s};
+                }
+
+                dd {
+                  margin-top: 20px;
+                  font-size: ${theme.font.size.xs};
                 }
 
                 .subContainer2 {
@@ -81,6 +126,7 @@ const CoursePage = props => {
                   padding: 10px;
                   padding-bottom: 0px;
                   margin-right: 30px;
+                  margin-bottom: 20px;
                   min-width: 130px;
                   border: 1px solid ${theme.color.neutral.gray.d};
                   background-color: ${theme.color.brand.primaryLight};
