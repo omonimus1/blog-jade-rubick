@@ -99,8 +99,8 @@ const CoursePage = props => {
                   frequently, after you get through the main content. 
                   <br /><br />
                   The Management Bootcamp course has much more frequent emails at the beginning. 
-                  The first week is daily, the second week is every other day, then every three days.
-                  It settles into a weekly cadence. The length of the course is still being determined,
+                  Starting daily, then every other day, and slowly easing into a weekly cadence.
+                  The length of the course is still being determined,
                   but I'm planning to make it about a ninety day course. 
                 </dd>
 
