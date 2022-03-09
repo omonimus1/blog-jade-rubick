@@ -66,8 +66,8 @@ const ContactPage = props => {
 
         <p>👋 Hi, I'm Jade Rubick.</p>
         
-        <p>I advise 💻 startups and medium sized companies on how people 🧑‍🦰 can coordinate 
-          to create great things together 🚀.</p>
+        <p>I advise 💻 startups and medium sized companies on how to organize people 🧑‍🦰 
+          to build great things together 🚀.</p>
 
         <p>I'm a management and leadership geek 🤓, and love to share what I've learned.
           I see a lot of great management content on the internet 🌐, but much of what I've
@@ -79,17 +79,19 @@ const ContactPage = props => {
           </p>
 
         <p>
-          The most common themes in my writing are the principles behind why we work
-          the way we do, humane management, and product development. But you'll see
+          The most common themes in my writing are principles and constraints that
+          govern how we work together, humane/sustainable management, and 
+          incremental/feedback rich product development. But you'll see
           writing on many topics, including diversity/equity/inclusion, engineering
-          standards, running projects, and communication. </p>
+          standards, running projects, and communication.</p>
 
         <p>I also offer a <b>paid version</b> 💰 of this course. This supports 💚 my
           writing -- the more support I get, the more I'll be able to write. Use your 
           "professional development" budget: pay for it and expense it. I've been so
           thankful 🙏 for the support!
           Although most of the curriculum is the same, the paid version offers additional benefits, such as
-          an optional 1-1 session.</p>
+          an optional 1-1 session. You can read more about the paid courses I 
+          <a href="/courses/"> offer here</a>.</p>
 
           <a href="https://rubick.ck.page/products/engineering-leadership-course" target="_blank">
           <section className="subContainer2">
