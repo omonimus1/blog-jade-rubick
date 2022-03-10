@@ -65,6 +65,8 @@ The next step is to communicate the plan to the whole team. At this point, you h
 
 The most important thing when communicating the plan is to say it is the plan, and that you'd appreciate any feedback on it if people have ways to improve on the plan. 
 
+This may seem like a dangerous thing to do. But people don't like to have things imposed on them. And by following the previous steps, you will be better prepared to respond to any feedback. And they might improve the plan! Be open to changes. 
+
 When you tell people about a change, different people need to hear different things to understand a plan:
 
 1. **Goals**. What are the goals? What do we want to happen?
@@ -73,8 +75,6 @@ When you tell people about a change, different people need to hear different thi
 4. **Roles**. Who will be doing what? What will everyone be responsible for?
 
 You need to communicate all of these things when you communicate a change. 
-
-This may seem like a dangerous thing to do. But people don't like to have things imposed on them. And by following the previous steps, you will be better prepared to respond to any feedback. And they might improve the plan! Be open to changes. 
 
 ## Reducing the cost and fear around changes
 
