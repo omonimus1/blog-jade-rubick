@@ -106,7 +106,8 @@ const CoursePage = props => {
 
                 <dt>Can I sign up for both classes?</dt>
                 <dd>Yes, that should work just fine. The only downside is that you
-                  might receive two email on the same day.  
+                  might receive two email on the same day. There are also a few lessons I've 
+                  included in both courses, so you'll receive a couple of duplicates.
                 </dd>
 
                 <dt>If I pay for the course and don't like it, can I get a refund?</dt>
