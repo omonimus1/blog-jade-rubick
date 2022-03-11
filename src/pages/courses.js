@@ -123,6 +123,15 @@ const CoursePage = props => {
                 <dd>You can reply to any email and I'll read it. I really appreciate feedback!
                 </dd>
 
+                <dt>How relevant is this content for non-engineering managers and leaders?</dt>
+                <dd>The Management bootcamp course is very engineering focused. Ironically, the 
+                  Engineering Leadership course is more mixed. Almost all the content is valuable
+                  to leaders from a design or product management background. Around half of the
+                  content could be valuable outside of a product development organization, for managers 
+                  and leaders from many places. Just keep in mind you may need to adopt the content more
+                  to your local situation. 
+                </dd>
+
               </dl>              
 
               <style jsx>{`
