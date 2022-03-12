@@ -38,7 +38,7 @@ const ContactPage = props => {
                   <input className="formkit-input" name="email_address" aria-label="Email Address" placeholder="Email Address" required="" type="email" />
                 </div>
                                 
-                <button data-element="submit" className="formkit-submit formkit-submit">
+                <button data-element="submit" className="formkit-submit">
               
                   <div className="formkit-spinner">
                     <div></div>
@@ -52,10 +52,20 @@ const ContactPage = props => {
             
               <div className="formkit-disclaimer" data-element="disclaimer">
                 I respect your privacy. Unsubscribe anytime.
-                <br /><br />
-                A <a href="https://rubick.ck.page/products/engineering-leadership-course">paid version</a> of this course, with extra benefits, is available.
               </div>
-            
+
+              <form action="/courses" className="seva-form" method="get" data-sv-form="2891253" data-uid="3978146adc" data-format="inline" data-version="5" min-width="400 500 600 700 800">
+                <div data-element="fields" className="seva-fields formkit-fields">
+                  <button data-element="submit" className="formkit-submit">
+                    <span className="paid-version">Learn about the paid version</span>
+                  </button>
+                </div>
+              </form>
+
+              <div className="formkit-disclaimer" data-element="disclaimer">
+              Two courses to level up your leadership skills. 
+              </div>
+
               <div className="formkit-powered-by-convertkit-container">
               </div>
             </div>
@@ -217,7 +227,6 @@ const ContactPage = props => {
                 .formkit-form[data-uid="3978146adc"] h3{font-size:1.17em;margin:1em 0;}
                 .formkit-form[data-uid="3978146adc"] p{color:inherit;font-size:inherit;font-weight:inherit;}
                 .formkit-form[data-uid="3978146adc"] ol:not([template-default]),.formkit-form[data-uid="3978146adc"] ul:not([template-default]),.formkit-form[data-uid="3978146adc"] blockquote:not([template-default]){text-align:left;}
- 
                 .formkit-form[data-uid="3978146adc"] p:not([template-default]),.formkit-form[data-uid="3978146adc"] hr:not([template-default]),.formkit-form[data-uid="3978146adc"] blockquote:not([template-default]),.formkit-form[data-uid="3978146adc"] ol:not([template-default]),.formkit-form[data-uid="3978146adc"] ul:not([template-default]){color:inherit;font-style:initial;}
                 .formkit-form[data-uid="3978146adc"] .ordered-list,.formkit-form[data-uid="3978146adc"] .unordered-list{list-style-position:outside !important;padding-left:1em;}
                 .formkit-form[data-uid="3978146adc"] .list-item{padding-left:0;}
@@ -235,6 +244,9 @@ const ContactPage = props => {
                   border-bottom-right-radius: 4px;
                   border-bottom-left-radius: 4px;
                   font-weight: 400;
+                }
+                .paid-version {
+                  background-color: rgb(119, 190, 22)
                 }
                 .formkit-input {
                   color: rgb(0, 0, 0); 

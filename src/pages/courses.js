@@ -38,7 +38,7 @@ const CoursePage = props => {
                 </section>
               </a>
 
-              <p>Designed for engineering managers who are just getting started or have some experience. Click above to learn more.</p>
+              <p>Designed for engineering managers who are just getting started or have some experience. Click above to sign up or see the FAQ below.</p>
 
               <p></p>
 
@@ -49,7 +49,7 @@ const CoursePage = props => {
                 </section>
               </a>
 
-              <p>Designed for engineering leaders (product and design leaders may benefit as well). Click above to learn more.</p>
+              <p>A much broader class on engineering leadership (also useful for product and design leaders). Click above to sign up or see the FAQ below.</p>
 
               <h2>About the courses</h2>
 
