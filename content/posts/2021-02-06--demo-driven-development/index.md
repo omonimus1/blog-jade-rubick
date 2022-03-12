@@ -42,20 +42,20 @@ The first thing to do, if you haven’t done it already, is to introduce weekly 
 * Rotate the person doing the demo, and have them demo the work for the team. This helps ensure that everyone gets recognized for the team’s work, and gives engineers practice with the valuable skill of showing their work. You can also have each person demo their own work or the work of the people working on something.
 * The demos can be done in a meeting, or asynchronously recorded and posted in a room in Slack. If you do it asynchronously, copy what I learned from Bjorn Freeman-Benson: ask each team to do a two-minute video. Suggest to people that they ask questions in Slack threads, and use Slack react emoji to cheer on accomplishments. I like to tell people to spend 10 minutes on a 2 minute video, to prevent the recordings from being too large of a time suck to produce. 
 
-Be prepared to tweak the format until it feels good for the people involved. 
+Be prepared to tweak the format until it feels good for the people involved. Here are a few things to be careful of, or that you might want to tweak after you've gotten demos set up:
 
-You can use demos to make teams more customer centric. One thing I like to do after a couple of weeks is to introduce a standard format for the demos:
+**Include all the work**. One thing to be careful of is that the demos are inclusive of all the work required to build functional software. Prepare the team to demo all the parts of their work: the APIs, the infrastructure, the reliability work, and the testing. It's important for you to cheerlead the work that isn't customer facing. 
+
+**Focus on customer**. You can use demos to make teams more customer centric. One thing I like to do after a couple of weeks is to introduce a standard format for the demos:
 
 1. Today, I'm going to demo XYZ.
 2. [Thank anyone that contributed or helped you out]
 3. The reason we're doing this work is... [explain the customer or business value in a couple of sentences]
 4. [Show your work in 2-3 minutes]
 
-One thing to be careful of is that the demos are inclusive of all the work required to build functional software. Prepare the team to demo all the parts of their work: the APIs, the infrastructure, the reliability work, and the testing. It's important for you to cheerlead the work that isn't customer facing. 
+**Use demos to educate**. If you're in an environment where there is less trust, or the leadership doesn't understand how software should be built, you may need to use the demos to educate and give context on the team's work. You absolutely don't want people to feel scared to demo, so don't make it a scary thing to do.
 
-If you're in an environment where there is less trust, or the leadership doesn't understand how software should be built, you may need to use the demos to educate and give context on the team's work. 
-
-When you do have a high trust environment, you can start to nudge the demos to involve a little critique from fellow team members. The ideal is if people are excited about each other's work, and looking for feedback from their teammates. And their teammates are thinking about the customer or business value of the work, and suggesting ways to do it better, or to make it simpler. You want a little of this, not a ton of it, so it can be a delicate balance, and is often something to introduce later.
+**Critique during demos**. When you do have a high trust environment, you can start to nudge the demos to involve a little critique from fellow team members. The ideal is if people are excited about each other's work, and looking for feedback from their teammates. And their teammates are thinking about the customer or business value of the work, and suggesting ways to do it better, or to make it simpler. You want a little of this, not a ton of it, so it can be a delicate balance, and is often something to introduce later.
 
 ## Step 2: What are we going to demo this Friday?
 
