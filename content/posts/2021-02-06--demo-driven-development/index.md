@@ -59,21 +59,35 @@ Be prepared to tweak the format until it feels good for the people involved. Her
 
 ## Step 2: What are we going to demo this Friday?
 
-The next step, once you have demos in place, is to kick off each week with a goal.
+Once you have demos in place, you can use the demos to focus the team's attention each week. Later, we'll show how this also helps with project planning.
 
-The engineering manager and product manager should meet before the sprint kick-off meeting, and have a clear idea of what the goal for the next week or two is.
+### Prep before the sprint kick-off meeting
 
-In the team's week kick-off meeting, the product manager gives some context on where we’re going over the next couple of weeks, and reminds the team of what the value and tradeoffs are in the upcoming work.
+* The engineering manager and product manager meet before the sprint kick-off meeting, and decide on goals for the next couple of weeks. 
 
-Then the [engineering manager](/engineering-manager-vs-tech-lead/) says, “**what should we demo on Friday?**”.
+* You two come up with what a good demo for the next couple of weeks _might_ look like. You may not be sure what is reasonable, but think about the goals you're trying to accomplish, and what might be a good thing to move towards. Keep in mind this is not set in stone. 
 
-The EM and PM should have prepared any bugs or usability issues that need to be addressed that week. They should have a clear idea of what they would like to accomplish during the period. So they briefly show the top couple of items they think might be worth considering for the week. But the main focus for the team is to talk through the demo plans -- what is realistic, and what the demo should look like. 
+* The EM and PM should prepare a list of bugs or usability issues that need to be addressed that week. 
 
-This is an immensely clarifying question. It forces the team to think through the week, the goal they’re working towards, and the concrete outcome they are moving towards. Instead of a bunch of tasks, they’re working towards something, and something meaningful and valuable. 
+### At the sprint kick-off meeting
 
-It’s important for this not to be a commitment, but a reasonable guess. Asking for certainty in a complex environment is asking for hedging, and can backfire. Product development is uncertain, and it has to be safe for teams to miss their goals, as long as they do the work to understand why they missed them. Otherwise, they estimate overly conservatively and act defensive, instead of learning to be more effective. 
+* In the team's weekly kick-off meeting, the product manager gives some context on where we’re going over the next couple of weeks, and reminds the team of what the value and tradeoffs are in the upcoming work.
 
-The team spends the rest of the time in the weekly kickoff meeting talking about how they’ll get this goal accomplished, and break down the high level demo goal into the technical work that needs to happen that week. They talk through how they’ll coordinate their work together, and any decisions or problems they might need to address. Collaboration!
+* You, the [engineering manager](/engineering-manager-vs-tech-lead/) say, “**what should we demo on Friday?**”. Depending on your team, you might be able to leave it at that, and let them come up with the items that meet the goals the PM talked about. Likely, they will need more direction than that. So you can share the things you're thinking the team might work on the next two weeks, and ask them what's reasonable to demo this week. 
+
+* Part of the discussion should be about other work that needs to happen. What bugs and usability issues should be addressed this week. 
+
+* The main focus of discussion, however, should be to talk through the demo plans -- what is realistic, and what the demo should look like. 
+
+* The team spends the rest of the time in the weekly kickoff meeting talking about how they’ll get this goal accomplished, and break down the high level demo goal into the technical work that needs to happen that week. They talk through how they’ll coordinate their work together, and any decisions or problems they might need to address. Collaboration!
+
+### Why "what should we demo on Friday"?
+
+It is a clarifying question. It forces the team to think through the week, the goal they’re working towards, and the concrete outcome they are moving towards. Instead of a bunch of tasks, they’re working towards something, and something meaningful and valuable. 
+
+### Anything to be careful about?
+
+* It’s important for the demo goals to not to be a commitment. They should be a reasonable guess. Asking for certainty in a complex environment is asking for hedging, and will backfire. Product development is uncertain, and it has to be safe for teams to miss their goals, as long as they do the work to understand why they missed them. Otherwise, they estimate overly conservatively and act defensive, instead of learning to be more effective. This also makes the planning meetings lower stakes, which improves feedback and participation.
 
 ## Step 3: Move the team to milestones instead of projects
 
