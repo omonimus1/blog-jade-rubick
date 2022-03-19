@@ -41,7 +41,7 @@ One thing to be careful of politically: you are branded by the work you do, and 
 
 * Whatever your background, it's best to balance your focus, so you’re seen as both delivery focused, and process or culture focused. This is a good way to keep yourself effective and maximize the improvements you can make at your company.
 
-* At startups, the focus is usually on the company's survival. You don’t want your efforts to be seen as competing with the survival of the company (even if the things you're doing make the company better and more attractive to candidates). Delivery will always be the top priority of any engineering department. So having it be an OKR per quarter is a good way to make sure you’re committing to continual progress. I generally advise people to focus on small improvements until the company has achieved product market fit. 
+* At startups, the focus is usually on the company's survival. You don’t want your efforts to be seen as competing with the survival of the company (even if the things you're doing make the company better and more attractive to candidates). Delivery will always be the top priority of any engineering department. So having it be an OKR per quarter is a good way to make sure you’re committing to continual progress. I generally advise people to focus on improvements that don't require a lot of effort until the company has achieved product market fit. 
 
 ## General advice on OKRs
 
