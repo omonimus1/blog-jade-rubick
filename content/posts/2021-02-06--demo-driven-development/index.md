@@ -11,7 +11,7 @@ description: "Demo-driven development is a practice where you use regular demos,
 
 Over the years, I’ve developed a set of practices that I’ve started calling “demo-driven development”. I believe it incentivizes the right things to both improve your planning, and take into account the chaos and change in product development. 
 
-## What is demo-driven developoment?
+## What is demo-driven development?
 
 Demo-driven development is a practice where you use 
 1. regular demos, 
