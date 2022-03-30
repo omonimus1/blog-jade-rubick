@@ -153,13 +153,39 @@ I usually recommend you only do milestone planning, not project planning. If you
 
 ## Step 6: Create technical plans
 
-You should be creating a technical plan. 
+You should have a technical plan for your projects. It can be simple.
 
-The technical lead (or sometimes even better, other engineers on the team, with the technical lead editing and improving) writes down anything interesting about the technical work for this stage of the project (if your projects are months long, do it for milestones in the project). They should call out any technical bets they’re making, or anything new that will require future migration work. And highlight tradeoffs they’re making. If technical shortcuts are being made, they should be exposed and justified. 
+### What should be in the technical plan?
+
+A technical plan does NOT need to be a technical spec. The most important things to surface are things that might affect you in the future. I like to ask people to write briefly about these topics:
+
+* Tradeoffs being made, and why. 
+* Anything new or nonstandard the team is doing. I call these technical bets. It's usually fine to have a bet or two in a project, but a red flag if there are lots of new approaches being done at once.
+* For any new patterns being introduced, will it require the rest of the codebase to be migrated to that pattern, if we like it? (This requires strong justification)
+* Consider adding a section for things that will be hard to change in the future, like APIs or data models.
+* Any known shortcuts we're taking that might cause problems later. 
+
+A technical plan doesn't need to be long. It could even be a few sentences long, if there isn't anything the team is doing that is non-standard or surprising. The more complex the situation, the most the technical plan may need to explain decisions.
+
+### Why create a technical plan?
 
 The technical plan should be a tool for conversation and coordination. It should help people understand and reason about the way technical decisions are made. And they should be shared for others to improve upon. 
 
-The theme for both project plans and technical plans should be: “use the people around you to improve your thinking.”
+The main value of a technical plan is that it surfaces assumptions and decisions that are being made, so people can discuss them. The theme for both project plans and technical plans should be to “use the people around you to improve your thinking.”
+
+The entire world shouldn't be able to weigh in on the technical plans but it should be a way to surface potentially risky decisions and discuss them. 
+
+### Who should create the technical plan?
+
+I like to have a technical lead who is responsible for the technical decision-making of the team. Ideally, they are responsible for the quality of the plan. But they are explicitly not the person writing the plans. Their job is to review it and coach team members. This expands the technical aptitude of the team, making the whole organization scale better.
+
+This requires good judgment. They're ultimately responsible for making sure terrible decisions aren't being made. But they shouldn't be monster about it -- growing their team is an important goal.
+
+### How does a technical plan interact with milestones and projects?
+
+If the project is really long, you can do technical plans a milestone at a time. Sometimes you may also need to do it at the project level. 
+
+### How does the technical plan interact with the project plan?
 
 There is an interplay between these plans. The technical plan surfaces technical tradeoffs and choices. The project plan sequences the work and breaks it down into increments.
 
