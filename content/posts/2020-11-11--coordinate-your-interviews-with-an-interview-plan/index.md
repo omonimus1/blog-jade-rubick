@@ -1,5 +1,5 @@
 ---
-title: Coordinate your interviews with an interview plan
+title: Coordinate your interviews with assertion-based interview plans
 tags: ["interviewing", "hiring"]
 cover: job-interview.jpg
 author: Jade Rubick
@@ -27,7 +27,7 @@ This is problematic in a million ways:
 
 The main problem is that there is no **coordination**. 
 
-## Coordinate your interviews with a plan
+## Coordinate your interviews with assertion-based interview plans
 
 So let me share an interview format I use. 
 
