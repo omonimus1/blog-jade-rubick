@@ -45,6 +45,6 @@ One thing to be careful of politically: you are branded by the work you do, and 
 
 ## General advice on OKRs
 
-See [advice on using goal frameworks](/advice-for-using-goal-framworks/) to see more suggestions on how to use goals to drive the results you're looking for.
+See [advice on using goal frameworks](/advice-for-using-goal-frameworks/) to see more suggestions on how to use goals to drive the results you're looking for.
 
 _Image by <a href="https://pixabay.com/users/geralt-9301/">Gerd Altmann</a> from <a href="https://pixabay.com/">Pixabay</a>_
