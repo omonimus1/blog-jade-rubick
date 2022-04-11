@@ -126,7 +126,7 @@ When people break down a project, they typically break it down into **technical 
 
 You will extract far greater value if you first break projects into a list of **milestones**. A project is a list of one or more milestones. Your high level plan for the project is an ordered list of milestones to deliver. 
 
-This is more valuable because humans can reason about a list of milestones way better than a list of technical tasks. And a list is more fluid. The opposite of that is alist of technical tasks. They will cement your approach and make it a lot of work to change the plan. 
+This is more valuable because humans can reason about a list of milestones way better than a list of technical tasks. And a list is more fluid. The opposite of that is a list of technical tasks. They will cement your approach and make it a lot of work to change the plan. 
 
 User stories, while much better than technical tasks, are also more difficult to reason about, simply because you might have a lot of them. 
 
