@@ -52,7 +52,7 @@ Here's how it works:
 3. If you have any discovery work as part of the project, or the project is subject to change (i.e., most product development work), your detailed breakdown has just become a liability -- you’ve accumulated a huge backlog of tickets that need to be reworked. A splendid waste of time!
 4. Often, this approach is done without discipline behind the breakdown process, so you end up creating the tickets as you go. This results in having no idea how long everything will take, or how well you’re doing. You're damned if you do breakdown, and damned if you don't! Genius!
 5. This approach also can tend to encourage the project manager to focus on “points completed” and mechanical estimates based on the stories in Jira. This works fine if the work is completely broken down, but there are often areas of risk or uncertainty that are not accounted for. Thus it often leads to overconfidence based on false measurements. 
-6. Another common failure is teams just don’t really plan out their work. They don’t think about what can go wrong. They don’t plan for learning. They don’t think through the contours of the project. Very work against the grind of the tickets in Jira.
+6. Another common failure is teams just don’t really plan out their work. They don’t think about what can go wrong. They don’t plan for learning. They don’t think through the contours of the project. They work against the grind of the tickets in Jira.
 
 As you can see, this is a very effective way to demotivate your team. 
 
