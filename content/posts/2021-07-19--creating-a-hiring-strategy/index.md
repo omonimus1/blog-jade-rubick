@@ -11,9 +11,9 @@ description: "Practical questions to guide you to a strong answer to the questio
 
 This is a part of a [series of articles on hiring and recruiting](/startup-hiring-and-recruiting). 
 
-### Creating a hiring strategy
+## Creating a hiring strategy
 
-Why should someone work at your company? Every company answers this question differently. Here are some valid strategies for hiring: 
+Why should someone work at your company? Every company answers this question differently. Here are some valid strategies: 
 
 * We’ll pay the median rate in your area, but we’re investing heavily in making this the place for you to do your best work -- the best work culture. (early days New Relic)
 * We’re working in a compelling technical area, which attracts a lot of talented people, so you can work with a great team and solve interesting problems. Plus we’re making a great people-focused work environment. (Gremlin during my tenure there, also early days New Relic).
@@ -21,11 +21,17 @@ Why should someone work at your company? Every company answers this question dif
 * We’ll pay really well for you to work your ass off, and in return you get a chance to work at a scale you won’t otherwise (Amazon today).
 * We won’t pay you the most, but you’ll get to spend time each week working on open source software (a local software consultancy my friend ran for a while). 
 
+## What your company looks like without a strategy
+
 In practice, when you haven’t done the work to articulate why someone should work there, your hiring strategy looks like this: 
 
 * Work super hard at a stressful startup for low pay and equity that is probably worthless.
 
+## Developing your strategy
+
 This step is to create your hiring strategy. Ask yourself, how are you going to stand out as a place people will want to work? Like any strategy, you should consider what your unique strengths and weaknesses are. 
+
+## Areas to flex in a strategy
 
 Some dimensions you can flex or emphasize to attract candidates:
 
@@ -43,11 +49,15 @@ Some dimensions you can flex or emphasize to attract candidates:
 
 * **Attributes of the team**. What is the team like, and how can you use that to attract the type of people you’d like to come to the company? For example, you might be good at hiring people that are collaborative, and not assholes. You might be in a place with a lot of creative thinkers. 
 
+## What is the pitch?
+
 As you look through these, come up with a one sentence description of why people should join your company.
 
 **You'll know you have a real strategy if it is rational for a certain type of person to select your company over all the other companies out there**. 
 
-Did I miss anything? Please share your favorite ideas with me, I’d love to hear them! 
+## What's your pitch?
+
+Let me know what you come up with!
 
 
 Image by <a href="https://pixabay.com/users/publicdomainpictures-14/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2264">PublicDomainPictures</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2264">Pixabay</a>
