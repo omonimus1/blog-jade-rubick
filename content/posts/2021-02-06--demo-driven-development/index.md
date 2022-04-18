@@ -177,9 +177,14 @@ The entire world shouldn't be able to weigh in on the technical plans but it sho
 
 ### Who should create the technical plan?
 
-I like to have a technical lead who is responsible for the technical decision-making of the team. Ideally, they are responsible for the quality of the plan. But they are explicitly not the person writing the plans. Their job is to review it and coach team members. This expands the technical aptitude of the team, making the whole organization scale better.
+Two approaches I've seen work are:
 
-This requires good judgment. They're ultimately responsible for making sure terrible decisions aren't being made. But they shouldn't be monster about it -- growing their team is an important goal.
+1. Team members write the plan. The Tech Lead reviews and coaches the team to make sure the plan is good. 
+2. A rotating team member writes the plan. Team members review the plan together in some way. 
+
+The first is more explicit about technical leadership roles. The second is more egalitarian. I tend to prefer the first. 
+
+If you do the first approach, you do have to emphasize to the Tech Lead that part of their role is to improve the technical reasoning for all the team members -- they are there to coach team members. And also they are responsible for making sure the decisions aren't terrible. This requires good judgment. 
 
 ### How does a technical plan interact with milestones and projects?
 
