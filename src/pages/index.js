@@ -74,6 +74,10 @@ const ContactPage = props => {
 
         <p></p>
 
+        <div className="darkBackground">Read by leaders from <b>Salesforce</b>, <b>Gitlab</b>, <b>Slack</b>, <b>Netlify</b>, and many other companies.</div>
+
+        <p></p>
+
         <p>👋 Hi, I'm Jade Rubick.</p>
         
         <p>I advise 💻 startups and medium sized companies on how to organize people 🧑‍🦰 
@@ -159,6 +163,13 @@ const ContactPage = props => {
           }
           h4 {
             font-size: ${theme.font.size.m};
+          }
+
+          .darkBackground {
+            color: white;
+            padding: 10px;
+            background-color: black;
+            border-radius: 6px;
           }
 
           .subContainer {
