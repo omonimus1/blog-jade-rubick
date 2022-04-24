@@ -27,7 +27,7 @@ Far too often, this type of transactional approach doesn't really get at the hea
 
 ## When should you engage "upstream thinking"?
 
-We always have to use our best judgment on how to invest our time, but a good rule of thumb is to weigh the costs and benefits of addressing things more deeply, and if you see something more than once, solve them more deeply. 
+We always have to use our best judgment on how to invest our time, but a good rule of thumb is to weigh the costs and benefits of addressing things more deeply. If you see something happen more than a time or two, solve it more thoroughly. 
 
 <img src="https://imgs.xkcd.com/comics/is_it_worth_the_time.png" />
 
@@ -51,5 +51,12 @@ To come up with your own upstream thinking, here are a couple of prompts to ask 
 2. Is there a way I could make the impact of this decrease over time? 
 3. Are there any simple ways I could make this situation go away?
 4. What would happen if we ignored this problem?
+
+## Beware solving everything deeply
+
+Occasionally I see people so in love with upstream thinking that they only embark on huge efforts to solve every problem completely. This is misguided.
+
+For many problems, solving things completely is too large of an investment. It may be fine to solve things incompletely if it requires significantly less effort. 
+
 
 _Image by <a href="https://pixabay.com/users/太上老天狼666-15950197/">德明 胡</a> from <a href="https://pixabay.com/">Pixabay</a>_
