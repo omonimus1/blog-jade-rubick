@@ -25,7 +25,7 @@ Human communication is also serialized. We have to put what is in our minds into
 
 ## Human serialization is lossy, too
 
-Our serialization is lossy -- people listen poorly, or use pre-existing state and biases as they listen. And we similarly are poor at serializing our thoughts to give to other people. The protocols we use for communication are ill-defined, and ambiguous. And just like computer systems, they require a lot of processing power to transfer even simple messages back and forth.
+Our serialization is lossy -- people listen poorly, or use pre-existing state and biases as they listen. We are poor at serializing our thoughts to give to other people. The protocols we use for communication are ill-defined, and ambiguous. And just like computer systems, they require a lot of processing power to transfer even simple messages back and forth.
 
 ## Errors compound the more people you're dealing with
 
