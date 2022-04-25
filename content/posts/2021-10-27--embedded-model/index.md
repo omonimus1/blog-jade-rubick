@@ -9,7 +9,7 @@ description: "Embedded team members report to a central manager, but work on ano
 
 <re-img src="embed.jpg"></re-img>
 
-### What is the embedded model?
+## What is embedding?
 
 Companies need specialists. And specialists often do their work with people outside their department. For example, all these specialties work with software engineers:
 
@@ -27,7 +27,7 @@ One way to structure this relationship is by _embedding_ these experts on teams.
 Sometimes you might embed an expert on several teams. Or you might embed them in an organization. For example, you can embed a QA engineer with a Director. This director will have several teams they support. The QA engineer can then help improve quality across this organization. When doing so, they might focus on the top priority project. Or they might rotate between teams.
 
 
-### When to embed
+## When to embed
 
 * **Embedding can be one of the best coordination models to use.** It is appropriate when you want specialists to collaborate within a team. I like embedding designers, product managers, sometimes SREs, sometimes architects, and sometimes QA. \
 \
@@ -43,7 +43,7 @@ The embedded model scales well with the growth in teams. Each new team gets a ne
 \
 Sometimes specialist teams should grow slower. For example, a security team should grow slower than a proportion to engineering. They won’t achieve this goal with embedding, so other approaches might make better sense. You can still use embedding, but it should be temporary.
 
-### Hints to embedding well
+## How to embed well
 
 * **You may need a central team**. It’s common to need a centralized team even while embedding. This team is usually small. \
 \
@@ -85,7 +85,7 @@ As a manager of an embedded team, make sure you have a way to assess your team m
 \
 When you don't align an embed with an org leader, it can get complicated. When a reorg occurs, you'll have to do your own reorganization. Even if less optimal, keep your organizational design aligned with the embed's organization. I've seen reorganizations with three separate hierarchies. It was a complete mess. 
 
-### Embedded versus other coordination models
+## Embedding versus other coordination models
 
 **Single threaded owner: why embed when you could hire that skill directly on to the team?**
 
@@ -119,15 +119,15 @@ If context is less important, a rotation may be preferable. This doesn’t build
 
 When pairing the embedded model with a small centralized team, it can be useful to have the central team use the [Objective expert model](/objective-expert-model/). A reliability organization might have a central SRE group that is in charge of reporting on reliability for the organization, broken down by team. This can drive a lot of work in other teams. 
 
-### Coordination models
+## Coordination models
 
-Embedded is just one of many [coordination models](/coordination-models/). Coordination models give you a menu of choices to choose from when solving your inter-team coordination issues.
+Embedding is just one of many [coordination models](/coordination-models/). Coordination models give you a menu of choices to choose from when solving your inter-team coordination issues.
 
-### Feedback
+## Feedback
 
 See anything I missed? Disagree with this? Please let me know your thoughts!
 
-### Thank you
+## Thank you
 
 [Gus Shaffer](https://www.linkedin.com/in/gusshaffer/) provided a lot of feedback on an earlier version of this post, and had some good suggestions on how to embed effectively. 
 

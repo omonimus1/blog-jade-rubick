@@ -58,5 +58,4 @@ Occasionally I see people so in love with upstream thinking that they only embar
 
 For many problems, solving things completely is too large of an investment. It may be fine to solve things incompletely if it requires significantly less effort. 
 
-
 _Image by <a href="https://pixabay.com/users/太上老天狼666-15950197/">德明 胡</a> from <a href="https://pixabay.com/">Pixabay</a>_
