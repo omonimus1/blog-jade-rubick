@@ -1,49 +1,55 @@
 ---
-title: Implementing pay equity
+title: A practical guide to implementing pay equity in engineering
 tags: ["diversity-equity-and-inclusion", "company-culture", "pay-equity"]
 cover: equity-2.jpg
 author: Jade Rubick
 discussionId: "implementing-pay-equity"
-description: "Describes the nuts and bolts of how to implement equitable pay (and equitable stock equity) within your organization."
+description: "Describes the nuts and bolts of how to implement equitable pay (and equitable stock equity) within organizations (engineering focused)."
 ---
 
 <re-img src="equity-2.jpg"></re-img>
 
 _This is a part of a series of posts on [improving equity at your company](/equity-benefits-everyone)._
 
-### Pay disparities are an awful experience
+## Pay disparities are an awful experience
 
-A friend of mine became the first woman VP of Engineering at her company. Shortly after her promotion, she opened a position for a Director of Engineering, reporting to her. When she asked HR what to pay this new Director of Engineering, she was horrified to hear their response. They recommended paying this new (white male) director more than her current salary. This position was three pay bands below hers! 
+A friend of mine became the first woman VP of Engineering at her company. We'll call her Graciela. 
 
-Imagine how she felt about the company after that. Almost every person I've talked with from an underrepresented background I've talked with about pay has shared similar stories. 
+After Graciela was promoted from Director 3 to VP of Engineering, she needed to backfill her old position. She opened the position for a Director 1 position (three levels below her new level).
 
-Pay is also a huge source of anxiety and stress for everyone. Most people feel a ton of anxiety around negotiating salary, and feel terrible if they find out other people are getting paid more than them. 
+When they found a person for the role, they were negotiating the salary. Graciela asked People Ops what to offer to the new white guy who would be reporting to her. She was horrified to learn their response. They recommended paying him more than her own salary. Which was three levels above his!
 
-### Pay equity is a way to stand out
+People from underrepresented backgrounds tell stories like this all the time. It can be a source of considerable anxiety. "Am I being paid fairly?" Often, the answer is no. 
 
-Nowadays, people routinely crowd-source salary information. If your salary system isn’t rock-solid, it will burn trust, and your employees will go to better companies. On the other hand, if you want to have people knocking on the door to work at your company, you can implement pay equity. It’s by far the most effective method I’ve seen to encourage a diverse, healthy workplace. 
+People from underrepresented backgrounds also get penalized more for negotiating hard on salary. I've heard stories of people having their offers yanked. This is often bias -- a person from an underrepresented background negotiating harder often comes across as pushy, instead of assertive. 
 
-What is nice about this is that it eliminates a big source of bias. I’ve reviewed the pay of every organization I’ve been a part of, and almost every time, I see evidence of bias. Because there is usually a higher bar for promotions than for giving people raises, you’ll automatically have a more objective, less bias prone system. Eliminating manager pay discretion removes bias.
+Pay is a source of anxiety and stress for many. Most people feel a ton of anxiety around negotiating salary, and feel terrible if they find out other people are getting paid more than them. 
 
-### How pay equity works
+## Pay equity is a way to stand out
+
+Nowadays, people routinely crowd-source salary information. If your salary system isn’t rock-solid, it will burn trust. Your employees will go elsewhere. On the other hand, if you want to have people knocking on the door to work at your company, you can implement pay equity. It’s by far the most effective method I’ve seen to encourage a diverse, healthy workplace. 
+
+What is nice about pay equity is that it eliminates a source of bias. I’ve reviewed the pay of every organization I’ve been a part of, and almost every time, I see evidence of bias. Because there is usually a higher bar for promotions than for giving people raises, you’ll automatically have a more objective, less bias prone system. Eliminating manager discretion on pay removes bias.
+
+## How pay equity works
 
 Most companies have bands for salaries. This allows managers to have discretion on how much of a raise people get, or where in the band people sit. **Pay equity is paying everyone at a certain level the same amount**.
 
-The easiest way to implement this is to set a midpoint of the previous bands, and make that the default salary for that band. Move everyone up to the midpoint if they are below the midpoint (and you can afford it). All future promotions go up to the next midpoint level. 
+The easiest way to implement it is to set a midpoint of the previous bands, and make that the default and only salary for that band. Move everyone up to the midpoint if they are below the midpoint (and you can afford it). All future promotions go up to the next midpoint level. 
 
 Depending on where your company is at, it may be as easy as that (although there are some complications, see below). 
 
 If you have a newer engineering organization, you may not have pay scales, or standard engineering levels. You can do this in stages (one per quarter if you want!). Here are the stages: 
 
-### Q1: Create engineering levels. 
+## Q1: Create engineering levels. 
 
 1. There are a [lot of examples](https://www.progression.fyi/) to steal from, such as the [Rent the Runway engineering levels](https://dresscode.renttherunway.com/blog/ladder). [Carta](https://medium.com/building-carta/engineering-levels-at-carta-d33db2a55a20) does a nice job of explaining the philosophy of their engineering levels. 
-2. I typically go with four titles: Software Engineer, Senior Software Engineer, Staff Software Engineer, and Principal Software Engineer. And then we made 3 levels within each, 1, 2, and 3. So a level might be something like Senior Software Engineer 2. One piece of advice: only go as high as you need to. If you don't have anyone you consider Principal, or Staff, leave those for later. 
-3. Start using these for your new hires. 
+2. I typically go with four titles: Software Engineer, Senior Software Engineer, Staff Software Engineer, and Principal Software Engineer. And then make 3 levels within each, 1, 2, and 3. So a level might be something like Senior Software Engineer 2. One piece of advice: only go as high as you need to. If you don't have anyone you consider Principal, or Staff, leave those for later. 
+3. Use these levels during hiring, to test out your levels, and improve them.
 4. Map your existing team to the levels. Don’t worry about salary yet -- just focus on where they belong in the levels. You can start off doing this secretly, to test out your levels and improve them. Then finalize it and publish them, and tell everyone what level they are.
 5. Start using them during promotions, to make things more objective. 
 
-### Q2: Create standard salaries for each level. 
+## Q2: Create standard salaries for each level. 
 
 1. For each engineering level, you’ll need to determine a salary. Work with HR to develop these. First start by looking at where you’ve placed people, and what their current salaries are. HR may have a salary tool you can use. In my experience, these tools are still sources of bias, because you can fiddle with the tool until you get the results you want. But they can be useful to baseline. 
 2. Make sure you have a way to update the salary over time. You have to maintain this over time, so you need to have an ability to update compensation periodically (once a year is fine).
@@ -58,13 +64,17 @@ If you have a newer engineering organization, you may not have pay scales, or st
     3. The best example of this I’ve seen is from Daryl Allen’s writeup on the [“implied value” method for equity distribution](https://darylll.medium.com/how-to-measure-option-grants-implied-value-method-bbca1a05add7).
 9. Communicate extensively and exhaustively about this with the team. Everyone needs to understand the motivations for the changes, and how it works. 
 
-### Q3: Define a promotion process and evaluate people periodically.
+## Q3: Define a promotion process and evaluate people periodically.
 
 1. I’m not going to go into details of how that should work here, but may post about it later.
 2. Just make sure you promote people into the standard mid-point for the higher each time. 
 3. One complication you may find is that some people are paid so well with the old screwed up system that they wouldn’t get a salary bump at all. I’ve usually resolved that by giving them a much smaller salary bump, but still giving them something. Generally, there is enough of a mess in your salary tables that your goal should be to make it equitable as quickly as you can, over time, and for all new people. 
 
-### Obstacles and issues implementing pay equity:  
+## Q4: Add pay transparency
+
+1. If you have some confidence in your pay system, you can now add pay transparency. Publish your salary tables, and an explanation of how the system works. You could even publish everyone's level and salary. Make sure you have a way to note people who are high because of historical reasons or mistakes. 
+
+## Obstacles and issues implementing pay equity:  
 
 **Pay equity ties your hands for negotiation during hiring**. Candidates don’t expect a system like this. They will try to negotiate salary. The way to work around that is to be really upfront with people about the hiring process and how pay works at your company. At Gremlin we’ve put it in our candidate packet, so people know about it during the hiring process (this can also be a chance to explain what’s great about your company, and the philosophy behind these choices). People are often relieved or impressed when they find that they don’t have to worry about being paid fairly. 
 
@@ -84,8 +94,8 @@ A better approach is to use your rejected offers as a signal. If you start seein
 
 If you have experience implementing pay equity, please [reach out to me](/contact), as I'm interested in networking with other individuals who have experience with it. I'm also available to [help organizations that want to make these changes](/about), as an advisor.
 
-### Thank you
+## Thank you
 
-Thank you to Mike Cen (mcen on Rands) for suggesting the importance of communication, making sure you have a process for compensation updates, and leaving levels empty. 
+Thank you to Mike Cen (mcen on Rands) for suggesting the importance of communication, making sure you have a process for compensation updates, and leaving levels empty. Thank you to my friend for sharing her story. And thanks to the leaders who made pay equity possible at companies I worked at before. I don't really know who to most credit there.
 
 _Image credit: [Workandpix](https://pixabay.com/users/wokandapix-614097/)_
