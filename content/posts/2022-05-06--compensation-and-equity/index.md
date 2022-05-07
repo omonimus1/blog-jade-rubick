@@ -43,8 +43,16 @@ Your homework is to figure out how your company's system works.
 Companies have to make a philosophical choice in how they pay. They can choose:
 
 * **Geo-blind**. Pay the same amount without regard to location. Note this does NOT mean everyone gets the same salary, because taxes and expenses will vary based on location. Some people could end up getting twice the take-home pay! 
+
+<re-img src="geo-blind.png"></re-img>
+
 * **Geo-balanced**. Pay so that everyone receives the same amount, regardless of where they live. This means the company will pay very different amounts for each employee. For example, costs in one country in Europe can be twice what they are in another country.  
+
+<re-img src="geo-balanced.png"></re-img>
+
 * **Geo-based**. The pay is adjusted based on what compensation people are getting in that location. People in San Francisco get paid more than people in Kansas or Poland. 
+
+<re-img src="geo-adjustment.png"></re-img>
 
 Each of these has tradeoffs:
 
@@ -85,6 +93,8 @@ Most companies have engineering "ladders". They describe the difference between 
 Companies do this for a number of reasons. What you're probably familiar with is their use to help guide career discussions. And to attempt to create an objective standard you can make promotion decisions around.
 
 What you may not realize is that companies use these ladders for another purpose. They use them to determine salary. You may think, "of course they do". But there are companies out there that provide salary information. By creating a ladder, and defining what is in that ladder, your HR people can match up your company's levels to what is done for the whole industry. 
+
+<re-img src="levels-not-equal.png"></re-img>
 
 This is complicated, because engineering titles are not equivalent across companies. A senior engineer at Company X does not equal senior engineer at Company Y. So these companies have detailed ways you can map your titles to theirs.
 
