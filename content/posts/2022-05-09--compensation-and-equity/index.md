@@ -104,6 +104,26 @@ When salaries are rising quickly, these tools tend to lag. This can affect your 
 
 Larger companies will have a dedicated compensation person. Their job is to determine compensation for all the roles in the company.
 
+## Pay tradeoffs
+
+Compensation is a set of tradeoffs that companies make. They have to juggle business needs, market conditions, the employee experience, and growth and performance management. 
+
+For example, a company can offer a higher salary, but not promote its employees as quickly. Or it can choose to give more money for promotions, but not be able to hire as many people. 
+
+And, of course, each company chooses what budget to make available for hiring and promotions.
+
+These factors are invisible to most people. But they explain why you see things like a low promotion budget, but rapid hiring. They're optimizing to bring more people in. But trading that off against future employee turnover.  
+
+## Pay percentiles
+
+Companies generally target a "percentile" when choosing what salary to pay. 
+
+So you might hear a People Ops person say something like, "we target the eightieth percentile for salaries". 
+
+What this means is that in each market you're competing in, you'll use data to determine the salary ranges. You'll use the distribution of salaries to determine what to set the salaries you offer.
+
+For companies that are not geo-based, this means you're competing in a global market. Many geo-blind and geo-balanced companies don't attempt to compete in expensive markets like San Francisco, because that means they're paying a very high rate for employees everywhere. 
+
 ## Equity
 
 The definitive guide to equity compensation is the [Holloway Guide to Equity Compensation](https://www.holloway.com/g/equity-compensation). I recommend you read it carefully. 
@@ -150,6 +170,10 @@ Look for edge case scenarios
 ## What do you do now?
 
 Once you've done the compensation review, you'll probably notice a few things that seem off. Your next job is to dig into that. Are there legitimate reasons for those anomolies? Or are they something that needs to be fixed? Make these changes as quickly as possible.
+
+## Thank you
+
+I'd like to thank [Zen Mak](https://www.linkedin.com/in/zenmak/) (founder and CEO of [RallyWorks](https://www.rallyworks.com)) for her feedback on this post. 
 
 
 Image by <a href="https://pixabay.com/users/nattanan23-6312362/">Nattanan Kanchanaprat</a> from <a href="https://pixabay.com/">Pixabay</a>
