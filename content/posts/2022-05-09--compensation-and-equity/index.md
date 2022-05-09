@@ -16,27 +16,34 @@ Today we're going to do a whirlwind tour of compensation. Hopefully you'll learn
 * The largest expense for engineering organizations is usually salary. 
 * Salary is mostly determined by supply and demand. Engineers are fortunate to be an industry with high demand. Companies have to compete based on salary and benefits in order to hire good engineers. 
 
-## Structured pay or no?
-Some companies use structured pay. Structured pay is pay determined by a formula. 
+## Structured pay and "pay equity"
 
-* Pay can be based on the employee level, or other factors, but it is computed.
-* Some companies have structured pay -- many do not. 
-* Structured pay tends to be less biased, but also less flexible. 
+Some companies use structured pay. Structured pay is when there is a "system" for determining pay:
 
-Companies that have structured pay tend to emphasize fairness and equity. They tend to attract underrepresented employees better. Why? It is a signal that the company tries to pay people in a less biased fashion. Companies that have implemented "[pay equity](/implementing-pay-equity/)" usually use structured pay to accomplish that. 
+* Pay can be based on the employee level, tenure, specialty, or other factors. 
+* Most companies have structured pay -- some do not. 
 
-As a manager, you need to know whether your company uses structured pay or not. 
+Structured pay is a spectrum. Most companies end up having some sort of system for pay. 
 
-## Non-structured pay options
+Companies that emphasize fairness and equity also will often implement a more extreme version of structured pay: "[pay equity](/implementing-pay-equity/)": 
 
-If the company doesn't use structured pay, then you have to figure out how it works. Here are a couple of variants I've seen:
+* Pay equity truly uses a formula to determine salary. 
+* The formula can be based on years experience, or engineering level, or other factors. But it's determined by a formula. 
+* Pay equity is less biased, but also less flexible. 
+* Companies that implement pay equity tend to attract underrepresented employees better. Why? It is a signal that the company tries to pay people in a less biased fashion. 
+
+As a manager, you need to know how pay works. 
+
+## Non-pay equity pay options
+
+If the company hasn't implemented pay equity, then you have to figure out how it works. Here are a couple of variants I've seen:
 
 * **Manager discretion**. Managers have discretion to set pay, based on a budget they can use. 
 * **Manager proposed**. Managers propose pay increases, which are approved by their managers or some group.
 * **Directors or VPs set pay**, with input from managers. Using a budget.
 * **Cost of replacement**. Compensation increases can be justified based on proving you could make more by going elsewhere. This perversely incentivizes people interviewing outside the company. Netflix is famous for this approach.
 
-Your homework is to figure out how your company's system works. 
+Your homework is to figure out how your company's system works. Is it structured? Is there a formula for how salaries are computed? Do you have salary ranges? 
 
 ## Geo-based compensation
 
@@ -72,6 +79,8 @@ Because of these factors, an employee moving to a new location can be a "problem
 
 Generally, companies will be willing to incur the overhead for existing employees, but there are times companies will cut ties with an employee rather than deal with additional legal requirements.
 
+Note that the differences between locales is very different between regions within a country, and between countries. The burden of dealing with international relocation, visas, and taxes can be so large that many companies will not bother to address them. 
+
 ## Budgets and pay
 
 Finance usually provides a budget to each department. Depending on the size of your company, you may or may not have much interaction with the budget. But even if you don't know it's there, the budget is a hidden force that drives a lot of decisions. 
@@ -88,7 +97,7 @@ One thing to be aware of is that saving money somewhere can often justify spendi
 
 ## How companies determine compensation
 
-Most companies have engineering "ladders". They describe the difference between a Software Engineer and a Senior Software engineer. And they outline the criteria for advancement between these levels.
+Most companies have engineering "ladders". They describe the difference between a Software Engineer and a Senior Software Engineer. And they outline the criteria for advancement between these levels.
 
 Companies do this for a number of reasons. What you're probably familiar with is their use to help guide career discussions. And to attempt to create an objective standard you can make promotion decisions around.
 
@@ -98,21 +107,9 @@ What you may not realize is that companies use these ladders for another purpose
 
 This is complicated, because engineering titles are not equivalent across companies. A senior engineer at Company X does not equal senior engineer at Company Y. So these companies have detailed ways you can map your titles to theirs.
 
-Many companies also use salary tools, which attempt to compute a salary based on a job description and a bunch of keywords. These tools are imperfect, and usually the person operating the tool will massage things until they get the results they're looking for. But that's how it's done at many companies.
-
-When salaries are rising quickly, these tools tend to lag. This can affect your job as hiring manager, because the rates that HR will give you may not be competitive. Understanding the system behind it will help you understand why they're doing it that way. 
+Many companies also use salary tools, which attempt to compute a salary based on a job description and a bunch of keywords. These tools aren't perfect, but they are an attempt to use data to make sure compensation is fair. 
 
 Larger companies will have a dedicated compensation person. Their job is to determine compensation for all the roles in the company.
-
-## Pay tradeoffs
-
-Compensation is a set of tradeoffs that companies make. They have to juggle business needs, market conditions, the employee experience, and growth and performance management. 
-
-For example, a company can offer a higher salary, but not promote its employees as quickly. Or it can choose to give more money for promotions, but not be able to hire as many people. 
-
-And, of course, each company chooses what budget to make available for hiring and promotions.
-
-These factors are invisible to most people. But they explain why you see things like a low promotion budget, but rapid hiring. They're optimizing to bring more people in. But trading that off against future employee turnover.  
 
 ## Pay percentiles
 
@@ -123,6 +120,16 @@ So you might hear a People Ops person say something like, "we target the eightie
 What this means is that in each market you're competing in, you'll use data to determine the salary ranges. You'll use the distribution of salaries to determine what to set the salaries you offer.
 
 For companies that are not geo-based, this means you're competing in a global market. Many geo-blind and geo-balanced companies don't attempt to compete in expensive markets like San Francisco, because that means they're paying a very high rate for employees everywhere. 
+
+## Pay tradeoffs
+
+Compensation is a set of tradeoffs that companies make. They have to juggle business needs, market conditions, the employee experience, and growth and performance management. 
+
+For example, a company can offer a higher salary, but not promote its employees as quickly. Or it can choose to give more money for promotions, but not be able to hire as many people. 
+
+And, of course, each company chooses what budget to make available for hiring and promotions.
+
+These factors are invisible to most people. But they explain why you see things like a low promotion budget, but rapid hiring. They're optimizing to bring more people in. But trading that off against future employee turnover.  
 
 ## Equity
 
@@ -135,6 +142,7 @@ A couple of things to remember:
 * For startups, the value of a share of stock changes over time (hopefully it rises). When the company is younger, equity will be "inexpensive". As the company succeeds, the value of the company will increase, so each share will have a higher value. 
 * It's inexpensive early on, because it's risky. 
 * Because of this, earlier stage employees get more equity. This reflects the additional risk they take on joining a company. Many companies don't make it, so the earlier you join, the higher the risk. Also the higher the reward.
+* The typical pattern for startups is for early employees to have lower salaries, but lots of equity. The discounted salary is somewhat offset by the large equity grant. As the companies grows, they usually correct these discounts as options vest.
 * To make it more confusing, companies also issue different types of equity. ISOs, NSOs, RSAs, and RSUs are all different. 
 * So comparing equity becomes complicated quickly.
 
@@ -173,7 +181,7 @@ Once you've done the compensation review, you'll probably notice a few things th
 
 ## Thank you
 
-I'd like to thank [Zen Mak](https://www.linkedin.com/in/zenmak/) (founder and CEO of [RallyWorks](https://www.rallyworks.com)) for her feedback on this post. 
+I'd like to thank [Zen Mak](https://www.linkedin.com/in/zenmak/) (founder and CEO of [RallyWorks](https://www.rallyworks.com)) for her feedback on this post. And I'd also like to thank [Bailey Douglass](https://www.linkedin.com/in/baileydouglass/) (founder and CEO of Second Principles). Bailey is working with companies _for free_ to come up with policies to support medical travel for team members who need it in light of the Roe v Wade leak. Bailey gave a ton of feedback on this post, and helped improve it significantly. 
 
 
 Image by <a href="https://pixabay.com/users/nattanan23-6312362/">Nattanan Kanchanaprat</a> from <a href="https://pixabay.com/">Pixabay</a>
