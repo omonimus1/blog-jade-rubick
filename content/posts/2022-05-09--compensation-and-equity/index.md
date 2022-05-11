@@ -4,7 +4,7 @@ tags: ["diversity-equity-and-inclusion", "hiring", "pay-equity", "promotions"]
 cover: comp.jpg
 author: Jade Rubick
 discussionId: "compensation-equity"
-description: "How managers can make changes that people will embrace."
+description: "Understanding how companies go about figuring out compensation. And an exercise to do for your team."
 ---
 
 Today we're going to do a whirlwind tour of compensation. Hopefully you'll learn a bit along the way. And I'll share an exercise for managers, called a compensation review.  
