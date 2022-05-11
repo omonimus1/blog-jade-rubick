@@ -174,6 +174,7 @@ Look for edge case scenarios
 * If they were rehired into their position, would they get a raise?
 * If they were rehired into their position today, would they have more unvested equity?
 * Do a pass for fairness. Is everyone being paid fairly for their level? 
+* Are there any salaries that seem higher than they should be? If so, have you seen any patterns behind this, like the recruiters or hiring managers? Or when they were hired?
 
 ## What do you do now?
 
@@ -181,7 +182,7 @@ Once you've done the compensation review, you'll probably notice a few things th
 
 ## Thank you
 
-I'd like to thank [Zen Mak](https://www.linkedin.com/in/zenmak/) (founder and CEO of [RallyWorks](https://www.rallyworks.com)) for her feedback on this post. And I'd also like to thank [Bailey Douglass](https://www.linkedin.com/in/baileydouglass/) (founder and CEO of Second Principles). Bailey is working with companies _for free_ to come up with policies to support medical travel for team members who need it in light of the Roe v Wade leak. Bailey gave a ton of feedback on this post, and helped improve it significantly. 
+I'd like to thank [Zen Mak](https://www.linkedin.com/in/zenmak/) (founder and CEO of [RallyWorks](https://www.rallyworks.com)) for her feedback on this post. And I'd also like to thank [Bailey Douglass](https://www.linkedin.com/in/baileydouglass/) (founder and CEO of Second Principles). Bailey is working with companies _for free_ to come up with policies to support medical travel for team members who need it in light of the Roe v Wade leak. Bailey gave a ton of feedback on this post, and helped improve it significantly. [Darin Swanson](https://www.linkedin.com/in/darinswanson/) helped improve the edge cases to look out for. 
 
 
 Image by <a href="https://pixabay.com/users/nattanan23-6312362/">Nattanan Kanchanaprat</a> from <a href="https://pixabay.com/">Pixabay</a>
