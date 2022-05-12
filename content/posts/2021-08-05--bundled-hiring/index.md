@@ -34,7 +34,7 @@ Becomes
 
 At New Relic, we ran an analysis of our hiring process, and found that the biggest driver of "time to hire" was spent in getting the job written, posted, and finding the initial candidates for that position. 
 
-When you bundle up a similar positions, all the sudden you have an "always on" queue of candidates. When a new position is opened, it already has a queue of candidates you can choose from. This is how I was able to fill that position so quickly. It wasn't always this quick, but it dramatically shortened the time it took to fill positions.
+When you bundle up similar positions, you have an "always on" queue of candidates. When a new position is opened, it already has a queue of candidates you can choose from. This is how I was able to fill that position so quickly. It wasn't always this quick, but it dramatically shortened the time it took to fill positions.
 
 ### Bundled hiring can improve the candidate experience
 
