@@ -32,7 +32,7 @@ The most important thing is that it should be easy to review during the meeting 
 1. Invite managers to a promotion review meeting. The form of this varies a lot between companies. But the idea is to have a place where managers come together and review all the promotion decisions. I usually devote about 3-5 minutes per promotion pitch. 
 2. Invite HR and an observer from outside your organization. Ask them to be on the lookout for bias. (This is just an extra practice that helps). 
 3. During your promotion review meetings, update the spreadsheet in real-time.
-4. Review it during the meeting, and definitely before finalizing the promotions. Ask the review team: what patterns are we seeing in the promotions we’re making? Is there any evidence of bias? What changes might we consider to reduce bias? Have an open discussion about it.
+4. Review it during the meeting, and definitely before finalizing the promotions. Have everyone look at it! Ask the review team: what patterns are we seeing in the promotions we’re making? Is there any evidence of bias? What changes might we consider to reduce bias? Have an open discussion about it.
 
 ## Why this works
 
