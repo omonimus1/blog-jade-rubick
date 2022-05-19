@@ -138,7 +138,7 @@ Cons:
 
 ### Developing an agile feature and release management process
 
-SCRUM is defined by [PCMag](http://www.pcmag.com/encyclopedia_term/0,2542,t=Scrum&i=50946,00.asp) as follows:
+SCRUM is defined by PCMag (link to original source broken) as follows:
 
 [SCRUM is] an agile software development methodology developed by Ken Schwaber and Jeff Sutherland in the mid-1990s. Scrum is based on a "Sprint," which is a 30-day period for delivering a working part of the system. Each Sprint starts with a two to three-hour planning session that includes the customer (product owner), the facilitator (Scrummaster) and the cross-functional team. The customer describes the highest priority in the backlog, and after the team agrees on how much of it to do, it is left alone to do it. To keep the team synchronized, there is a 15-minute meeting every day. At the end of the Sprint, the results are delivered and reviewed, and the next Sprint is started.At United eWay, we have integrated SCRUM deeply into the whole organization, not just into our developmental practices. This has resulted in a number of insights into ways we could more effectively share the workload and specialize between teams.
 

@@ -104,7 +104,7 @@ If you get a “looks great, go for it,” then you know you’ve done Completed
 
 ## What’s better than Completed Staff Work?
 
-When I started as a manager, my colleagues recommended a book called _[Turn the Ship Around: A True Story of Turning Followers Into Leaders](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404)_. It tells the story of the [USS Santa Fe](https://en.wikipedia.org/wiki/USS_Santa_Fe_(SSN-763)), a submarine with one of the poorest performing crews in the fleet. [Captain David Marquet](http://www.davidmarquet.com/OurStory.html) switched the ship’s culture from the leader telling people what to do, to individuals sharing their thinking and making decisions themselves.
+When I started as a manager, my colleagues recommended a book called _[Turn the Ship Around: A True Story of Turning Followers Into Leaders](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404)_. It tells the story of the [USS Santa Fe](https://en.wikipedia.org/wiki/USS_Santa_Fe_(SSN-763)), a submarine with one of the poorest performing crews in the fleet. [Captain David Marquet](https://davidmarquet.com/my-story/) switched the ship’s culture from the leader telling people what to do, to individuals sharing their thinking and making decisions themselves.
 
 Marquet points the way to something even better than Completed Staff Work. He does this by describing a progression in how people talk, from being a follower to being a leader:
 
