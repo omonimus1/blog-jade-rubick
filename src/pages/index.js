@@ -23,11 +23,11 @@ const ContactPage = props => {
             <div data-element="column" className="formkit-background"></div>
             <div data-element="column" className="formkit-column">
               <div className="formkit-header" data-element="header">
-                <h2>Want to be a more effective startup leader?</h2>
+                <h2>Want to be a more effective engineering leader?</h2>
               </div>
 
               <div className="subText">
-                Every week, you'll get an email that will challenge your thinking and provide new approaches to leadership. 
+                Every week, you'll get an email that will challenge your thinking and provide new approaches to leadership. Also useful for product and design leaders! 
               </div>
 
               <ul className="formkit-alert formkit-alert-error" data-element="errors" data-group="alert"></ul>
@@ -51,19 +51,20 @@ const ContactPage = props => {
               </div>
             
               <div className="formkit-disclaimer" data-element="disclaimer">
-                I respect your privacy. Unsubscribe anytime.
+                The course is free. I respect your privacy. Unsubscribe anytime.
               </div>
 
               <form action="/courses" className="seva-form" method="get" data-sv-form="2891253" data-uid="3978146adc" data-format="inline" data-version="5" min-width="400 500 600 700 800">
                 <div data-element="fields" className="seva-fields formkit-fields">
                   <button data-element="submit" className="formkit-submit">
-                    <span className="paid-version">Learn about the paid version</span>
+                    <span className="paid-version">Learn about the two paid courses</span>
                   </button>
                 </div>
               </form>
 
               <div className="formkit-disclaimer" data-element="disclaimer">
-              Two courses to level up your leadership skills. 
+              I offer a paid version of the engineering leadership course, and a 
+              frontline management bootcamp course. 
               </div>
 
               <div className="formkit-powered-by-convertkit-container">

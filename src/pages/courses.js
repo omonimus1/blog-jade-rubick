@@ -29,27 +29,30 @@ const CoursePage = props => {
                 <Headline title="Learn to build humane, effective engineering organizations" theme={theme} />
               </header>
 
-              <p>I offer a couple of courses on engineering leadership</p>
+              <p>I offer a couple of courses on leadership:</p>
 
               <a href="https://rubick.ck.page/products/management-bootcamp" target="_blank">
                 <section className="subContainer2">
                   <span className="subIcon"><FaSeedling /></span>
-                  <span className="subText">Engineering management bootcamp</span>
+                  <span className="subText">Frontline management bootcamp</span>
                 </section>
               </a>
 
-              <p>Designed for engineering managers who are just getting started or have some experience. Click above to sign up or see the FAQ below.</p>
+              <p>This is a paid course. Designed for engineering managers who are just 
+                getting started or have some experience. Click above to sign up or see the FAQ below.</p>
 
               <p></p>
 
               <a href="https://rubick.ck.page/products/engineering-leadership-course" target="_blank">
                 <section className="subContainer2">
                   <span className="subIcon"><FaUserPlus /></span>
-                  <span className="subText">Engineering leadership paid course</span>
+                  <span className="subText">Engineering leadership</span>
                 </section>
               </a>
 
-              <p>A much broader class on engineering leadership (also useful for product and design leaders). Click above to sign up or see the FAQ below.</p>
+              <p>This is offered as a paid or <a href="/">free</a> course. It is a class that covers a wide
+                range of topics for engineering, product, and design leaders. Click above to sign up or 
+                see the FAQ below.</p>
 
               <h2>About the courses</h2>
 
