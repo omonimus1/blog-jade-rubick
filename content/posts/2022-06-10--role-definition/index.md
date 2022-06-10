@@ -1,6 +1,6 @@
 ---
 title: Can this ownership exercise improve how you work with others?
-tags: []
+tags: ["scaling", "onboarding", "roles"]
 cover: role-definition.jpg
 author: Jade Rubick
 discussionId: "role-definition"
