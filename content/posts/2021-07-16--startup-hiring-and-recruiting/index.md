@@ -101,6 +101,14 @@ There is even a product that helps [automate the process of finding candidates f
 
 For this to work, you have to be *extremely* careful with consent and how you use people's network. When I've done it, I got consent for the phrasing of the message I would send people. And I took notes for each potential candidate on how to contact them. 
 
+## Make a list of people who are impossible hires
+
+Because companies approach hiring as a transaction, they neglect courting people who might be harder to convince. Sometimes these hires can be incredibly important.
+
+Make a list of people who in a dream world would work at your company. Periodically review that list, and ask yourself, "is there a way I could make it a rational choice for them to work here?". Reach out to the them and extend an invitation. And importantly, treat it like a real relationship -- don't just send them a form letter. 
+
+The important thing with this approach is you need to invest time, and you need to handle it respectfully and strategically. 
+
 ## Work well with your recruiters
 
 If you use recruiters, invest some time in making sure they understand what you’re looking for. Talk through how the whole process will work, and make sure you’re on the same page about expectations. You can make them much more effective by walking them through how to know if someone is a good fit or not. A strong partnership with your recruiters can streamline everything, get you higher quality candidates, and, if they’re organized, they might even be able to help manage parts of the process for you.
@@ -128,5 +136,9 @@ Learn more about [bundled hiring](/bundled-hiring) and how it can improve your h
 The more you view your hiring process as a continually improving thing, the more these things will reinforce each other and combine to give you an advantage when looking for candidates. It can feel really good to see this in action. I often have received thank you emails from candidates (that I turned down), talking about what a great experience they had. 
 
 Did I miss anything? Please share your favorite ideas with me, I’d love to hear them! 
+
+## Thank you
+
+I learned the impossible hires approach from Alex Kroman. 
 
 Image by <a href="https://pixabay.com/users/katielwhite91-5572368/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4009327">Katie White</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=4009327">Pixabay</a>
