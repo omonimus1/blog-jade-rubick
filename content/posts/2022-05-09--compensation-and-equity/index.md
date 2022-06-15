@@ -53,7 +53,7 @@ Companies have to make a philosophical choice in how they pay. They can choose:
 
 <re-img src="geo-blind.png"></re-img>
 
-* **Geo-balanced**. Pay so that everyone receives the same amount, regardless of where they live. This means the company will pay very different amounts for each employee. For example, costs in one country in Europe can be twice what they are in another country.  
+* **Geo-balanced**. Pay so that everyone receives the same amount, regardless of where they live. This means the company will pay very different amounts for each employee. Gergely Orosz [documents how the cost can vary by the employer by 13-42%](https://twitter.com/GergelyOrosz/status/1520025987425218562)!  
 
 <re-img src="geo-balanced.png"></re-img>
 
@@ -182,7 +182,7 @@ Once you've done the compensation review, you'll probably notice a few things th
 
 ## Thank you
 
-I'd like to thank [Zen Mak](https://www.linkedin.com/in/zenmak/) (founder and CEO of [RallyWorks](https://www.rallyworks.com)) for her feedback on this post. And I'd also like to thank [Bailey Douglass](https://www.linkedin.com/in/baileydouglass/) (founder and CEO of Second Principles). Bailey is working with companies _for free_ to come up with policies to support medical travel for team members who need it in light of the Roe v Wade leak. Bailey gave a ton of feedback on this post, and helped improve it significantly. [Darin Swanson](https://www.linkedin.com/in/darinswanson/) helped improve the edge cases to look out for. 
+I'd like to thank [Zen Mak](https://www.linkedin.com/in/zenmak/) (founder and CEO of [RallyWorks](https://www.rallyworks.com)) for her feedback on this post. And I'd also like to thank [Bailey Douglass](https://www.linkedin.com/in/baileydouglass/) (founder and CEO of Second Principles). Bailey is working with companies _for free_ to come up with policies to support medical travel for team members who need it in light of the Roe v Wade leak. Bailey gave a ton of feedback on this post, and helped improve it significantly. [Darin Swanson](https://www.linkedin.com/in/darinswanson/) helped improve the edge cases to look out for. [Gergely Orosz](https://newsletter.pragmaticengineer.com) has tweeted and written a lot of useful content on this topic, and is a good person to follow for content on salaries and other topics. 
 
 
 Image by <a href="https://pixabay.com/users/nattanan23-6312362/">Nattanan Kanchanaprat</a> from <a href="https://pixabay.com/">Pixabay</a>
