@@ -17,7 +17,7 @@ The idea of the Single Threaded Owner comes from [Amazon](https://www.amazon.com
 
 ![STO hierarchy diagram](sto-hierarchy.png)
 
-The most common alternative to the STO model is what I call the “3 legged stool” model. In the [3 legged stool model](https://christineying.com/2014/10/23/three-legged-stool/), you have separate leadership hierarchies for Engineering, Product, and Design. Design sometimes reports to Product. But you then assemble a team of engineers, led by an Engineering Manager, with an [embedded](/embedded-model/) Product Manager and usually a Designer. The two or three of them become a sort of local leadership team. 
+The most common alternative to the STO model is what I call the triad, or “3 legged stool” model. In the [3 legged stool model](https://christineying.com/2014/10/23/three-legged-stool/), you have separate leadership hierarchies for Engineering, Product, and Design. Design sometimes reports to Product. But you then assemble a team of engineers, led by an Engineering Manager, with an [embedded](/embedded-model/) Product Manager and usually a Designer. The two or three of them become a sort of local leadership team. 
 
 ![three legged stool diagram](three-leg-stool.png)
 
