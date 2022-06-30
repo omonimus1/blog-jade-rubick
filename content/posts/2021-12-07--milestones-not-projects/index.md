@@ -390,13 +390,15 @@ You will often need project level plans as well as milestone plans. For example,
 
 Sometimes, you will need project level planning. For example, you might have something that will be due at a conference. For a time like that, you may need to do estimation for several upcoming milestones, and manage the risks of these upcoming milestones. Even in this case, milestones can be useful, because they can give you an early warning if you’re off course. 
 
-### Conclusion
+### Final thoughts
+
+The other thing you can focus on instead of projects is outcomes. I’m in favor of this, but it is a more difficult change to put in place, so I consider it to be a more advanced technique. For companies that are used to projects, moving to milestones isn’t a huge change. Moving to outcomes may be ultimately better, but it’s harder to do. 
+
+Sometimes you are working within an organization where projects are the unit of work, and you won't be able to change that easily. In that case, I recommend still working with milestones, but to pretend each milestone is a separate project. Or alternatively, you can just use milestones within your team and communicate the larger project externally.
 
 As always, I love to receive feedback on my writing. Let me know what you think – what resonates, what you have doubts about. And certainly let me know about your experiences implementing milestones. 
 
 And if you’re interested in receiving future posts, please [subscribe](/subscribe/). 
-
-As an aside, the other thing you can focus on instead of projects is outcomes. I’m in favor of this, but it is a more difficult change to put in place, so I consider it to be a more advanced technique. For companies that are used to projects, moving to milestones isn’t a huge change. Moving to outcomes may be ultimately better, but it’s harder to do. 
 
 ### Why listen to me on projects?
 
