@@ -34,7 +34,7 @@ Companies that emphasize fairness and equity also will often implement a more ex
 
 As a manager, you need to know how pay works. 
 
-## Non-pay equity pay options
+## Common pay methods (when you don't have pay equity)
 
 If the company hasn't implemented pay equity, then you have to figure out how it works. Here are a couple of variants I've seen:
 
@@ -51,15 +51,15 @@ Companies have to make a philosophical choice in how they pay. They can choose:
 
 * **Geo-blind**. Pay the same amount without regard to location. Note this does NOT mean everyone gets the same salary, because taxes and expenses will vary based on location. Some people could end up getting twice the take-home pay! 
 
-<re-img src="geo-blind.png"></re-img>
+<re-img src="geo-blind.png" width="50%"></re-img>
 
 * **Geo-balanced**. Pay so that everyone receives the same amount, regardless of where they live. This means the company will pay very different amounts for each employee. Gergely Orosz [documents how the cost can vary by the employer by 13-42%](https://twitter.com/GergelyOrosz/status/1520025987425218562)!  
 
-<re-img src="geo-balanced.png"></re-img>
+<re-img src="geo-balanced.png" width="50%"></re-img>
 
 * **Geo-based**. The pay is adjusted based on what compensation people are getting in that location. People in San Francisco get paid more than people in Kansas or Poland. 
 
-<re-img src="geo-adjustment.png"></re-img>
+<re-img src="geo-adjustment.png" width="50%"></re-img>
 
 Each of these has tradeoffs:
 
@@ -103,7 +103,7 @@ Companies do this for a number of reasons. What you're probably familiar with is
 
 What you may not realize is that companies use these ladders for another purpose. They use them to determine salary. You may think, "of course they do". But there are companies out there that provide salary information. By creating a ladder, and defining what is in that ladder, your HR people can match up your company's levels to what is done for the whole industry. 
 
-<re-img src="levels-not-equal.png"></re-img>
+<re-img src="levels-not-equal.png" width="50%"></re-img>
 
 This is complicated, because engineering titles are not equivalent across companies. A senior engineer at Company X does not equal senior engineer at Company Y. So these companies have detailed ways you can map your titles to theirs.
 
