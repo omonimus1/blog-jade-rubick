@@ -23,7 +23,7 @@ Many startups start out with a tech lead model. It’s fine for the early stages
 * People management suffers, because the Tech Lead has so many responsibilities. And they’re often not an Engineering Manager by training. 
 * Process suffers, because the Tech Lead has so many responsibilities. And they’re often not an Engineering Manager by training.
 * Project management suffers, because the Tech Lead has so many responsibilities. And they may not have experience with project management.
-* The Technical Lead oversees the quality of the team’s technical work. They help their team get better at technical thinking. They ensure the team's technical plans are well reasoned and future-proof. 
+* The [Technical Lead](https://blog.get-merit.com/the-role-of-the-tech-lead/) oversees the quality of the team’s technical work. They help their team get better at technical thinking. They ensure the team's technical plans are well reasoned and future-proof. 
 * The Product Manager talks with customers and integrates feedback from many sources. They prioritize the team's work. They also make sure the team has context so they can build high value software.
 
 
