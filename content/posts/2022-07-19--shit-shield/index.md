@@ -29,8 +29,7 @@ Also, most people find their first exposure to management politics to be painful
 
 There is some value in shielding your team. In some organizations, it may even be necessary. Dysfunction is common! You’ll find it everywhere you go. 
 
-Hear my argument on why protecting your team is not a useful way to position yourself. 
-
+So why isn't positioning yourself as a shit shield a good idea?
 
 ## Protection sets up an adversarial relationship
 
