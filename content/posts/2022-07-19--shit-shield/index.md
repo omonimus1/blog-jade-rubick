@@ -21,8 +21,9 @@ If you’re a new manager, you may be stepping out of an individual contributor 
 
 You may hear phrases like, “[you can be a shit shield, or a shit funnel](https://techcrunch.com/2010/03/14/key-to-gmail/)”. The virtuous answer to that phrase is to say, of course, I’ll be a shit shield. It sounds like an honorable thing to do. And it seems like it will make your team successful.
 
-Also, most people find their first exposure to management politics to be painful. My first thought was, “oh my god, has this been going on all the time?” It’s easy to come to the conclusion that protecting your team from that mess is desirable. You may see that as a large part of your role. 
+<re-img src="good-person.png" width="40%"></re-img>
 
+Also, most people find their first exposure to management politics to be painful. My first thought was, “oh my god, has this been going on all the time?” It’s easy to come to the conclusion that protecting your team from that mess is desirable. You may see that as a large part of your role. 
 
 ## Sometimes it is necessary
 
@@ -37,6 +38,8 @@ When you’re focused on protecting your team, you’re setting up the rest of t
 
 This can prevent you from being effective. Sometimes, the solutions to your team’s problems will come from collaboration. Sometimes, the solution requires structural changes. People won’t see you as a person to engage with that type of work if they see you being defensive all the time. 
 
+<re-img src="stay-back.png" width="40%"></re-img>
+
 This can leak into how your team behaves. The team can begin to see the world as "us versus them". I often see these teams look down on sales or support. 
 
 Adversarial relationships tend to propagate dysfunction. Look for better options.
@@ -44,6 +47,8 @@ Adversarial relationships tend to propagate dysfunction. Look for better options
 ## You’re focusing on a local maximum, not a global maximum
 
 An organization composed of self-protecting teams isn’t an effective organization. They are all focused on their own needs, but there isn’t an ability to fix problems that are larger than the team level. 
+
+<re-img src="teams.png" width="40%"></re-img>
 
 For example, you may run into a problem where support is sending you too many tickets. Instead of focusing on your team’s needs, it’s preferable to look at the larger picture. Work together with the support person, and identify what is better for both of you. You might ask these questions:
 
@@ -54,8 +59,6 @@ For example, you may run into a problem where support is sending you too many ti
 
 This meeting will result in better outcomes. A “shielder” would take a different approach:
 
-
-
 * Tell the support leader to send less tickets.
 * Or tell the support leader you’re not going to work on many of those tickets.
 
@@ -63,10 +66,11 @@ This is inadequate, and results in more dysfunction.
 
 You shouldn’t compromise on your team’s needs, but see it within a larger ecosystem. This raises your effectiveness as a leader, because you’re solving larger macro-problems, rather than just the issues within your team. 
 
-
 ## You need many management tools, not one
 
 Protecting a team is one of many tools you need in your management toolkit. 
+
+<re-img src="hammer.png" width="40%"></re-img>
 
 For example, let’s say there is some conflict over the product strategy. You could try to shield the team from the messy conversations. Or you could take the approach of an <span style="text-decoration:underline;">interpreter</span>: explain the situation to them so they understand what is going on. 
 
