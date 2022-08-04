@@ -180,11 +180,10 @@ Look for edge case scenarios
 
 If you're in a position where you need to determine salaries for engineering, here is my advice:
 
-1. Talk with PeopleOps. They'll probably have access to a tool like [Radford](https://radford.aon.com/products/surveys) or [OptionImpact/Pave](https://www.pave.com). 
-2. You can sometimes get salary information from your investors, if you're a startup.
-3. You can look up salary info in [levels.fyi](https://levels.fyi). Keep in mind they list total compensation, and break out salary. 
-
-Then read my post on [implementing pay equity](/implementing-pay-equity/). It lays out how to gradually role out a pay scale, along with promotion criteria. And it links to my favorite article on how to compute equity and equity refreshes.
+1. First, read my post on [implementing pay equity](/implementing-pay-equity/). It lays out how to gradually role out a pay scale, along with promotion criteria. And it links to my favorite article on how to compute equity and equity refreshes.
+2. To get an idea of salaries, talk with PeopleOps. They'll probably have access to a tool like [Radford](https://radford.aon.com/products/surveys) or [OptionImpact/Pave](https://www.pave.com). 
+3. You can sometimes get salary information from your investors, if you're a startup.
+4. You can look up salary info in [levels.fyi](https://levels.fyi). Keep in mind they list total compensation, and break out salary. 
 
 ## What do you do now?
 
