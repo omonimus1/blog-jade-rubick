@@ -176,13 +176,23 @@ Look for edge case scenarios
 * Do a pass for fairness. Is everyone being paid fairly for their level? 
 * Are there any salaries that seem higher than they should be? If so, have you seen any patterns behind this, like the recruiters or hiring managers? Or when they were hired?
 
+## What do I do if I need to determine salaries?
+
+If you're in a position where you need to determine salaries for engineering, here is my advice:
+
+1. Talk with PeopleOps. They'll probably have access to a tool like [Radford](https://radford.aon.com/products/surveys) or [OptionImpact/Pave](https://www.pave.com). 
+2. You can sometimes get salary information from your investors, if you're a startup.
+3. You can look up salary info in [levels.fyi](https://levels.fyi). Keep in mind they list total compensation, and break out salary. 
+
+Then read my post on [implementing pay equity](/implementing-pay-equity/). It lays out how to gradually role out a pay scale, along with promotion criteria. And it links to my favorite article on how to compute equity and equity refreshes.
+
 ## What do you do now?
 
 Once you've done the compensation review, you'll probably notice a few things that seem off. Your next job is to dig into that. Are there legitimate reasons for those anomolies? Or are they something that needs to be fixed? Make these changes as quickly as possible.
 
 ## Thank you
 
-I'd like to thank [Zen Mak](https://www.linkedin.com/in/zenmak/) (founder and CEO of [RallyWorks](https://www.rallyworks.com)) for her feedback on this post. And I'd also like to thank [Bailey Douglass](https://www.linkedin.com/in/baileydouglass/) (founder and CEO of Second Principles). Bailey is working with companies _for free_ to come up with policies to support medical travel for team members who need it in light of the Roe v Wade leak. Bailey gave a ton of feedback on this post, and helped improve it significantly. [Darin Swanson](https://www.linkedin.com/in/darinswanson/) helped improve the edge cases to look out for. [Gergely Orosz](https://newsletter.pragmaticengineer.com) has tweeted and written a lot of useful content on this topic, and is a good person to follow for content on salaries and other topics. 
+I'd like to thank [Zen Mak](https://www.linkedin.com/in/zenmak/) (founder and CEO of [RallyWorks](https://www.rallyworks.com)) for her feedback on this post. And I'd also like to thank [Bailey Douglass](https://www.linkedin.com/in/baileydouglass/) (founder and CEO of Second Principles). Bailey is working with companies _for free_ to come up with policies to support medical travel for abortion, transition, and other purposes. Bailey gave a ton of feedback on this post, and helped improve it significantly. [Darin Swanson](https://www.linkedin.com/in/darinswanson/) helped improve the edge cases to look out for. [Gergely Orosz](https://newsletter.pragmaticengineer.com) has tweeted and written a lot of useful content on this topic, and is a good person to follow for content on salaries and other topics. 
 
 
 Image by <a href="https://pixabay.com/users/nattanan23-6312362/">Nattanan Kanchanaprat</a> from <a href="https://pixabay.com/">Pixabay</a>
