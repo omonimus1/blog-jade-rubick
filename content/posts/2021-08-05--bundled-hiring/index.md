@@ -92,13 +92,13 @@ Bundled hiring makes sense once you start seeing duplication in the roles you're
 
 * We never found a way to do this with specialized positions. In general, think of this as supplementing your usual approach. 
 
-* One concern people had about this process was that the candidate wouldn’t have the experience of knowing which team they would be on. Usually we would narrow it down to the team or teams they would be eligible for, and then let the candidate choose. We typically would have the hiring manager interview the person as a final interview. That helped ensure there was a good mutual match.
+* One concern people had about this process was that the candidate wouldn’t have the experience of knowing which team they would be on. People care about the team they are on and want to learn about that team. This is especially true of underrepresented groups, because you want to know what you're signing up for -- who your coworkers and manager will be. The way we handled this was to narrow it down to the team or teams the candidate was eligible for, and then let the candidate choose. We would typically have the hiring manager for that team interview the person as the final interview. This helped ensure there was a good mutual match.
 
 ### What do you think?
 
 Did I miss anything? Do you have experience with bundled hiring elesewhere? I'd love to hear your thoughts or your experiences as you implement bundled hiring.  
 
 
-Thank you to [Darin Swanson](https://www.linkedin.com/in/darinswanson/) for feedback and detail on how the bundled hires were run. Thank you to Amjith Ramanujam for the helpful suggestion to provide an early example of what bundled hiring is. [Matt LeBeau](https://www.linkedin.com/in/matt-lebeau-1652bb4/) shared his experience with me and pointed out some ways it hadn't worked well and the need for strong process management. [Beth Klem](https://www.linkedin.com/in/bethklem/) had good questions about the candidate experience that helped me improve that seciton. 
+Thank you to [Darin Swanson](https://www.linkedin.com/in/darinswanson/) for feedback and detail on how the bundled hires were run. Thank you to Amjith Ramanujam for the helpful suggestion to provide an early example of what bundled hiring is. [Matt LeBeau](https://www.linkedin.com/in/matt-lebeau-1652bb4/) shared his experience with me and pointed out some ways it hadn't worked well and the need for strong process management. [Beth Klem](https://www.linkedin.com/in/bethklem/) had good questions about the candidate experience that helped me improve that section. [Julie Pagano](https://juliepagano.com) had great feedback on the importance of knowing your team.  
 
 Image by <a href="https://pixabay.com/users/12019-12019/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=230112">David Mark</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=230112">Pixabay</a>
