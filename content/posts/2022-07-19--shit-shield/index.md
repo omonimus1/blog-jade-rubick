@@ -19,11 +19,11 @@ This is a mistake. I’ve interviewed hundreds of managers in my career. Usually
 
 If you’re a new manager, you may be stepping out of an individual contributor role. This makes you biased towards your old needs. And you are unaware of the new skills you may need to master. 
 
-You may hear phrases like, “[you can be a shit shield, or a shit funnel](https://techcrunch.com/2010/03/14/key-to-gmail/)”. The virtuous answer to that phrase is to say, of course, I’ll be a shit shield. It sounds like an honorable thing to do. And it seems like it will make your team successful.
+You'll hear phrases like, “[you can be a shit shield, or a shit funnel](https://techcrunch.com/2010/03/14/key-to-gmail/)”. The response to that seems obvious: "be the shit shield". It sounds honorable. And you don't want to expose your team to dysfunction, right?
 
 <re-img src="good-person.png" width="40%"></re-img>
 
-Also, most people find their first exposure to management politics to be painful. My first thought was, “oh my god, has this been going on all the time?” It’s easy to come to the conclusion that protecting your team from that mess is desirable. You may see that as a large part of your role. 
+Most people find their first exposure to management politics to be painful. My first thought was, “oh my god, has this been going on all the time?” It’s easy to come to the conclusion that protecting your team from that mess is desirable. You may see that as a large part of your role. 
 
 ## Sometimes it is necessary
 
