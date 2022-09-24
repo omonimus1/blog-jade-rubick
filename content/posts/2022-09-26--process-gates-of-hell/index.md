@@ -33,11 +33,15 @@ The issues with process gates are many:
 
 One of the dangers of process gates is that they’re difficult to remove. Because they’re usually done as a response to something bad happening, removing them feels scary. Removing a process gate is usually seen as reintroducing the original pain. So they persist, and tend to cause subtle damage over time. 
 
+<re-img src="eternal-gate.png" width="50%"></re-img>
+
 ### Process gates increase cycle time, and that is very bad
 
 Most engineering organizations focus on speed, but they should be focused on cycle time. Cycle time is the primary indicator of how successful your engineering organization will be. Or at least this is true for 99% of modern software-based product development. 
 
 This is an important concept, so if you don’t believe this already, please read my post on this topic: [What can air combat can teach us about software project failure](https://www.rubick.com/engineering-leaders-should-obsess-over-feedback-loops/)?
+
+<re-img src="gate-of-slowing.png" width="50%"></re-img>
 
 The reason process gates increase cycle time is that they’re adding steps to a process. Mathematically, there is no way they cannot increase cycle time. So what that means in practice is, they do something like the following:
 
@@ -55,6 +59,8 @@ Another way process gates increase cycle time is that they often increase the am
 When cycle time increases, the predictable result is that batch size increases. So this also means you have larger chunks of work moving through the system, instead of smaller chunks of work. This decreases the flow of your overall product development, and results in lower quality, less responsive work overall. 
 
 So the thing you’re trying to do (improve quality, for example), _tends to actually get worse_ as a result of adding a process gate for quality. 
+
+<re-img src="death-spiral.png" width="50%"></re-img>
 
 There can also be [moral hazard](https://en.wikipedia.org/wiki/Moral_hazard) issues with process gates. If the development team is handing off their work for testing, then they are less on the hook for quality themselves. Again, this can result in things backfiring, and actually getting worse instead of better.
 
@@ -82,9 +88,11 @@ Also note that it is temporary in nature. Over the course of time, this process 
 
 And also note that this process gate is helping this team focus its efforts in reducing cycle time. So it’s counterbalancing a lot of the disadvantages of typical process gates. So this is a nice example of how to do it right.
 
+<re-img src="narrow-gates.png" width="50%"></re-img>
+
 You can also focus on making your process gate very narrowly scoped. If you have a high number of problematic PRs getting merged, you might want to have all PRs go through a set of experienced reviewers, for example. You can flip it around so it’s much more narrowly scoped: people go through a probationary period for a few months where other people review their PRs, and then they graduate to being able to merge them for peers. 
 
-You can also make the process gates more narrowly scoped. For example, you have people tag their PR based on the risk level that it will cause problems. High risk PRs can be reviewed by the most experienced team members. One of the advantages of doing this narrow scoping is that you avoid _some_ of the problems with process gates. If the most experienced team members have to review everything, they’ll be overwhelmed and everything will take much longer. If it’s narrowly scoped, they’ll have less overall burden, so the increase in cycle time will be more modest. 
+For example, you have people tag their PR based on the risk level that it will cause problems. High risk PRs can be reviewed by the most experienced team members. One of the advantages of doing this narrow scoping is that you avoid _some_ of the problems with process gates. If the most experienced team members have to review everything, they’ll be overwhelmed and everything will take much longer. If it’s narrowly scoped, they’ll have less overall burden, so the increase in cycle time will be more modest. 
 
 A common way to scope down a process gate for PRs, for example, is for changes that involve a database migration to receive more scrutiny, because they can be more devastating when things go wrong.
 
@@ -92,11 +100,15 @@ A common way to scope down a process gate for PRs, for example, is for changes t
 
 One of the better ways to avoid process gates is to use alerting or automation instead of process gates.
 
+<re-img src="alert-automation.png" width="40%"></re-img>
+
 So instead of reviewing PRs for their impact on infrastructure costs, alert when the infrastructure costs spike. Run automated QA tests to make sure functionality isn’t breaking, instead of having a human do it. It can be helpful to consider: “how could I alert on this instead of have an extra step for it”.
 
 ### Use non-gated checks
 
 Automation and alerting are two ways to make your checks non-gated. Non-gated checking is when the checks happen, but in a way that doesn’t block things from moving forward. 
+
+<re-img src="non-gate.png" width="60%"></re-img>
 
 For example, a security team might do automated security checks in production, instead of adding a step before things go out to production. This is a non-gated check. If the security checks find a problem, you can quickly roll things back to a safe checkpoint. Or have a well defined way to quickly resolve the issue within a certain SLA. 
 
@@ -105,6 +117,8 @@ The challenge with non-gated checks is that they work best when you have low cyc
 ### Do it in the same cycle
 
 Another way to avoid process gates is to do it in at the same time as other work. So you can have a QA person that works side by side with engineering, instead of reviewing their work afterwards. You can have an SRE that is working like any other member of the team, but has the expertise on operational matters. Having them work side by side, they can often respond to requests quickly, or even be pairing on the same part of the code together. Embedding expertise so that the work is done side by side is often an effective way around process gates. 
+
+<re-img src="do-it-together.png" width="50%"></re-img>
 
 This type of working together at the same time is something that takes a while to get right. You’ll face resistance and it won’t feel natural at first. But it’s a competency worth building. Have your designers and QA and ops people working more closely with your engineering team. You may be surprised at the results!
 
@@ -117,6 +131,8 @@ Finally, process gates are usually a response to failure. Something bad happens,
 This can be the result of a culture where mistakes and quality problems are to avoided. Sometimes, I’ve found that it can be useful in these cases to try and embrace the failure, because the avoidance is part of the problem. 
 
 So when you encounter a problem, try to approach it with curiosity instead of blame. Why did this happen? Is it likely to happen again? How bad is it really? 
+
+<re-img src="learn-from-failure.png" width="50%"></re-img>
 
 Try to dig in and see if there are ways you can make this class of problem less prominent that don’t require process gates. Is it training for this individual? Is it better observability? 
 
