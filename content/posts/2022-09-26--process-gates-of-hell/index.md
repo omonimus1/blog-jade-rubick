@@ -108,7 +108,7 @@ So instead of reviewing PRs for their impact on infrastructure costs, alert when
 
 Automation and alerting are two ways to make your checks non-gated. Non-gated checking is when the checks happen, but in a way that doesn’t block things from moving forward. 
 
-<re-img src="non-gate.png" width="60%"></re-img>
+<re-img src="non-gate.png" width="80%"></re-img>
 
 For example, a security team might do automated security checks in production, instead of adding a step before things go out to production. This is a non-gated check. If the security checks find a problem, you can quickly roll things back to a safe checkpoint. Or have a well defined way to quickly resolve the issue within a certain SLA. 
 
