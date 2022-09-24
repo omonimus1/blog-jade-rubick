@@ -4,7 +4,7 @@ tags: ["delivery", "scaling", "change-management", "design", "velocity", "comple
 cover: process-gates.jpg
 author: Jade Rubick
 discussionId: "process-gates"
-description: "Describes the trap of process gates, a common management trap. Managers use them to fix situations, but they often have the opposite of intended effect. Describes alternatives to process gates."
+description: "Describes the process gates, a common management trap. Managers use them to fix situations, but they often have the opposite of intended effect. Describes alternatives to process gates."
 ---
 
 Today, I’d like to talk about a common mistake leaders make. Let’s see if you can spot the pattern:
@@ -111,6 +111,8 @@ Automation and alerting are two ways to make your checks non-gated. Non-gated ch
 <re-img src="non-gate.png" width="80%"></re-img>
 
 For example, a security team might do automated security checks in production, instead of adding a step before things go out to production. This is a non-gated check. If the security checks find a problem, you can quickly roll things back to a safe checkpoint. Or have a well defined way to quickly resolve the issue within a certain SLA. 
+
+This is basically pipelining, and it's why our computers are so fast. 
 
 The challenge with non-gated checks is that they work best when you have low cycle times in your engineering organization. A team that can notice a significant problem and push out a fix within a few hours can use non-gated checks much easier than a team that takes a few weeks to push out a change. So moving to this tends to go hand in hand with other efforts to reduce cycle time.
 
