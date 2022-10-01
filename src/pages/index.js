@@ -8,7 +8,7 @@ import Seo from "../components/Seo";
 import { FaUserPlus, FaRss, FaTwitter, FaLinkedin } from "react-icons/fa";
 
 
-const ContactPage = props => {
+const IndexPage = props => {
 
   return (
     <React.Fragment>
@@ -477,7 +477,7 @@ const ContactPage = props => {
   );
 };
 
-ContactPage.propTypes = {
+IndexPage.propTypes = {
 };
 
-export default ContactPage;
+export default IndexPage;
