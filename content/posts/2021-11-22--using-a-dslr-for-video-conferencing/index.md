@@ -41,7 +41,7 @@ And this is the view from the Sony a6000.
 
 ![Sony SLR webcam](sony.png)
 
-I do some comparisons below to the Lumina webcam as well, and added what it looks like now that I've added a lens.
+I do some comparisons below to the Lumina webcam as well, and added what it looks like now that I've added a third-party lens.
 
 ## Choosing a camera
 
@@ -113,13 +113,13 @@ A pop filter reduces extra noises on high quality microphones. They’re easy to
 
 In December 2021, I purchased a [Lumina webcam](https://getlumina.com). It has a great form factor, and I love that it's USB-C. It also attaches nicely to the monitor. The dream is that it would offer the same quality as a DSLR -- then you wouldn't need the expensive DSLR, the mount, the capture device. And it would just plug in to your computer. The Lumina even features a nice little privacy cap.
 
-The Lumina is a very fine device, but it's not for me. It doesn't have the same detail and quality of the DSLR. 
+The Lumina is a very fine device, but it's not for me. It doesn't have the same detail and quality of the DSLR. Note this part of the review was done before I purchased a higher speed lens, which lets in more light. So the photos are darker for the DSLR images.
 
 I set it up in the evening. Sometimes I start work in when it's still dark out, so this is a realistic situation for me. Here's the Lumina device:
 
 ![Lumina at night](lumina-night-w-light.png)
 
-Here's my DSLR:
+Here's my DSLR (note this is before I got a lens that lets in more light):
 
 ![Sony at night](sony-night-w-light.png)
 
@@ -137,11 +137,33 @@ So that doesn't really help. Maybe it's being over-sensitive to my bright lighti
 
 ![Lumina during the day, plus mode, without light](lumina-plus-without-lights.png)
 
-But I still prefer my Sony a6000 DSLR setup. Here's the Sony view, With light: 
+But I still prefer my Sony a6000 DSLR setup. Here's the Sony view, with light: 
 
 ![Sony DSLR, during the day, with light](sony-day.png)
 
-When there is better ambient light, it looks even better. It does make me think it might be worth investing in a higher speed lens, as the Lumina is a picking up a lot more light from the environment. I like that companies like Lumina are starting to produce webcams that are intended to compete with DSLR setups. But they still have a lot of work ahead of them. Still, for people that don't want to hassle with a DSLR setup, the Lumina is a decent option. I will be returning the Lumina. 
+When there is better ambient light, it looks even better. It also looks way better today, now that I've invested in a high speed lens. 
+
+I like that companies like Lumina are starting to produce webcams that are intended to compete with DSLR setups. But they still have a lot of work ahead of them. Still, for people that don't want to hassle with a DSLR setup, the Lumina is a decent option. I will be returning the Lumina. 
+
+Note that after I wrote this review, I was contacted by Lumina, and they said their software had been updated and they offered to send me another one to review. So in October, 2022, I retested everything. 
+
+This comparison now includes the Sony with an upgraded camera lens vs the newer Lumina. As far as I can tell, the only difference in the Lumina is the software has changed. 
+
+Here's the Lumina. Note the image is less detailed. But it does look pretty good. 
+![Lumina camera image October 2022](lumina-oct22.png)
+
+The Sony looks much sharper. The light balance looks better (I fiddled endlessly to try and get the Lumina to look similar).
+![Sony w Meike lens October 2022](sony-oct22.png)
+
+The Lumina has a "cameraman" feature which will track your face if you move around, but it reduces image quality by about 10% and it's pretty unacceptable quality. I found manually zooming in to be best. 
+
+The Lumina also currently doesn't work in Google Meet on Safari. This is due to a [framework Apple is updating to work with third-party cameras](https://support.getlumina.com/hc/en-us/articles/4428425348239-What-apps-are-compatible-with-Lumina-Plus-). Well, strictly speaking, it works, but it doesn't do any software manipulation of the image, so you get a poor quality video feed.
+
+I like that the Lumina has its own microphone. I've had lots of sound issues with Google Meet, so tried out the Lumina in the hope it would improve things. I didn't test the sound much, because the image quality was a dealbreaker for me, and I use Safari. 
+
+The software still feels a little beta quality to me. Needs a little design refinement, but the capabilities of the webcam are quite nice, and you can get a pretty good quality webcam feed from it. 
+
+All in all, I think Lumina is filling a nice niche. It won't replace the DSLR for me, but it's a decent webcam. 
 
 ## Upgrading the camera lens
 
