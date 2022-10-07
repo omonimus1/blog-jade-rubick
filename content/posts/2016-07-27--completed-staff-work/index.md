@@ -106,7 +106,7 @@ If you get a “looks great, go for it,” then you know you’ve done Completed
 
 When I started as a manager, my colleagues recommended a book called _[Turn the Ship Around: A True Story of Turning Followers Into Leaders](https://www.amazon.com/Turn-Ship-Around-Turning-Followers/dp/1591846404)_. It tells the story of the [USS Santa Fe](https://en.wikipedia.org/wiki/USS_Santa_Fe_(SSN-763)), a submarine with one of the poorest performing crews in the fleet. [Captain David Marquet](https://davidmarquet.com/my-story/) switched the ship’s culture from the leader telling people what to do, to individuals sharing their thinking and making decisions themselves.
 
-Marquet points the way to something even better than Completed Staff Work. He does this by describing a progression in how people talk, from being a follower to being a leader:
+Marquet points the way to something even better than Completed Staff Work. He does this by describing a progression in how people talk, from being a follower to being a leader (he calls it the "ladder of leadership"):
 
 * Tell me what to do
 * I think…
@@ -124,4 +124,4 @@ On the other hand, situations in which you aren’t able to give the go-ahead re
 
 I hope you find Completed Staff Work as useful as I have. I welcome your feedback.
 
-I'd like to thank [Merlyn Albery-Speyer](https://github.com/curious-attempt-bunny) for extensive feedback and suggestions to improve this post. Photo by <a href="https://freeimages.com/photographer/yankleber-44845">Yan Moura</a> from <a href="https://freeimages.com/">FreeImages</a>
+I'd like to thank [Merlyn Albery-Speyer](https://github.com/curious-attempt-bunny) for extensive feedback and suggestions to improve this post. [Caleb Huitt](https://www.linkedin.com/in/cjhuitt/) helped me locate the Ladder of Leadership source after I'd forgotten it. Photo by <a href="https://freeimages.com/photographer/yankleber-44845">Yan Moura</a> from <a href="https://freeimages.com/">FreeImages</a>
